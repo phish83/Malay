@@ -1,0 +1,44 @@
+{
+    "emotions": [
+        {
+            "emotion": "Joy",
+            "description": "A feeling of great pleasure and happiness"
+        },
+        {
+            "emotion": "Sadness",
+            "description": "Feeling or showing sorrow or grief"
+        },
+        {
+            "emotion": "Anger",
+            "description": "A strong feeling of annoyance, displeasure, or hostility"
+        },
+        {
+            "emotion": "Fear",
+            "description": "An unpleasant emotion caused by the belief that someone or something is dangerous"
+        },
+        {
+            "emotion": "Surprise",
+            "description": "A feeling of mild astonishment or shock caused by something unexpected"
+        },
+        {
+            "emotion": "Trust",
+            "description": "Firm belief in the reliability, truth, ability, or strength of someone or something"
+        },
+        {
+            "emotion": "Anticipation",
+            "description": "A feeling of excitement about something that is going to happen"
+        },
+        {
+            "emotion": "Disgust",
+            "description": "A feeling of revulsion or strong disapproval"
+        },
+        {
+            "emotion": "Love",
+            "description": "An intense feeling of deep affection or attachment"
+        },
+        {
+            "emotion": "Guilt",
+            "description": "A feeling of having done wrong or failed in an obligation"
+        }
+    ]
+}
