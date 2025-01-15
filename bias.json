@@ -1,0 +1,947 @@
+[
+    {
+        "Name":"Availability Heuristics",
+        "definition":"The availability heuristic is a mental shortcut where we judge how likely something is to happen based on how easily we can remember similar events. It's also called availability bias because it depends on the information that is most readily available in our memory",
+        "example":"After seeing several news reports about plane crashes, you might overestimate the likelihood of dying in a plane crash."
+    },
+    {
+        "Name":"Attentional Bias",
+        "definition":"Attention bias means that we tend to focus more on certain things while ignoring others.",
+        "example":"Imagine you're considering buying a red car. Suddenly, you start noticing red cars everywhere. It's not that there are more red cars on the road, but your focus on them makes you more aware of their presence."
+    },
+    {
+        "Name":"Illusory Truth Effect",
+        "definition":"The illusory truth effect occurs when we start believing a false or misleading claim as true after hearing it multiple times. This can happen even if the claim seems unlikely or goes against what we already know.",
+        "example":"For instance, if you repeatedly hear that \"drinking coffee stunts your growth,\" you might start believing it to be true, even if there's no scientific evidence supporting this claim."
+    },
+    {
+        "Name":"Mere Exposure Effect",
+        "definition":"The mere exposure effect is a psychological phenomenon where people tend to prefer things simply because they are familiar with them. It's also called the familiarity principle.",
+        "example":"You start hearing a new song on the radio that you initially don't like. After hearing it several times, you find yourself humming along and eventually start to enjoy it."
+    },
+    {
+        "Name":"Context Effect",
+        "definition":"Context effect refers to how our environment influences how we perceive things. It also describes how the content of earlier questions can affect how people respond to later questions in surveys.",
+        "example":"Judging someone's height based on who they are standing next to, making them appear taller or shorter depending on the comparison."
+    },
+    {
+        "Name":"Cue-Dependent Forgetting",
+        "definition":"Cue-dependent forgetting, also called retrieval failure, is when we can't remember something without a memory cue. This theory suggests that sometimes memories are temporarily forgotten because they can't be accessed. However, the right cue can help us recall the memory.",
+        "example":"You run into someone you know from high school, but you can't remember their name until you see them talking to another high school friend, which triggers your memory. The high school friend acts as the cue that helps you retrieve the name."
+    },
+    {
+        "Name":"Mood-Congruent Memory Bias",
+        "definition":"The mood congruency effect is a psychological phenomenon where people tend to remember information that matches their current mood. When people are in a certain mood, they also tend to recall memories that align with that mood.",
+        "example":"When you're feeling sad, you tend to remember more sad events from your past. When you're feeling happy, you tend to remember more happy events."
+    },
+    {
+        "Name":"Frequency Illusion",
+        "definition":"The frequency illusion, also called the Baader-Meinhof phenomenon, is a cognitive bias where people start noticing something more often after they become aware of it.",
+        "example":"After learning about a relatively obscure word or concept (like \"apophenia\"), you suddenly start noticing it everywhere\u2014in books, articles, conversations\u2014making you feel like it's become much more common."
+    },
+    {
+        "Name":"Baeder-Meinhof Phenomenon",
+        "definition":"The frequency illusion, also called the Baader-Meinhof phenomenon, is a cognitive bias where people start noticing something more often after they become aware of it.",
+        "example":"You learn a new word or concept (e.g., \"synchronicity\"). Soon after, you start noticing that word or concept appearing in seemingly unrelated places \u2013 in conversations, articles, or even advertisements \u2013 making you feel like it's suddenly everywhere."
+    },
+    {
+        "Name":"Empathy Gap",
+        "definition":"The empathy gap is a cognitive bias that makes it hard for people to recognize how their current mental state influences their behavior and decisions. It can also refer to a decrease in empathy, or the ability to understand and share another person's thoughts and feelings.",
+        "example":"Imagine you're not hungry. You're trying to plan a large meal for a party next week. You might underestimate how much food people will actually eat because you're currently not experiencing hunger yourself. This is an example of an empathy gap between your current state (not hungry) and a future state (people at the party being hungry)."
+    },
+    {
+        "Name":"Omission Bias",
+        "definition":"Omission bias is the tendency to prefer harm caused by not doing something over harm caused by taking action, even if the harm from inaction is the same or less. Ritov and Baron (1990) illustrated this with vaccination: many people see the risk of harm from vaccination as more serious than the risk from not vaccinating.",
+        "example":"A parent might feel more comfortable not vaccinating their child (an omission, potentially leading to harm) than vaccinating them and having the child experience a rare but potential side effect (a commission, also potentially leading to harm), even if the risk of harm from the disease is far greater than the risk from the vaccine."
+    },
+    {
+        "Name":"Base Rate Fallacy",
+        "definition":"The base rate fallacy is a tendency to focus on specific details while ignoring relevant statistical information. It's also known as base rate neglect or base rate bias.",
+        "example":"You are told that a shy, quiet person enjoys reading and spends a lot of time alone. You assume they are more likely to be a librarian than a salesperson, even though there are far more salespeople than librarians in the general population. You are neglecting the base rate (the overall prevalence of salespeople vs. librarians) and focusing on the personality description."
+    },
+    {
+        "Name":"Bizarreness Effect",
+        "definition":"The bizarreness effect, also known as the Von Restorff effect or the isolation effect, is the tendency for people to remember bizarre or unusual information better than common or everyday information. For instance, people might find it easier to remember the five main vowels of the English alphabet if they are linked to a strange sentence or phrase.",
+        "example":"You're trying to remember a list of words: \"dog, table, bicycle, astronaut, tree.\" You imagine a dog riding a bicycle, a table floating in space with an astronaut, and a tree with bicycle wheels. You're more likely to remember these bizarre images and thus the associated words than if you had just mentally repeated the words."
+    },
+    {
+        "Name":"Humor Effect",
+        "definition":"The humor effect is a cognitive bias that makes you remember funny information better.",
+        "example":"You're at a lecture, and the speaker tells a funny joke related to the topic. You're more likely to remember the information presented immediately after the joke compared to other parts of the lecture."
+    },
+    {
+        "Name":"Von Resorff Effect",
+        "definition":"The Von Restorff effect is a psychological theory that states the more something stands out from its surroundings, the more likely it is to be noticed.",
+        "example":"Imagine a list of words you need to memorize, and all the words are printed in black ink except for one word that's printed in bright red. You'll likely remember the red word much better than the others because it stands out. That's the Von Restorff effect."
+    },
+    {
+        "Name":"Picture Superiority Effect",
+        "definition":"The picture superiority effect (PSE) is the tendency for people to remember images better than words. For example, people are more likely to remember the word \"dog\" if they see a picture of a dog rather than just the word \"dog.\"",
+        "example":"You're trying to learn vocabulary in a foreign language. You're more likely to remember the meaning of a word if you see a picture associated with it than if you only see the written word and its translation."
+    },
+    {
+        "Name":"Self-Relevance Effect",
+        "definition":"The self-relevance effect (SRE) is a cognitive phenomenon where people tend to remember information better if it is personally relevant or relates to themselves. This bias towards oneself can greatly impact memory retention and cognitive processing.",
+        "example":"You're at a party with lots of conversations going on. You're more likely to tune in and remember a conversation if you hear your own name mentioned. This is because your name is highly self-relevant."
+    },
+    {
+        "Name":"Negativity Bias",
+        "definition":"Negativity bias is a cognitive bias where negative events affect our psychological state more strongly than positive events. This bias makes us feel negative events more intensely, even if they are of the same magnitude as positive events.",
+        "example":"Imagine you receive ten compliments on a presentation you gave, but also one piece of constructive criticism. You're likely to dwell on the criticism much more than the compliments, even though the compliments outnumbered it ten to one."
+    },
+    {
+        "Name":"Anchoring",
+        "definition":"Anchoring is a psychological phenomenon where a person's decisions or judgments are influenced by an initial piece of information, called an \"anchor.\" This anchor can be a number or something non-numeric, and its influence can be significant even if it's irrelevant.",
+        "example":"If a car is initially listed at $30,000, you'll likely consider offers around $25,000 to be a good deal, even if the car is actually worth only $20,000."
+    },
+    {
+        "Name":"Conservatism Bias",
+        "definition":"Conservatism bias is the tendency to favor existing evidence over new evidence that might challenge your current view. This resistance to change is often due to a desire to protect your self-image and avoid thinking less of yourself.",
+        "example":"An investor holds onto a stock for too long, even after the company's performance starts to decline and new data suggests it's no longer a good investment, because they are anchored to their initial positive assessment of the company."
+    },
+    {
+        "Name":"Contrast Effect",
+        "definition":"The contrast effect is an unconscious bias that occurs when we judge two things in comparison to each other rather than evaluating them individually. Our perception changes once we start comparing things, leading us to assess them relative to one another instead of on their own merits.",
+        "example":"Imagine you're tasting two wines. The first wine is quite acidic and tart. The second wine, while also somewhat acidic, tastes much smoother and sweeter in comparison, even though it might not have tasted that sweet if you had tasted it on its own. The first wine created a contrast that enhanced the perception of sweetness in the second wine."
+    },
+    {
+        "Name":"Distinction Bias",
+        "definition":"Distinction bias is a cognitive bias where people overestimate the differences between options when they compare them directly, instead of evaluating them independently against an absolute standard. This often results in an exaggerated perception of how different the options are.",
+        "example":"You're shopping for a new apartment. When you see two apartments side-by-side, you might focus on minor differences, like slightly newer appliances in one versus slightly more closet space in the other. These differences seem very important when comparing them directly. However, if you had seen each apartment on separate days, you might have been perfectly happy with either one and not noticed the differences as much."
+    },
+    {
+        "Name":"Focusing Effect",
+        "definition":"The focusing effect, or focusing illusion, is a cognitive bias where people concentrate too much on one part of a situation, ignoring other factors. This can result in flawed decisions or judgments based on incomplete information.",
+        "example":"You're considering moving to California and you start focusing heavily on the idea of having consistently sunny weather. You overestimate how much this sunny weather will improve your overall happiness, neglecting other factors like the high cost of living, potential traffic congestion, and distance from family and friends."
+    },
+    {
+        "Name":"Framing Effect",
+        "definition":"The framing effect in psychology is a bias where people respond differently to a decision based on how it's presented, highlighting either the positive (gain) or negative (loss) aspects. The same information can lead to different reactions when framed in different ways.",
+        "example":"You are more likely to choose a surgery with a \"90% survival rate\" than one with a \"10% mortality rate,\" even though they are statistically the same."
+    },
+    {
+        "Name":"Money-Illusion",
+        "definition":"Money illusion, also called price illusion, is a cognitive bias where people consider money by its face value rather than its purchasing power. This means they don't account for inflation or deflation when making decisions, mistakenly believing their money has the same value as it did in the past.",
+        "example":"You get a 3% raise at work, and you're happy about the extra money in your paycheck. However, you fail to consider that inflation is also at 3%, meaning your actual purchasing power hasn't increased at all. You're focusing on the nominal increase in your salary rather than the real increase (adjusted for inflation)."
+    },
+    {
+        "Name":"Weber-Fechner law",
+        "definition":"The Weber-Fechner Law is a principle in psychophysics that describes the relationship between physical stimuli and how intense they feel. Named after 19th-century German psychologists Ernst Heinrich Weber and Gustav Theodor Fechner, it states that the change needed to notice a difference (just noticeable difference or JND) is a constant ratio of the original stimulus. This means larger stimuli need bigger changes to be noticed, while smaller stimuli need smaller changes to be noticed.",
+        "example":"Imagine you're holding a 1-pound weight. If someone adds another pound, you'll easily notice the difference. However, if you're holding a 10-pound weight, adding another pound might not be as noticeable. The change in weight needs to be proportionally larger (a greater percentage of the original weight) to be easily detected."
+    },
+    {
+        "Name":"Confirmation Bias",
+        "definition":"People tend to process information by seeking out or interpreting data that aligns with their existing beliefs.",
+        "example":"You tend to only read news articles that agree with your political views, ignoring those that present opposing viewpoints."
+    },
+    {
+        "Name":"Congruence Bias",
+        "definition":"Congruence bias is when you tend to confirm your existing hypotheses or ideas instead of searching for the best solution",
+        "example":"A doctor suspects a patient has a specific disease based on their initial symptoms. They then primarily order tests that would confirm that diagnosis, neglecting to order tests that could rule out other possible conditions."
+    },
+    {
+        "Name":"Post-Purchase rationalization",
+        "definition":"Post-purchase rationalization, also known as choice-supportive bias or Buyer's Stockholm Syndrome, is a cognitive bias where people convince themselves that a purchase was worthwhile. They tend to justify the purchase by overlooking any faults or defects in the product or service.",
+        "example":"Someone buys a new, expensive phone. After a few weeks, they realize the battery life isn't as good as they'd hoped. Instead of admitting they might have made a slightly flawed purchase, they focus on the phone's excellent camera and sleek design, telling themselves that those features are more important anyway, thereby justifying their purchase."
+    },
+    {
+        "Name":"Choice-Supportive Bias",
+        "definition":"Choice-supportive bias is a cognitive bias where individuals remember their choices as better than they were. This often happens retrospectively, with people attributing more positive features and fewer negative ones to the options they chose, compared to those they rejected.",
+        "example":"After choosing to buy a particular brand of laptop over another, you start to remember and emphasize all the positive features of your chosen laptop while downplaying its flaws. You also tend to remember the negative aspects of the laptop you didn't choose and minimize its positive aspects, even if those weren't your initial impressions. This makes you feel more confident that you made the right decision."
+    },
+    {
+        "Name":"Selective-Perception",
+        "definition":"The way people naturally filter information by paying attention to certain environmental elements while disregarding others is known as selective perception. This mental process can result in distorted views and reinforce preconceived notions about groups or situations.",
+        "example":"You notice cars of the same model as yours much more frequently after you buy one."
+    },
+    {
+        "Name":"Observer-Expectancy Effect",
+        "definition":"When researchers unconsciously communicate their anticipated outcomes to study participants through subtle cues or behaviors, it's called the observer-expectancy effect. This unintended influence can shape how participants respond, potentially affecting the study's results.",
+        "example":"In a medical study testing a new drug, the researchers expect the drug to improve patients' symptoms. 1  Unconsciously, they might interpret patients' ambiguous responses or subtle improvements as more positive than they actually are, leading to biased results that favor the drug"
+    },
+    {
+        "Name":"Experimenter's Bias",
+        "definition":"Research bias occurs when a researcher's personal attitudes, expectations, or wishes systematically skew either how they conduct their study or analyze their findings, leading to inaccurate results.",
+        "example":"A researcher is studying the effects of a new teaching method on student performance. The researcher believes strongly that the new method is superior. Unconsciously, they might give more encouragement or attention to the students using the new method, or they might interpret ambiguous student responses as more positive, thus skewing the results in favor of their hypothesis."
+    },
+    {
+        "Name":"Observer Effect",
+        "definition":"The mere act of watching or measuring something can alter its natural state or behavior - this phenomenon, known as the observer effect, spans multiple disciplines from the physical to social sciences.",
+        "example":"Workers in a factory increase their productivity simply because they know they are being observed by researchers, regardless of any other changes made to their working conditions."
+    },
+    {
+        "Name":"Expectation Bias",
+        "definition":"When people's preconceived notions about what will happen end up shaping the actual outcome, that's expectation bias. This occurs because our anticipated results can color how we process and understand the information we encounter.",
+        "example":"A wine taster is told that one glass of wine is a very expensive vintage, while another is a cheap table wine. Even if the wines are actually the same, the taster is likely to rate the \"expensive\" wine as tasting better due to their expectations."
+    },
+    {
+        "Name":"Ostritch Bias",
+        "definition":"Much like an ostrich supposedly hiding its head in the sand, people tend to dodge unpleasant information \u2013 even helpful feedback about their progress toward goals. This avoidance behavior is known as the ostrich effect, reflecting our natural inclination to shield ourselves from uncomfortable truths.",
+        "example":"You avoid checking your bank balance or medical test results because you don't want to face bad news."
+    },
+    {
+        "Name":"Subjective Validation",
+        "definition":"the tendency to consider something true if it has personal meaning or significance to you. It's when people accept statements or predictions as accurate simply because they feel personally relevant, regardless of any actual evidence. ",
+        "example":"You find horoscopes or personality tests to be accurate because they contain vague statements that could apply to anyone."
+    },
+    {
+        "Name":"Continued Influence Effect",
+        "definition":"When false information maintains its grip on someone's beliefs even after they've been shown the correct information, this persistence is called the continued influence effect (CIE).",
+        "example":"A news report initially states that a celebrity was involved in a car accident due to drunk driving. Later, a retraction is issued stating that the celebrity was not under the influence. However, many people continue to believe the initial report and associate the celebrity with drunk driving, even after the correction."
+    },
+    {
+        "Name":"Semmelweis Reflex",
+        "definition":"The Semmelweis reflex describes our inclination to reject new information that clashes with what we already believe. It's a way of understanding how we instinctively cling to familiar ideas, norms, and ways of thinking.",
+        "example":"A doctor proposes a new handwashing procedure to reduce the spread of disease in a hospital, based on solid evidence. However, other doctors ridicule and reject the idea, not because of flaws in the evidence, but because it challenges their established practices and sense of authority.  They resist the new idea simply because it contradicts existing norms"
+    },
+    {
+        "Name":"Bias blind spot",
+        "definition":"While it's known that people struggle to recognize their own biases, it's less clear how unaware we are of the extent of our bias and how many of us believe we're less biased than others.",
+        "example":"You recognize cognitive biases in others but believe you are less susceptible to them yourself."
+    },
+    {
+        "Name":"Na\u00efve cynicism",
+        "definition":"Na\u00efve cynicism is a cognitive bias where people distrust the world, believing others are biased while they themselves are objective.",
+        "example":"A politician announces a new initiative to help underprivileged children. A na\u00efve cynic might immediately assume the politician's motives are purely self-serving (e.g., gaining votes or positive media attention), dismissing any possibility of genuine altruism or a desire to make a positive impact. They attribute the politician's actions to cynical motives, even without strong evidence."
+    },
+    {
+        "Name":"Na\u00efve realism",
+        "definition":"Na\u00efve realism is the assumption that we see the world objectively, leading us to believe that those who disagree are either misinformed, irrational, or biased. This egocentric bias hinders our ability to understand different viewpoints.",
+        "example":"Two people watch the same political debate. One person supports Candidate A, and the other supports Candidate B. After the debate, each person believes that their candidate \"clearly won\" and that anyone who disagrees \"just didn't see the facts\" or is \"biased.\" They both assume that their perception of the debate is an objective reflection of reality, and that anyone who sees it differently is simply wrong."
+    },
+    {
+        "Name":"Confabulation",
+        "definition":"Confabulation is a memory issue where people unintentionally create false or distorted memories about themselves or the world. Those who confabulate truly believe these fabricated memories are real.",
+        "example":"A patient with Korsakoff's syndrome (a memory disorder often caused by chronic alcoholism) is asked about their day. They might vividly describe going to the park, feeding ducks, and having a picnic, even though they've been in the hospital all day. They are not intentionally lying; they genuinely believe they are recounting real events, filling in gaps in their memory with fabricated details."
+    },
+    {
+        "Name":"Clustering illusion",
+        "definition":"The clustering illusion is a cognitive bias where people mistakenly see patterns in random data. It's also referred to as the \"hot hand fallacy.\"",
+        "example":"You're watching a basketball game and a player makes three shots in a row. You start to think they're \"on fire\" and are guaranteed to make their next shot, even though the probability of them making the next shot is independent of the previous ones. You're perceiving a pattern (a \"hot streak\") in what is likely a random sequence of events."
+    },
+    {
+        "Name":"Insensitivity to sample size",
+        "definition":"Insensitivity to sample size is a cognitive bias where people don't properly consider how important sample size is when looking at data. This often leads to wrong conclusions because people assume small samples accurately reflect a larger group, even though this is statistically unlikely. Essentially, they don't realize that smaller samples are more affected by random chance and are less reliable than larger samples.",
+        "example":"You hear a news report that 80% of students at a small private school prefer a new brand of cafeteria food. You assume this means that 80% of students everywhere prefer the new food, without considering that the small sample size of the private school (e.g., only 50 students) makes the result much less reliable than if the survey had been conducted at a large public university with thousands of students."
+    },
+    {
+        "Name":"Neglect of probability",
+        "definition":"Neglect of probability is a cognitive bias where people ignore how likely events are, particularly when making decisions in uncertain situations. This can lead to irrational choices, like overestimating the chances of rare events or underestimating the chances of more common ones.",
+        "example":"Someone is extremely afraid of flying, even though statistically, car travel is far more dangerous. They might drive for hours to avoid a short flight, even though the probability of being in a car accident is significantly higher than the probability of being in a plane crash. They are neglecting the actual probabilities of these events and focusing on the vividness of the potential plane crash scenario."
+    },
+    {
+        "Name":"Anecdotal fallacy",
+        "definition":"An anecdotal fallacy is a common reasoning error that occurs when someone uses a personal story or the story of someone they know to draw broad conclusions about something.  ",
+        "example":"Someone argues that smoking isn't harmful because their grandfather smoked two packs a day and lived to be 90 years old. They are using a single anecdote to dismiss a large body of scientific evidence demonstrating the harmful effects of smoking."
+    },
+    {
+        "Name":"Illusion of validity",
+        "definition":"The illusion of validity is a cognitive bias where people overestimate their ability to predict or understand data, particularly when the data seems to show a consistent pattern. This can create a false sense of confidence in their beliefs or decisions.",
+        "example":"A financial analyst is highly confident in their stock predictions because they have developed a complex model that takes into account many different economic factors. However, the model's past performance is not significantly better than random chance. The analyst's confidence in their predictions is an illusion of validity, based on the complexity of the model rather than its actual predictive power"
+    },
+    {
+        "Name":"Masked\u2013man fallacy",
+        "definition":"The masked-man fallacy is a logical error where someone wrongly assumes that different names or descriptions for something are interchangeable. It's based on the idea that if A and B are the same thing, they must be identical in all respects (Leibniz's law), but this isn't always true in how we use language.",
+        "example":"Lois Lane knows that Superman can fly. Lois Lane does not know that Clark Kent can fly. Therefore, Superman and Clark Kent are not the same person.\n\nThe fallacy lies in the fact that Lois's knowledge or belief about Superman and Clark Kent's abilities doesn't change the underlying reality that they are the same individual. The fallacy confuses knowing something with the truth of something."
+    },
+    {
+        "Name":"Recency illusion",
+        "definition":"The recency illusion is a cognitive bias where people think something is new simply because they recently learned about it, even if it has existed for a while. It's also known as the frequency illusion or the Baader-Meinhof phenomenon.",
+        "example":"You recently learned the word \"zeitgeist.\" Suddenly, you start noticing it in articles, conversations, and even song lyrics. You get the impression that the word has become much more popular recently, when in reality, it's been in use for a long time. You're experiencing the recency illusion \u2013 the belief that something you've recently become aware of is a recent phenomenon"
+    },
+    {
+        "Name":"Gambler's fallacy",
+        "definition":"The gambler's fallacy is the mistaken belief that if something hasn't happened recently, it's now \"due\" to happen. It's also called the Monte Carlo fallacy or the fallacy of the maturity of chances. ",
+        "example":"After flipping a coin and getting heads five times in a row, you believe the next flip is more likely to be tails."
+    },
+    {
+        "Name":"Hot\u2013hand fallacy",
+        "definition":"The hot-hand fallacy is the belief that a person who has recently succeeded at something is more likely to continue succeeding at it. This bias can be seen in areas like sports, investing, and other activities.",
+        "example":"You believe that a basketball player who has made several shots in a row is more likely to make their next shot."
+    },
+    {
+        "Name":"Illusory correlation",
+        "definition":"Illusory correlation is a cognitive bias where people perceive a relationship between things that aren't actually connected.  It's sometimes also referred to as the clustering illusion (though clustering illusion more specifically refers to perceiving patterns in random data)",
+        "example":"People often believe that there is a strong correlation between full moons and strange or erratic behavior, even though studies have repeatedly shown no such link. This is an illusory correlation \u2013 perceiving a relationship between two variables when no such relationship exists. "
+    },
+    {
+        "Name":"Pareidolia",
+        "definition":"Pareidolia is a psychological phenomenon where people perceive patterns or meaning in random stimuli, like seeing faces in clouds or objects in shadows.",
+        "example":"Looking at clouds and seeing shapes of animals or faces in them."
+    },
+    {
+        "Name":"Anthropomorphism",
+        "definition":"the tendency to attribute human traits, such as emotions, intentions, or behaviors, to non-human entities like animals, objects, or natural phenomena.",
+        "example":"Someone talks to their pet dog as if it understands complex sentences and human emotions, saying things like, \"I know you're feeling sad today because I had a bad day at work.\""
+    },
+    {
+        "Name":"Group attribution error",
+        "definition":"The group attribution error is the tendency to believe that a group's characteristics or choices accurately represent the beliefs of each individual within that group. This is often inaccurate because group dynamics and decision-making processes can influence outcomes independently of individual members' personal views.",
+        "example":"You meet one rude person from a particular country. You then assume that people from that country are generally rude, attributing the behavior of one individual to the entire group."
+    },
+    {
+        "Name":"Ultimate attribution error",
+        "definition":"The ultimate attribution error (UAE) is a bias where people attribute negative actions by members of an outgroup to their inherent character, while attributing the same negative actions by members of their own group to situational factors. Conversely, positive actions by ingroup members are attributed to their character, while positive actions by outgroup members are attributed to luck or special circumstances.",
+        "example":"Imagine two groups, A and B.\n\nNegative behavior by a member of Group B: You attribute it to their inherent character (\"They're just lazy\/dishonest\/violent\").\n\nPositive behavior by a member of Group B: You attribute it to external factors or luck (\"They just got lucky\" or \"It was a special circumstance\").\n\nNegative behavior by a member of Group A (your own group): You attribute it to situational factors (\"They were under a lot of stress\" or \"Anyone would have done the same thing in that situation\").\n\nPositive behavior by a member of Group A: You attribute it to their inherent character (\"They're just a good\/smart\/hardworking person\").\n\nIn short, you give your own group the benefit of the doubt, while you readily blame the other group's inherent nature for negative actions and downplay their positive actions."
+    },
+    {
+        "Name":"Stereotyping",
+        "definition":"Stereotyping involves assigning a set of characteristics to an entire group of people, often based on oversimplified and generalized beliefs about how they should or shouldn't behave. These generalizations can be based on various factors like age, gender, race, weight, and occupation.",
+        "example":"Believing that all teenagers are rebellious and irresponsible, or that all elderly people are frail and forgetful. These are overgeneralized beliefs about entire groups that don't account for individual differences"
+    },
+    {
+        "Name":"Essentialism",
+        "definition":"Refers to the tendency to view social groups as having inherent, unchanging characteristics that define their members. This bias leads to exaggerating the importance of group membership in determining an individual's traits and behaviors, often overlooking individual variation within the group.",
+        "example":"Believing that all members of a particular group (e.g., a race, nationality, or gender) share inherent, unchanging characteristics that define them. For example, believing that all men are inherently aggressive or that all women are inherently nurturing. This ignores individual variation within the group and assumes that group membership determines an individual's core traits."
+    },
+    {
+        "Name":"Functional fixedness",
+        "definition":"Functional fixedness is a cognitive bias that limits people to seeing objects only in their typical or intended uses. This can hinder problem-solving and creativity by preventing people from recognizing alternative uses for those objects. This can affect various aspects of life, including careers, academics, and personal life.",
+        "example":"You need to tighten a screw, but you don't have a screwdriver. You see a dime nearby, but you don't think to use it to turn the screw because you only think of dimes as currency, not as a potential tool."
+    },
+    {
+        "Name":"Moral credential effect",
+        "definition":"The moral credential effect is a cognitive bias where people use past displays of moral behavior to justify engaging in subsequent unethical or undesirable actions. They essentially feel they've \"earned\" the right to act poorly because of their previous good deeds.",
+        "example":"Someone who has consistently donated to environmental charities for years might feel less guilty about driving a gas-guzzling SUV or taking frequent flights, justifying their actions by saying, \"I've done my part for the environment.\""
+    },
+    {
+        "Name":"Just\u2013world hypothesis",
+        "definition":"The just-world hypothesis is a cognitive bias where people believe that the world is inherently fair and that people get what they deserve. This leads to the assumption that good things happen to good people and bad things happen to bad people. It's also known as the just-world fallacy or just-world phenomenon.",
+        "example":"After hearing about someone being robbed, a person might think, \"They must have done something to deserve it,\" even if there's no evidence to support that claim. This reflects the belief that bad things only happen to bad people, and good things only happen to good people."
+    },
+    {
+        "Name":"Argument from fallacy",
+        "definition":"An argument from fallacy (also known as the fallacy fallacy, argument to logic, fallacist's fallacy, or bad reasons fallacy) is the mistaken assumption that if an argument for a conclusion is fallacious, then the conclusion itself must be false. Just because an argument is bad doesn't necessarily mean the conclusion it's trying to reach is wrong.",
+        "example":"Person A presents an argument for X. Person B points out that Person A's argument contains a logical fallacy. Person B then concludes that X is therefore false.\n\nThe fallacy is that even if an argument for a conclusion is flawed, that doesn't necessarily mean the conclusion itself is false. The conclusion might still be true, just not for the reasons presented in the flawed argument."
+    },
+    {
+        "Name":"Authority bias",
+        "definition":"The authority bias is the tendency to place greater value on the opinions and actions of authority figures, often leading people to accept their statements or follow their instructions without sufficient scrutiny. This can result in accepting information or behaving in ways without critically assessing the content itself, simply because it originated from a perceived authority.",
+        "example":"A patient blindly follows a doctor's recommendation without seeking a second opinion or doing their own research, even if the treatment plan seems questionable or there are alternative options available. They place undue trust in the doctor's authority simply because of their position."
+    },
+    {
+        "Name":"Automation bias",
+        "definition":"Automation bias is the tendency for people to favor the output of automated systems, even when contradictory information is available from non-automated sources, even if those sources are correct. This can lead to overlooking errors made by automated systems and over-reliance on their suggestions.",
+        "example":"A pilot relies too heavily on the autopilot system of an aircraft, even when there are subtle cues suggesting a malfunction or unusual weather conditions. They might fail to notice or correctly interpret these cues because they assume the automated system is functioning perfectly."
+    },
+    {
+        "Name":"Bandwagon effect",
+        "definition":"The bandwagon effect describes the tendency for people to adopt behaviors, styles, or beliefs simply because they are popular or widespread. It's the \"jumping on the bandwagon\" phenomenon.",
+        "example":"A certain type of phone case becomes incredibly popular among teenagers. Even if you personally don't find it particularly appealing, you might feel pressure to buy it simply because \"everyone else has one."
+    },
+    {
+        "Name":"Placebo effect",
+        "definition":"The placebo effect occurs when a person experiences a perceived improvement in their condition after receiving a placebo\u2014a treatment with no inherent therapeutic value. This improvement is attributed to the person's belief in the treatment and their expectation of positive outcomes, rather than any direct effect of the placebo itself.",
+        "example":"A patient with mild pain is given a sugar pill, but is told it's a powerful new pain reliever. They report a reduction in their pain levels, even though the pill contains no active ingredients. Their belief in the treatment, rather than the treatment itself, caused the improvement."
+    },
+    {
+        "Name":"Out\u2013group homogeneity bias",
+        "definition":"Out-group homogeneity bias is the tendency to perceive members of an out-group (a group one doesn't belong to) as being more similar to each other than members of one's own in-group. For example, a person might see members of a different nationality or ethnicity as \"all the same,\" while recognizing greater individual differences within their own group.",
+        "example":"Someone who lives in a big city might believe that people in rural areas are all very similar to each other, sharing the same values and lifestyle, while perceiving people in their own city as diverse and individualistic."
+    },
+    {
+        "Name":"Cross\u2013race effect",
+        "definition":"The cross-race effect (CRE), also known as the other-race effect or own-race bias, is the tendency for people to be better at recognizing and distinguishing faces of individuals from their own racial group compared to faces of individuals from other racial groups.",
+        "example":"A white person is more likely to accurately recognize and remember the face of another white person compared to the face of a Black person, even if they were both seen for the same amount of time. Similarly, a Black person is more likely to accurately recognize and remember the face of another Black person compared to the face of a white person. "
+    },
+    {
+        "Name":"In\u2013group favoritism",
+        "definition":"Also known as In-group bias is the tendency to favor members of one's own group over members of out-groups. This bias can manifest even when group membership is arbitrary or based on minimal criteria.",
+        "example":"A hiring manager is interviewing candidates for a job. Two candidates have similar qualifications, but one candidate went to the same university as the hiring manager. The hiring manager is more likely to favor the candidate who shares their alma mater, even if the other candidate is equally or slightly more qualified."
+    },
+    {
+        "Name":"Halo effect",
+        "definition":"The halo effect is a cognitive bias where a general impression of someone or something\u2014often based on a single positive trait\u2014influences how we perceive their other qualities. For instance, if someone is physically attractive, we might also assume they are intelligent, kind, and trustworthy, even without evidence.",
+        "example":"You assume a physically attractive person is also intelligent and kind."
+    },
+    {
+        "Name":"Cheerleader effect",
+        "definition":"The cheerleader effect is the phenomenon where individuals are perceived as more attractive when they are part of a group than when viewed individually.",
+        "example":"You see a group photo of people, and you think they all look quite attractive. However, when you see individual photos of the same people, you realize that some of them are not as attractive as you initially perceived them to be in the group photo. The presence of others in the group made each individual seem more attractive on average."
+    },
+    {
+        "Name":"Positivity effect",
+        "definition":"The positivity effect is a cognitive bias observed in older adults where they tend to prioritize and remember positive information more readily than negative information. They also tend to downplay or avoid negative stimuli.",
+        "example":"Older adults, when shown a mix of positive, negative, and neutral images, tend to remember the positive images more vividly and frequently than the negative ones. This is especially true when recalling memories of the past."
+    },
+    {
+        "Name":"Not invented here",
+        "definition":"\"Not invented here\" (NIH) is a bias against ideas, research, or products originating from outside a group, organization, or even country. It manifests as a reluctance to adopt or acknowledge external innovations, often favoring internally developed solutions even if they are inferior.",
+        "example":"A company develops a new software solution. A competitor has already developed a similar, and potentially better, solution. However, the company refuses to consider adopting or learning from the competitor's solution, simply because it wasn't developed internally. They prioritize their own \"homegrown\" solution, even if it's less efficient or effective."
+    },
+    {
+        "Name":"Reactive devaluation",
+        "definition":"Reactive devaluation is a cognitive bias where people tend to devalue proposals or concessions simply because they originate from an adversary or opposing side. This bias can significantly hinder negotiations and conflict resolution, as even beneficial offers may be rejected simply due to their source.",
+        "example":"During a negotiation between two companies, one company proposes a compromise that is actually quite favorable to both sides. However, the other company immediately rejects the proposal simply because it came from their rival, assuming it must be designed to benefit the other side more."
+    },
+    {
+        "Name":"Well\u2013traveled road effect",
+        "definition":"The well-traveled road effect is a cognitive bias where people's perception of travel time is influenced by familiarity with the route. They tend to underestimate the travel time for familiar routes and overestimate the travel time for unfamiliar routes.",
+        "example":"You drive the same route to work every day. Even though it takes 30 minutes according to your GPS, it often feels like it takes less time. When you drive to a new destination that is also 30 minutes away, it feels much longer. This is because the familiarity of the usual route makes the time seem to pass more quickly."
+    },
+    {
+        "Name":"Mental accounting",
+        "definition":"Mental accounting describes how people mentally categorize and treat money differently depending on its source or intended use, rather than viewing it as a single fungible resource. This can lead to irrational financial behaviors, such as spending windfalls more freely than earned income or making suboptimal investment choices based on how money is \"labeled\" in their minds.",
+        "example":"Someone receives a $50 bonus at work. They might be more likely to spend that $50 on a \"fun\" purchase like a nice dinner out or a new gadget, rather than putting it towards a more practical expense like paying down debt or adding it to their savings. They treat the bonus money as belonging to a separate \"fun money\" account, even though it's the same as any other $50 they earn."
+    },
+    {
+        "Name":"Appeal to probability fallacy",
+        "definition":"Appeal to probability fallacy occurs when someone assumes that because something could happen, it will likely happen, without providing sufficient evidence or considering the actual probability of the event. It conflates possibility with probability.",
+        "example":"Someone argues that since there's a possibility of finding life on other planets, there must be life on other planets. The mere possibility doesn't guarantee the existence of extraterrestrial life. The fallacy lies in assuming that a possibility is equivalent to a certainty or even a high probability."
+    },
+    {
+        "Name":"Normalcy bias",
+        "definition":"Normalcy bias refers to our tendency to downplay or disregard threat warnings and believe that nothing can significantly disrupt our daily lives.",
+        "example":"During a fire alarm, people in an office building might continue working at their desks, assuming it's just a drill or a false alarm, even when there are visible signs of smoke or other indicators of a real emergency. They underestimate the likelihood of a real fire because they are used to false alarms."
+    },
+    {
+        "Name":"Murphy's Law",
+        "definition":"Murphy's Law is a common saying that states, \"Anything that can go wrong, will go wrong.\" It's often used humorously to describe unexpected or unfortunate events.",
+        "example":"You're running late for an important meeting. As you rush out the door, you spill your coffee all over your white shirt. This exemplifies the idea that \"anything that can go wrong, will go wrong,\" especially at the worst possible time. It's important to remember that Murphy's Law is often used humorously and isn't a true scientific law or cognitive bias, but rather an observation about the frequency of inconvenient events."
+    },
+    {
+        "Name":"Zero sum bias",
+        "definition":"Zero-sum bias is the mistaken belief that if one person gains something, another person must have lost something equivalent. It's the idea that there's a fixed \"pie,\" so if someone gets a bigger slice, there's less for everyone else, even when that's not actually the case.",
+        "example":"You believe that if someone else gains something, it must mean that you lose something."
+    },
+    {
+        "Name":"Survivorship bias",
+        "definition":"Survivorship bias occurs when researchers concentrate on individuals, groups, or cases that have undergone a selection process, while ignoring those that haven't. This bias can result in incorrect conclusions because researchers are only studying a portion of the population.",
+        "example":"You see a documentary about successful entrepreneurs who dropped out of college. You might conclude that dropping out of college is a good path to success in business. However, you're only seeing the \"survivors\" \u2013 the few who succeeded. You're not seeing the vast majority of college dropouts who did not become successful entrepreneurs."
+    },
+    {
+        "Name":"Subadditivity effect",
+        "definition":"The subadditivity effect is a cognitive bias where people tend to think the probability of a whole event is smaller than the sum of the probabilities of its individual parts. In simpler terms, people underestimate the likelihood of something happening overall compared to the combined chances of its different components occurring.",
+        "example":"Imagine you're asked to estimate the probability of two events happening in the next year:\n\nWinning the lottery.\nGetting a promotion at work.\n\nYou might estimate the probability of winning the lottery as 1% and the probability of getting a promotion as 10%. However, if asked to estimate the probability of either winning the lottery or getting a promotion, you might estimate it as only 8%, even though it should be at least 11% (or slightly less, if you account for the tiny probability of both happening, which is so small it is usually ignored). You're underestimating the combined probability of the two events."
+    },
+    {
+        "Name":"Denomination effect",
+        "definition":"The denomination effect refers to the tendency for people to be less likely to spend money when it is in the form of large bills, compared to spending the same amount in smaller bills or coins.",
+        "example":"You have $100 in your wallet. If it's in the form of five $20 bills, you're more likely to spend some of it on small purchases throughout the week. 1 However, if that same $100 is one single $100 bill, you're more likely to hold onto it and less likely to break it for smaller expenses"
+    },
+    {
+        "Name":"The magical number 7 \u00b1 2",
+        "definition":"The magical number 7 \u00b1 2 refers to a principle in human cognition and information processing, suggesting that people can effectively handle no more than seven units, or chunks, of information, give or take a few.",
+        "example":"When trying to remember a new phone number, most people can hold around 5 to 9 digits in their short-term memory at once. If the phone number is longer, like a 10-digit number, they often break it down into smaller chunks (like 3-3-4) to make it easier to remember."
+    },
+    {
+        "Name":"Illusion of transparency",
+        "definition":"The illusion of transparency is a cognitive bias where people overestimate how well others can understand their thoughts, feelings, and intentions. This egocentric bias makes individuals believe their internal state is more obvious to others than it actually is.",
+        "example":"You're giving a presentation and you feel incredibly nervous, with your heart racing and your hands shaking slightly. You assume that everyone in the audience can clearly see how nervous you are, even though they might not notice any outward signs of your anxiety."
+    },
+    {
+        "Name":"Curse of knowledge",
+        "definition":"The curse of knowledge is a cognitive bias where someone with specialized knowledge assumes that others have the same knowledge. It's also known as the curse of expertise or expert's curse.",
+        "example":"Once you know something, you assume everyone else knows it too."
+    },
+    {
+        "Name":"Spotlight effect",
+        "definition":"The spotlight effect is a psychological phenomenon where people think they're being noticed more than they actually are. It's a form of egocentric bias, where we overestimate our own importance from our own perspective.",
+        "example":"You accidentally spill a little coffee on your shirt just before an important meeting. You spend the rest of the meeting feeling extremely self-conscious, convinced that everyone is staring at the stain, even though most people probably didn't even notice it."
+    },
+    {
+        "Name":"Extrinsic incentive error",
+        "definition":"Extrinsic incentive error is the tendency to prioritize external rewards over intrinsic motivation. It also refers to attributing other people's motivations to external incentives, such as money, rather than intrinsic ones, like learning new skills.",
+        "example":"You see a colleague working late every night and coming in on weekends. You assume they're doing it solely for the potential bonus or promotion, overlooking the possibility that they might genuinely enjoy their work or find it intellectually stimulating."
+    },
+    {
+        "Name":"Illusion of external agency",
+        "definition":"The \"illusion of external agency\" is a cognitive bias where people underestimate their ability to create positive outcomes and instead attribute their good fortune to external factors. Essentially, they overestimate the influence of outside forces on their happiness or satisfaction, believing that good things happen due to external agents rather than their own actions or choices.",
+        "example":"Someone attributes their good fortune (like getting a promotion or winning a small lottery) to luck, fate, or divine intervention, rather than acknowledging their own hard work, skills, or the statistical probabilities involved. They might say, \"It was meant to be\" or \"I was just in the right place at the right time,\" minimizing their own agency in achieving the outcome."
+    },
+    {
+        "Name":"Illusion of asymmetric insight",
+        "definition":"The \"illusion of asymmetric insight\" is the mistaken belief that we understand others better than they understand us. We overestimate our ability to see into others while underestimating their ability to see into us.",
+        "example":"You believe you understand your friend's political views and motivations much better than they understand yours. You might think, \"I know why they believe that, but they don't really understand why I believe what I do.\" This bias makes you feel like you have a deeper understanding of others than they have of you."
+    },
+    {
+        "Name":"Telescoping effect",
+        "definition":"The telescoping effect is a memory distortion where people misremember when events occurred. They tend to recall recent events as happening further in the past than they actually did (backward telescoping) and distant events as happening more recently than they did (forward telescoping). This can lead to inaccurate assumptions about the timing of past events.",
+        "example":"You're asked to recall when you last visited the dentist. If it was 3 months ago, you might accurately remember it. However, if it was 18 months ago, you might mistakenly remember it as being only 12 months ago. You're \"telescoping\" the past, bringing distant events closer in your memory"
+    },
+    {
+        "Name":"Rosy retrospection",
+        "definition":"Rosy retrospection is a cognitive bias where people remember past events as being more positive than they actually were at the time.",
+        "example":"Years after a challenging hiking trip with friends, you mostly remember the stunning views from the summit, the laughter around the campfire, and the sense of accomplishment. You tend to forget the mosquito bites, the blisters, the rainy weather, and the arguments about navigation that occurred during the trip."
+    },
+    {
+        "Name":"Hindsight bias",
+        "definition":"Hindsight bias is the tendency, after an event has occurred, to believe that one had predicted or foreseen the outcome, even if that wasn't the case. It's the \"I knew it all along\" phenomenon.",
+        "example":"After a sports team wins a championship game, people say \"I knew they were going to win all along!\" even if they had doubts or were unsure before the game started."
+    },
+    {
+        "Name":"Outcome bias",
+        "definition":"Outcome bias is the tendency to evaluate a decision based on its final outcome, rather than the quality of the decision-making process at the time it was made. It involves judging a decision based on whether it turned out well or badly, rather than considering the information available and the logic used when the decision was made.",
+        "example":"A surgeon performs a risky operation. The patient makes a full recovery. People praise the surgeon's skill and judgment, even if the decision to perform the operation was based on incomplete information or a low probability of success. Conversely, if the patient had died, the surgeon might be harshly criticized, even if the surgery was performed with the best possible intentions and using the standard of care. The evaluation of the decision is based solely on the outcome, not the quality of the decision-making process at the time."
+    },
+    {
+        "Name":"Moral luck",
+        "definition":"Moral luck occurs when someone is held morally responsible for an outcome, even though factors beyond their control played a significant role in determining that outcome. It's when luck affects moral judgment, either increasing or decreasing the praise or blame someone receives.",
+        "example":"Two equally qualified candidates apply for the same job. Candidate A has a fantastic interview, answering all the questions perfectly and making a great impression. Candidate B also has a good interview, but during their interview, the hiring manager happens to mention a shared hobby (e.g., collecting vintage stamps). This shared hobby creates an instant connection, and the hiring manager feels a stronger affinity for Candidate B, ultimately giving them the job.\n\nBoth candidates were equally deserving, but Candidate B benefited from a chance occurrence (the shared hobby) that influenced the hiring manager's perception. This is moral luck because Candidate B didn't do anything to create this connection; it was a matter of chance."
+    },
+    {
+        "Name":"Declinism",
+        "definition":"Declinism is the belief that a society, institution, or country is deteriorating or declining. It involves a tendency to idealize the past and view the present and future with pessimism. Cognitive biases like rosy retrospection, which makes people remember the past more fondly, often contribute to this belief.",
+        "example":"Someone frequently says things like, \"Things were so much better in the old days. Music was better, movies were better, people were more respectful. Nowadays, everything is going downhill.\" They consistently view the past as superior to the present and future, even when objective data might show improvements in certain areas."
+    },
+    {
+        "Name":"Impact bias",
+        "definition":"The impact bias is our tendency to overestimate how strongly and for how long we will be affected emotionally by future events, whether positive or negative.",
+        "example":"You're dreading a visit to the dentist, imagining that the experience will be extremely painful and unpleasant. However, after the appointment, you realize it wasn't nearly as bad as you had anticipated. You overestimated the intensity and duration of the negative emotions you would experience."
+    },
+    {
+        "Name":"Pessimism bias",
+        "definition":"The pessimism bias is the tendency to overestimate the probability of negative events occurring and underestimate the probability of positive events. This expectation of negative outcomes is a common cognitive characteristic of depression and can have significant negative effects on individuals and society as a whole.",
+        "example":"Someone who is about to give a presentation anticipates that they will stumble over their words, forget key points, and receive negative feedback from the audience, even though they are well-prepared and have given successful presentations in the past. They consistently overestimate the likelihood of negative outcomes."
+    },
+    {
+        "Name":"Planning fallacy",
+        "definition":"The planning fallacy is a cognitive bias leading people to underestimate the time, cost, and risks involved in completing future tasks. They often maintain unrealistic optimism and believe \"this time will be different,\" even with a history of similar projects taking longer than expected.",
+        "example":"You estimate that writing a report for work will take you two days. However, unexpected interruptions, minor setbacks, and the need for revisions mean it actually takes you four days to complete. You consistently underestimate the time needed to complete tasks, even when you have past experience with similar projects."
+    },
+    {
+        "Name":"Time\u2013saving bias",
+        "definition":"The \"time-saving bias\" describes our tendency to overestimate how much time we save by working faster, a common reasoning error.",
+        "example":"A project manager believes that implementing a new software tool will drastically reduce the time it takes for their team to complete a specific task. They estimate that the software will save them 5 hours per week per employee. However, they underestimate the time it will take for employees to learn the new software, the time required for troubleshooting technical issues, and the potential disruption to existing workflows during the transition period. The actual time saved, at least initially, is likely to be much less than the estimated 5 hours, and could even result in a temporary increase in time spent."
+    },
+    {
+        "Name":"Pro\u2013innovation bias",
+        "definition":"Pro-innovation bias involves overemphasizing the advantages of innovation while downplaying its limitations and potential drawbacks.",
+        "example":"A company decides to implement a brand new, complex project management software system across all departments, even though their current system works reasonably well and employees are already familiar with it. They overestimate the benefits of the new system and underestimate the costs and disruptions associated with switching, such as training time, integration issues, and potential loss of productivity during the transition. They are biased towards the \"new\" simply because it is new."
+    },
+    {
+        "Name":"Projection bias",
+        "definition":"Projection bias is the assumption that our current tastes and preferences will stay the same in the future.",
+        "example":"Someone in their early 20s, who currently enjoys going to loud concerts every weekend, buys a lifetime supply of earplugs, assuming they will continue to enjoy and attend such concerts at the same frequency throughout their life. They fail to consider that their tastes or lifestyle might change as they get older, and they might not need or want that many earplugs in the future."
+    },
+    {
+        "Name":"Restraint bias",
+        "definition":"Restraint bias describes our tendency to believe we have more self-control than we actually do.",
+        "example":"Someone who is trying to lose weight believes they have strong willpower and can easily resist the temptation of keeping unhealthy snacks in their house. They buy a large bag of chips, thinking they'll only eat a few. However, when they're at home and the chips are readily available, they end up eating much more than they intended, because they overestimated their ability to resist the temptation in the moment."
+    },
+    {
+        "Name":"Self\u2013consistency bias",
+        "definition":"the tendency to remember our past attitudes, beliefs, and behaviors as being more consistent with our current attitudes, beliefs, and behaviors than they actually were. It's the bias to see ourselves as stable and unchanging over time, even though we inevitably change and evolve.",
+        "example":"A student who currently excels in math might remember always having been good at math, even if they struggled with it in earlier grades. They might downplay or forget past difficulties they had with learning basic math concepts. This helps them maintain a consistent self-image as a \"math person.\" They might even misremember getting lower grades than they actually did."
+    },
+    {
+        "Name":"Overconfidence effect",
+        "definition":"People often overestimate their abilities, a cognitive bias known as the overconfidence effect. This discrepancy between perceived and actual skill can have serious consequences for decision-making and lead to unrealistic expectations.",
+        "example":"A person is asked to answer ten trivia questions. After answering each question, they are asked how confident they are in their answer on a scale of 50% to 100%. Even though they might only get six out of ten questions correct, they consistently rate their confidence at 90% or higher for most of their answers. They overestimate the accuracy of their knowledge."
+    },
+    {
+        "Name":"Social desirability bias",
+        "definition":"Social desirability bias is a phenomenon where respondents provide answers they believe are socially acceptable rather than expressing their genuine beliefs.",
+        "example":"In a survey about exercise habits, people might over-report how often they exercise to appear healthier and more active than they actually are, because exercise is generally seen as a positive behavior."
+    },
+    {
+        "Name":"Third\u2013person effect",
+        "definition":"The third-person effect highlights the tendency to believe that others are more easily persuaded by media than oneself.",
+        "example":"Someone sees a commercial for a fast-food restaurant and thinks, \"That ad is so cheesy, it would never work on me. But I bet other people will fall for it.\" They believe that others are more susceptible to the persuasive influence of advertising (or other media messages) than they are themselves."
+    },
+    {
+        "Name":"False consensus effect",
+        "definition":"The false consensus effect is our tendency to overestimate how much others share our beliefs.",
+        "example":"Someone who enjoys watching reality TV assumes that most of their friends and colleagues also enjoy it, and they are surprised to find out that many of them find it boring or lowbrow. They overestimate the popularity of their own preference"
+    },
+    {
+        "Name":"Hard\u2013easy effect",
+        "definition":"The hard-easy effect, a cognitive bias, results in overconfidence when facing challenging tasks and underconfidence when facing simple ones, often leading to inadequate preparation and poor outcomes.",
+        "example":"When asked to judge the accuracy of their answers on easy trivia questions, people tend to be underconfident. For example, if asked \"What is the capital of France?\", most people will answer \"Paris\" and might rate their confidence as 80%. On very difficult trivia questions, however, people tend to be overconfident. If presented with a very obscure question they have to guess on, they might rate their confidence as 60%, even though their actual chance of getting it right is much lower, like 20% or less. The hard-easy effect is that people tend to be underconfident on easy tasks and overconfident on difficult tasks."
+    },
+    {
+        "Name":"Lake Wobegone effect",
+        "definition":"Named after the fictional town where \"all the children are above average,\" the Lake Wobegon effect describes our tendency to overestimate our own abilities and achievements relative to others.",
+        "example":"In a workplace, many employees might rate their job performance as \"above average\" on self-evaluations, even though statistically, only half of them can actually be above the true average performance of the entire company."
+    },
+    {
+        "Name":"Dunning\u2013Kruger effect",
+        "definition":"The Dunning-Kruger effect describes a cognitive bias where people with low competence in a particular skill or area of knowledge overestimate their abilities, while highly competent individuals tend to underestimate theirs.",
+        "example":"Someone who has just started learning a new programming language believes they are already proficient enough to build complex software applications, despite having only a basic understanding of syntax and fundamental concepts. They lack the expertise to recognize the extent of their own incompetence."
+    },
+    {
+        "Name":"Egocentric bias",
+        "definition":"The egocentric bias describes the cognitive tendency to view events and situations primarily from one's own perspective, often neglecting or downplaying other viewpoints.",
+        "example":"Two people work together on a group project. After the project is completed successfully, each person believes that they contributed more to the project than the other person did. They overestimate their own contribution and underestimate the contributions of others."
+    },
+    {
+        "Name":"Optimism bias",
+        "definition":"Optimism bias is a cognitive bias that distorts our perception of risk and reward, leading us to underestimate the probability of negative events and overestimate the probability of positive ones.",
+        "example":"A young adult starting a new business is highly optimistic about its chances of success, believing they are much less likely to experience the common challenges and setbacks that other new businesses face. They might underestimate the difficulty of acquiring customers, managing finances, or dealing with competition, believing their business is somehow \"different\" or \"destined to succeed.\""
+    },
+    {
+        "Name":"Forer effect",
+        "definition":"The Forer effect, also called the Barnum effect, is a psychological phenomenon that explains why people readily accept generalized personality feedback as highly accurate and personally relevant.",
+        "example":"You read a horoscope that says things like, \"You have a need for other people to like and admire you. You have a tendency to be critical of yourself. At times you have serious doubts as to whether you have made the right decision or done the right thing.\" You feel like this description is incredibly accurate and personally insightful, even though it's vague enough to apply to almost anyone."
+    },
+    {
+        "Name":"Barnum effect",
+        "definition":"This cognitive bias, called the Barnum effect (or Forer effect), makes us believe that broadly applicable descriptions are tailored specifically to us.",
+        "example":"You read a horoscope that says things like, \"You have a need for other people to like and admire you. You have a tendency to be critical of yourself. At times you have serious doubts as to whether you have made the right decision or done the right thing.\" You feel like this description is incredibly accurate and personally insightful, even though it's vague enough to apply to almost anyone."
+    },
+    {
+        "Name":"Self\u2013serving bias",
+        "definition":"Self-serving bias describes the tendency to interpret events in a way that favors oneself and protects one's self-esteem.",
+        "example":"A student receives a good grade on an exam and attributes it to their intelligence and hard work. However, if they receive a bad grade on the next exam, they attribute it to the test being unfair, the teacher's poor teaching, or bad luck, rather than considering that they may not have studied effectively."
+    },
+    {
+        "Name":"Actor\u2013observer bias",
+        "definition":"The actor-observer bias is a cognitive bias where we attribute our own behavior to situational factors but attribute others' behavior to their inherent traits.",
+        "example":"You're driving and cut someone off in traffic. You justify your action by thinking, \"I was in a hurry because I was late for an important meeting.\" However, if you see someone else cut you off in traffic, you're more likely to think, \"That person is a reckless and inconsiderate driver,\" attributing their behavior to their personality rather than considering they might also be in a hurry or facing an emergency."
+    },
+    {
+        "Name":"Illusion of control",
+        "definition":"The illusion of control describes the cognitive bias where people believe they have more influence over events than they actually do.",
+        "example":"Someone believes that wearing their \"lucky socks\" while watching their favorite sports team play will influence the outcome of the game, even though there's no logical connection between their socks and the team's performance."
+    },
+    {
+        "Name":"Illusory superiority",
+        "definition":"Illusory superiority, also referred to as the superiority bias, the Lake Wobegon effect, or the above-average effect, is a cognitive bias where individuals perceive themselves as possessing more desirable qualities and fewer undesirable qualities than others.",
+        "example":"A group of software developers are asked to rate their coding skills relative to their peers. The vast majority of the developers rate themselves as \"above average,\" even though statistically, it's impossible for most people in any given group to be above average."
+    },
+    {
+        "Name":"Fundamental attribution error",
+        "definition":"The fundamental attribution error (FAE) describes the cognitive bias of overemphasizing internal factors (personality) and underemphasizing external factors (situations) when explaining others' behavior.",
+        "example":"You see a classmate trip and fall in the hallway. You immediately think, \"They're so clumsy!\" without considering that there might have been a slippery spot on the floor or that they might have been distracted by something. You attribute their behavior to their personality (being clumsy) rather than considering the situational factors (the slippery floor)."
+    },
+    {
+        "Name":"Defensive attribution hypothesis",
+        "definition":"The defensive attribution hypothesis, a social psychological theory, suggests that people attribute the causes of mishaps to external factors to reduce their own feelings of vulnerability.",
+        "example":"Imagine you hear a colleague was recently laid off.\n\nIf you feel your job is also potentially vulnerable (e.g., your department is facing budget cuts or the company is restructuring), you might attribute the layoff to the colleague's performance (\"They weren't a strong performer,\" or \"They weren't adaptable to the changing needs of the company\"). This allows you to believe that if you perform well, you are safe from being laid off.\n\nIf you feel your job is very secure (e.g., you're in a high-demand department or have a strong relationship with management), you might attribute the layoff to external factors beyond the colleague's control, such as the overall economic climate or the company's strategic decisions. This reinforces your feeling of job security.\n\nIn both scenarios, the attributions serve a defensive purpose. When we feel similar to the victim, we tend to blame them to create a sense of control over our own fate. When we feel dissimilar, we attribute the event to external factors, maintaining our sense of security."
+    },
+    {
+        "Name":"Trait ascription bias",
+        "definition":"Trait ascription bias describes the cognitive bias where we prioritize personality traits over situational factors when explaining the behavior of others, leading to a distorted view of their actions.",
+        "example":"You observe a colleague being late to a meeting. You immediately think, \"They're so irresponsible and disorganized.\" However, when you are late to a meeting, you attribute it to external factors, such as unexpected traffic or a last-minute request from your boss. You see your own behavior as influenced by the situation, but you see others' behavior as reflecting their inherent personality traits."
+    },
+    {
+        "Name":"Effort justification",
+        "definition":"Effort justification highlights the connection between effort and perceived value: the more we work for something, the more we value it.",
+        "example":"Someone spends hours assembling a piece of furniture. It's a frustrating and difficult process. After finally finishing, they might rate the furniture as being much nicer and of higher quality than it actually is, simply to justify the effort they put into assembling it. They are trying to reduce the cognitive dissonance created by investing so much effort into something that might not be objectively great."
+    },
+    {
+        "Name":"Risk compensation",
+        "definition":"Risk compensation is a theory proposing that people modify their behavior in response to their perception of risk, becoming more cautious when they perceive higher risk and less cautious when they perceive lower risk.",
+        "example":"After installing a sophisticated home security system, a homeowner might become less diligent about locking their doors and windows, feeling that the security system provides sufficient protection. They compensate for the perceived reduction in risk provided by the security system by taking fewer other precautions."
+    },
+    {
+        "Name":"Peltzman effect",
+        "definition":"The Peltzman Effect proposes that mandated safety regulations can paradoxically lead to an increase in risky behavior.",
+        "example":"After mandatory seatbelt laws are introduced, drivers might feel safer and therefore drive more recklessly, such as speeding or tailgating. The increased safety provided by the seatbelt leads to an increase in risky behavior, potentially offsetting some or all of the intended safety benefits of the law"
+    },
+    {
+        "Name":"Hyperbolic discounting",
+        "definition":"Hyperbolic discounting is a cognitive bias that describes our tendency to place a disproportionately high value on immediate rewards compared to future rewards, even if the future rewards are significantly larger. Unlike other delay discounting models, this preference is not consistent over time.",
+        "example":"If you ask someone \"Would you prefer $100 today or $120 in a month?\" many would choose the $100 today.\nBut if you ask \"Would you prefer $100 in 12 months or $120 in 13 months?\" most people choose the $120 - even though it's the same time difference (1 month) and same amounts."
+    },
+    {
+        "Name":"Appeal to novelty",
+        "definition":"An appeal to novelty (or appeal to innovation) is the fallacy of assuming something is better simply because it's new.",
+        "example":"A company releases a new version of its software with a completely redesigned interface. Even though the old interface was perfectly functional and users were accustomed to it, the company markets the new version as \"better\" simply because it's \"new and improved,\" without providing any concrete evidence of actual improvements in usability or functionality. Customers are encouraged to upgrade simply because it's the latest version."
+    },
+    {
+        "Name":"Identifiable victim effect",
+        "definition":"The identifiable victim effect (IVE) is a psychological phenomenon where people exhibit a greater willingness to help a single, identifiable victim compared to a large, anonymous group facing the same plight.",
+        "example":"A charity is raising money to combat hunger. They present two different appeals:\n\nA statistical report stating that \"millions of people are facing starvation.\"\nA story about a specific child named Maria who is suffering from severe malnutrition, including a photo of her.\n\nPeople are likely to donate significantly more money when presented with Maria's story, even though the statistical report represents a much larger problem. The identifiable victim (Maria) evokes stronger empathy and a greater willingness to help than the abstract statistics."
+    },
+    {
+        "Name":"Sunk cost fallacy",
+        "definition":"This phenomenon explains why people are often unwilling to abandon a strategy or project in which they have invested significant resources, even when it's demonstrably failing.",
+        "example":"Someone might continue pouring money into a failing business because they've already invested so much, even though closing it would be the more financially sound decision."
+    },
+    {
+        "Name":"Irrational escalation",
+        "definition":"Irrational escalation, also referred to as escalation of commitment or commitment bias, is a behavioral pattern where individuals persist in allocating resources to a course of action even when faced with negative feedback or outcomes.",
+        "example":"Two companies are engaged in a bidding war for a valuable contract. Even when it becomes clear that the cost of winning the contract has escalated far beyond its potential value, both companies continue to bid higher, driven by a desire to \"win\" and avoid \"losing face,\" rather than making a rational economic decision. They are irrationally escalating their commitment to the competition."
+    },
+    {
+        "Name":"Escalation of commitment",
+        "definition":"This refers to the phenomenon where people increase their investment in a decision or action, even when faced with increasingly negative outcomes, in an attempt to justify previous decisions.",
+        "example":"Continuing to pour money into a failing business in the hope of turning it around, even when it would be more financially sound to close it."
+    },
+    {
+        "Name":"Generation effect",
+        "definition":"This phenomenon describes how active generation of information enhances memory compared to passive reading.",
+        "example":"When studying for a history exam, you're more likely to remember key dates if you try to actively recall them yourself (e.g., by testing yourself with flashcards or trying to explain the events to someone else) than if you simply reread the textbook passively"
+    },
+    {
+        "Name":"Loss aversion",
+        "definition":"Loss aversion is a psychological bias where the negative impact of a loss is perceived as greater than the positive impact of a gain of the same size.",
+        "example":"The disappointment of losing $100 is typically felt more strongly than the joy of finding $100."
+    },
+    {
+        "Name":"IKEA effect",
+        "definition":"The IKEA effect highlights the connection between effort and valuation: the more we contribute to something, the more we appreciate it.",
+        "example":"Someone who assembles their own furniture might value it more than an identical piece of pre-assembled furniture."
+    },
+    {
+        "Name":"Unit bias",
+        "definition":"Unit bias, in behavioral economics, describes the tendency to consider a single unit of a product or resource as the appropriate quantity to consume or utilize, irrespective of its actual size or volume.",
+        "example":"Someone might eat an entire large bag of chips simply because it's presented as \"one bag,\" even if a smaller portion would be more appropriate."
+    },
+    {
+        "Name":"Zero\u2013risk bias",
+        "definition":" Zero-Risk Bias reflects a strong desire for certainty and control over risk, leading people to prioritize eliminating a small risk entirely over reducing a larger risk by a greater amount.",
+        "example":"Someone might spend a lot of time and money eliminating a very small risk of contamination in their home, while neglecting larger risks like poor diet or lack of exercise."
+    },
+    {
+        "Name":"Disposition effect",
+        "definition":"The disposition effect, a behavioral finance phenomenon, explains why investors tend to sell assets that have gained value (realizing gains) while holding onto assets that have lost value (avoiding losses). This common bias can negatively impact investment performance.",
+        "example":"An investor might quickly sell a stock that has risen in price by 10%, but hold onto a stock that has fallen by 10%, hoping it will recover."
+    },
+    {
+        "Name":"Pseudocertainty effect",
+        "definition":"The pseudocertainty effect describes the tendency to treat uncertain outcomes as if they were certain, leading to potentially flawed decisions.",
+        "example":"A marketing campaign that promises \"a chance to win\" might be perceived as more appealing than one that states \"a 10% chance to win,\" even though the odds are the same."
+    },
+    {
+        "Name":"Processing difficulty effect",
+        "definition":"This cognitive phenomenon, referred to as the processing difficulty effect or disfluency effect, suggests that information that is presented in a way that makes it more challenging to process is often better remembered due to the increased cognitive engagement required.",
+        "example":"A textbook presents key terms in a slightly unusual font that is a little harder to read than the standard font. While it takes students a bit more effort to decipher the words, they end up remembering those terms better on a later test compared to terms presented in the easy-to-read font."
+    },
+    {
+        "Name":"Endowment effect",
+        "definition":"The endowment effect, also called divestiture aversion, describes the psychological tendency for people to place a higher value on items they possess compared to identical items they do not possess.",
+        "example":"Someone is given a coffee mug as a gift. Even though they wouldn't have paid $10 for that same mug in a store, they now refuse to sell it for $10, feeling that it's worth more to them simply because they own it."
+    },
+    {
+        "Name":"Backfire effect",
+        "definition":"The backfire effect describes the phenomenon where encountering evidence that contradicts one's existing beliefs leads to a strengthening of those original beliefs rather than a change in perspective.",
+        "example":"Showing someone scientific data that contradicts their belief about a conspiracy theory might not change their mind; it might actually make them more convinced of the conspiracy."
+    },
+    {
+        "Name":"System justification",
+        "definition":"System justification, in social psychology, explains why people are motivated to defend and rationalize existing social, political, and economic systems, even when those systems are unequal or disadvantageous to certain groups.",
+        "example":"Someone who is disadvantaged by the current economic system might still defend it, believing it is fair or necessary."
+    },
+    {
+        "Name":"Reverse psychology",
+        "definition":"Reverse psychology is a persuasion technique in which one advocates for a behavior contrary to the desired outcome, with the intention of inducing the target to perform the desired behavior.",
+        "example":"Telling a child \"Don't eat your vegetables\" might actually make them more likely to eat them."
+    },
+    {
+        "Name":"Reactance",
+        "definition":"This psychological phenomenon, known as reactance bias, occurs when individuals perceive a restriction or elimination of their behavioral freedoms, leading to a motivational state aimed at restoring those freedoms.",
+        "example":"A teenager who is told they \"can't\" date a certain person might become even more determined to date them."
+    },
+    {
+        "Name":"Decoy effect",
+        "definition":"The decoy effect, also known as the attraction effect or asymmetric dominance, describes how the addition of a third, asymmetrically dominated option can alter preferences between two existing options.",
+        "example":"Imagine two subscription options: a basic package for $10 and a premium package for $20. Introducing a third option, a \"deluxe\" package for $25 with only slightly more features than the premium package, can make the $20 premium package seem like a much better deal."
+    },
+    {
+        "Name":"Social comparison effect",
+        "definition":"The social comparison effect describes the psychological tendency for individuals to assess their own abilities, opinions, and standing by comparing themselves to others. This process can have both positive and negative impacts on self-esteem and behavior.",
+        "example":"Comparing yourself to a highly successful colleague might motivate you to work harder, but it could also lead to feelings of inadequacy if you feel you don't measure up."
+    },
+    {
+        "Name":"Status quo bias",
+        "definition":"Status quo bias describes the tendency to favor the current state of affairs and resist change.",
+        "example":"A person has been using the same bank for many years. Even though another bank offers better interest rates and lower fees, they continue to stay with their current bank, simply because they are used to it and don't want to go through the hassle of switching accounts."
+    },
+    {
+        "Name":"Ambiguity bias",
+        "definition":"The ambiguity effect describes the preference for known risks over unknown risks, leading us to avoid options with uncertain outcomes.",
+        "example":"Someone might choose a job with a guaranteed, but lower, salary over a job with a potentially higher salary but less certain prospects."
+    },
+    {
+        "Name":"Information bias",
+        "definition":"Information bias, also known as measurement bias, refers to systematic errors in the way study data is collected or categorized, leading to inaccurate results.",
+        "example":"If a study relies on self-reported data about dietary habits, and participants inaccurately recall what they ate, this introduces information bias."
+    },
+    {
+        "Name":"Belief bias",
+        "definition":"Belief bias highlights the influence of our pre-existing beliefs on our reasoning abilities, often leading us to accept flawed arguments that align with what we already think.",
+        "example":"Someone might accept a poorly reasoned argument that supports their political views while rejecting a well-reasoned argument that contradicts them."
+    },
+    {
+        "Name":"Rhyme\u2013as\u2013reason effect",
+        "definition":"The rhyme-as-reason effect describes the cognitive bias where rhyming statements are perceived as more truthful or accurate than non-rhyming statements, even if the content is the same.",
+        "example":"\"What sobriety conceals, alcohol reveals\" might be perceived as more insightful or true than the same sentiment expressed without rhyme."
+    },
+    {
+        "Name":"Bike\u2013shedding effect",
+        "definition":"This cognitive bias, known as the bike shed effect or Parkinson's Law of Triviality, explains why groups often spend excessive time discussing minor details while neglecting more complex and significant issues.",
+        "example":"A committee might spend hours debating the color of a bike shed while only briefly discussing the design and functionality of the building it's next to."
+    },
+    {
+        "Name":" Parkinson's Law of Triviality",
+        "definition":"Parkinson's Law of Triviality, explains why groups often spend excessive time discussing minor details while neglecting more complex and significant issues.",
+        "example":"A committee might spend hours debating the color of a bike shed while only briefly discussing the design and functionality of the building it's next to."
+    },
+    {
+        "Name":"Delmore effect",
+        "definition":"Delmore effect is the tendency to have more concrete goals for less significant parts of our lives, while our goals for more important areas remain vague.",
+        "example":"Someone might have very specific goals about organizing their bookshelf (low priority) but only vague ideas about their career path (high priority)."
+    },
+    {
+        "Name":"Conjunction fallacy",
+        "definition":"This logical fallacy, known as the conjunction fallacy, occurs when individuals incorrectly assess the probability of a conjunction (two or more events occurring simultaneously) as higher than the probability of one of the conjuncts (individual events) occurring.",
+        "example":"It's more likely that someone is a bank teller than that they are a bank teller and a feminist. The conjunction fallacy would be believing the latter is more likely."
+    },
+    {
+        "Name":"Occam's razor",
+        "definition":"Occam's razor or the principle of parsimony, advocates for selecting the explanation that requires the fewest additional assumptions or complexities.",
+        "example":"If a patient has a set of symptoms, a doctor using Occam's razor would first consider the most common and easily explained diagnosis before exploring rarer or more complex possibilities."
+    },
+    {
+        "Name":"Less\u2013is\u2013better effect",
+        "definition":"This cognitive bias, known as the less-is-better effect, manifests as a preference reversal: individuals prefer a smaller option when presented alone but switch to preferring the larger option when both are presented simultaneously.",
+        "example":"Someone might prefer a smaller portion of ice cream served in a fancy bowl when presented alone, but prefer a larger portion in a plain bowl when both are presented side-by-side."
+    },
+    {
+        "Name":"Misattribution of memory",
+        "definition":"Misattribution of memory describes the cognitive bias where individuals accurately recall information but misremember the context or source from which it was learned.",
+        "example":"Someone might remember a fact they learned in a documentary but mistakenly believe they read it in a news article."
+    },
+    {
+        "Name":"Source confusion",
+        "definition":"This memory error, referred to as source confusion, source misattribution, or unconscious transference, occurs when individuals have difficulty recalling the context or source from which they acquired specific information, sometimes leading to the blending of details from multiple sources.",
+        "example":"Someone might remember a news story but mistakenly attribute it to a different news outlet, or they might blend details from two separate conversations into a single, inaccurate memory."
+    },
+    {
+        "Name":"Cryptomnesia",
+        "definition":"Cryptomnesia is a memory phenomenon that occurs when a person mistakenly believes that an idea or thought is their own, when in fact they have encountered it before and forgotten it. It is also known as unconscious or inadvertent plagiarism.",
+        "example":"A songwriter might unknowingly reproduce a melody they heard years ago, believing they composed it themselves."
+    },
+    {
+        "Name":"False memory",
+        "definition":"This refers to recollections that are distorted or entirely fabricated but are nonetheless experienced as real by the individual. These can include errors of commission, where details are added that did not actually happen.",
+        "example":"Someone might falsely remember seeing a specific detail in a photograph that wasn't actually there."
+    },
+    {
+        "Name":"Suggestibility",
+        "definition":"This refers to the tendency to readily accept and act upon the ideas or suggestions of others, often bypassing critical evaluation or independent thought. This can also manifest as responding to suggestions without conscious awareness.",
+        "example":"Someone might buy a product simply because a friend recommended it, without doing any research of their own, or they might unconsciously mimic someone's posture during a conversation."
+    },
+    {
+        "Name":"Spacing effect",
+        "definition":"The spacing effect, also known as distributed practice or spaced repetition, is a cognitive phenomenon demonstrating that information is better retained when learning sessions are distributed over time rather than massed together.",
+        "example":"Instead of studying for four hours straight the night before an exam, it's more effective to study for an hour each day for four days."
+    },
+    {
+        "Name":"Implicit Bias",
+        "definition":"Implicit bias, also known as implicit prejudice or implicit attitude, refers to unconscious and automatic negative evaluations of a particular social group.",
+        "example":"Someone might unconsciously associate certain racial groups with bad behavior, even if they consciously believe that all people should be treated equally."
+    },
+    {
+        "Name":"Implicit stereotypes",
+        "definition":"Implicit stereotypes are automatic, unconscious mental associations that link social groups with specific traits, characteristics, or attributes. These associations are rooted in associative networks within semantic memory and are activated automatically.",
+        "example":"Someone might unconsciously associate men with leadership roles or women with nurturing roles, even if they consciously reject these stereotypes."
+    },
+    {
+        "Name":"Stereotypical bias",
+        "definition":"Stereotypical bias occurs when we rely on stereotypes, oversimplified generalizations about groups, to inform our perceptions and judgments of individuals.",
+        "example":"Assuming that all members of a certain ethnic group are good at math."
+    },
+    {
+        "Name":"Prejudice",
+        "definition":"Prejudice is a preconceived judgment or opinion, often negative, about an individual based solely on their affiliation with a particular group.",
+        "example":"Believing that all members of a certain nationality are dishonest."
+    },
+    {
+        "Name":"Negativity bias",
+        "definition":"The negativity bias describes the tendency for negative experiences and information to have a greater impact on our psychological state than positive experiences of equal or even greater magnitude.",
+        "example":"You have a day where nine things go well, and one small thing goes wrong (e.g., you spill a bit of coffee on your shirt). You're more likely to focus on the spilled coffee and let it negatively affect your mood, rather than focusing on the nine positive things that happened."
+    },
+    {
+        "Name":"Fading affect bias",
+        "definition":"The fading affect bias (FAB) describes the phenomenon where the emotional intensity associated with negative memories diminishes more rapidly than the emotional intensity associated with positive memories. This effect is most commonly observed in autobiographical memories but has also been found in other memory types.",
+        "example":"Years after a difficult breakup, you remember the relationship mostly for the good times, like fun dates and shared laughter. The intense pain, sadness, and anger you felt immediately after the breakup have faded significantly in your memory."
+    },
+    {
+        "Name":"Peak\u2013end rule",
+        "definition":"The peak-end rule describes how our memories of experiences are disproportionately influenced by the most intense moment (the peak) and the final moments (the end), rather than the overall experience.",
+        "example":"Someone goes on a week-long vacation. They experience several enjoyable moments throughout the week, but also some minor inconveniences (e.g., a delayed flight, a rainy day). However, if the last day of their vacation is particularly enjoyable (e.g., a beautiful sunset or a delicious final meal), they are likely to remember the entire vacation as being very positive overall, even if there were some less pleasant moments in the middle. Conversely, if the end of the vacation is stressful (e.g., missing their flight or getting sick), they are likely to remember the whole trip negatively, even if most of the week was enjoyable."
+    },
+    {
+        "Name":"Leveling and sharpening",
+        "definition":"Leveling and sharpening are two memory distortions. Leveling involves the simplification of memories by omitting less important details, while sharpening involves the exaggeration of certain aspects, making them more prominent in recall. These processes significantly influence how we base our judgments on past experiences.",
+        "example":"Someone recounts a story about a car accident they witnessed.\n\nLeveling: They might forget minor details like the exact color of the cars involved or the specific time of day the accident occurred. They simplify the memory, losing some of the less important details.\n\nSharpening: They might exaggerate the speed of the cars or the loudness of the crash, emphasizing the more dramatic aspects of the event to make the story more engaging when retelling it."
+    },
+    {
+        "Name":"Misinformation effect",
+        "definition":"The misinformation effect describes how exposure to incorrect information after an event can alter and distort an individual's recollection of that event. This can result in the creation of false memories or the distortion of existing ones.",
+        "example":"A group of friends goes to a museum. Later, one friend tells the others, \"Remember that ancient Egyptian exhibit? I loved the golden mask of Tutankhamun.\" While there was an Egyptian exhibit, there was no golden mask of Tutankhamun; it was a different pharaoh. The other friends, hearing this misinformation, might start to remember seeing a golden mask as well, even though it wasn't there. The post-event suggestion of the mask has influenced their memories of the exhibit."
+    },
+    {
+        "Name":"Serial recall effect",
+        "definition":"The serial position effect is a memory phenomenon where items presented at the beginning (primacy effect) and end (recency effect) of a list are more easily recalled than items in the middle.",
+        "example":"Someone is trying to memorize a phone number: 555-123-4567. They are more likely to remember the first few digits (555) and the last few digits (4567) correctly in the right order than the middle digits (123). This is because of the serial position effect, which influences serial recall (recalling items in a specific order)."
+    },
+    {
+        "Name":"List\u2013length effect",
+        "definition":"The list length effect (LLE), demonstrates that the probability of correctly recalling an item from a list diminishes as the total number of items on the list increases.",
+        "example":"You're given two grocery lists to memorize:\n\nList A: Milk, Bread, Eggs, Cheese\n\nList B: Milk, Bread, Eggs, Cheese, Apples, Bananas, Oranges, Grapes, Strawberries, Blueberries\n\nYou'll likely remember a higher percentage of items from the shorter list (List A) than from the longer list (List B), even though you might remember a similar number of items from both lists."
+    },
+    {
+        "Name":"Duration neglect",
+        "definition":"This psychological bias, known as duration neglect, refers to the tendency to disregard the duration of an experience when evaluating its overall pleasantness or unpleasantness in retrospect. Instead, judgments are heavily influenced by the peak intensity of the experience and the final moments.",
+        "example":"A painful medical procedure that ends quickly with a moment of relief might be remembered as less unpleasant than a longer procedure with consistent, moderate pain."
+    },
+    {
+        "Name":"Modality effect",
+        "definition":"The modality effect describes the influence of sensory presentation (visual, auditory, tactile, etc.) on perception, memory, and decision-making.",
+        "example":"For example, a warning siren (auditory) might elicit a faster response than a flashing light (visual) in a noisy environment."
+    },
+    {
+        "Name":"Memory inhibition",
+        "definition":"Memory inhibition is a cognitive process that actively reduces the accessibility of irrelevant or unwanted memories, enabling individuals to focus on pertinent information. This mechanism plays a crucial role in memory management and the regulation of thought and responses to memory cues.",
+        "example":"when studying for a test, memory inhibition might help you suppress memories of unrelated events or distractions, allowing you to focus on the study material."
+    },
+    {
+        "Name":"Primacy effect",
+        "definition":"The primacy effect is a memory phenomenon where items presented at the beginning of a sequence are more easily recalled than subsequent items. This effect can also lead to a bias where initial information is perceived as more significant.",
+        "example":"When meeting a group of people, you're more likely to remember the names of the first few people you were introduced to."
+    },
+    {
+        "Name":"Recency effect",
+        "definition":"The recency effect is a memory phenomenon where the most recently presented items in a sequence are more readily recalled than those presented earlier. It is a key component of the serial position effect, which explains how item position influences memorability.",
+        "example":"If someone reads you a list of ten words, you're more likely to remember the last few words they said."
+    },
+    {
+        "Name":"Part\u2013set cueing effect",
+        "definition":"The part-set cueing effect describes the counterintuitive finding that providing a subset of studied items as retrieval cues can actually impair recall of the remaining items compared to when no cues are provided.",
+        "example":"Imagine trying to remember a list of fruits: \"apple, banana, orange, grape, kiwi.\" If you're given \"apple\" and \"banana\" as cues, you might find it harder to remember \"grape\" and \"kiwi\" than if you were given no cues at all."
+    },
+    {
+        "Name":"Serial\u2013position effect",
+        "definition":"The serial position effect describes the tendency for items at the beginning and end of a list to be more easily recalled than those in the middle. This effect is a result of the interplay of two distinct memory phenomena.",
+        "example":"You're trying to memorize a shopping list: apples, bananas, carrots, dates, eggs, figs, grapes. You'll likely remember \"apples\" and \"bananas\" (the beginning of the list - primacy effect) and \"figs\" and \"grapes\" (the end of the list - recency effect) better than \"carrots,\" \"dates,\" and \"eggs\" (the middle of the list)."
+    },
+    {
+        "Name":"Suffix effect",
+        "definition":"The suffix effect describes the phenomenon where the presentation of an irrelevant item (the suffix) at the end of a list impairs recall of the preceding items, particularly the last few.",
+        "example":"Hearing a random word after a list of numbers makes it harder to remember the last few numbers."
+    },
+    {
+        "Name":"Levels\u2013of\u2013processing effect",
+        "definition":"The levels-of-processing (LoP) effect is a cognitive psychology principle stating that the depth to which information is processed during encoding directly influences its subsequent recall. Deeper processing leads to stronger and more durable memories.",
+        "example":"Trying to understand the meaning of a word (deep processing) leads to better memory than simply focusing on its spelling or how it looks (shallow processing)."
+    },
+    {
+        "Name":"Absent\u2013mindedness",
+        "definition":"Absent-mindedness highlights the disconnect between one's thoughts and their immediate surroundings, leading to forgetfulness and inattention.",
+        "example":"Someone puts their car keys in the refrigerator instead of on the key hook by the door, because they were thinking about something else while coming in."
+    },
+    {
+        "Name":"Testing effect",
+        "definition":"The testing effect is a cognitive phenomenon demonstrating that actively retrieving information through testing enhances subsequent learning and retention compared to simply restudying the material.",
+        "example":"A student is preparing for a history exam. Instead of simply rereading their notes and textbook chapters, they create flashcards and actively quiz themselves on the key dates, events, and figures. They find that this active retrieval practice helps them remember the information much better on the actual exam."
+    },
+    {
+        "Name":"Next\u2013in\u2013line effect",
+        "definition":"The next-in-line effect highlights the impact of anticipation and anxiety on memory: focusing on our upcoming performance can interfere with our ability to encode preceding events.",
+        "example":"In a group presentation, someone might have trouble remembering what the person who spoke right before them said, because they were focused on preparing for their own part."
+    },
+    {
+        "Name":"Google effect",
+        "definition":"The Google effect refers to the tendency to rely on search engines for information retrieval rather than encoding and storing that information in our own memory.",
+        "example":"You might not bother memorizing a phone number if you know you can easily find it in your contacts or online."
+    },
+    {
+        "Name":"Tip of the tongue phenomenon",
+        "definition":"The tip-of-the-tongue (TOT) phenomenon describes the frustrating experience of knowing a word but being temporarily unable to retrieve it from memory, often accompanied by a sense of near-retrieval and partial knowledge about the word.",
+        "example":"You're trying to remember the name of a famous actor who starred in a particular movie. You can picture their face, you know their name starts with a \"D,\" and you even remember they were also in a TV show, but you just can't quite retrieve their full name. You feel like it's \"on the tip of your tongue.\""
+    }
+]
