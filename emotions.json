@@ -1,44 +1,1092 @@
 {
     "emotions": [
         {
-            "emotion": "Joy",
-            "description": "A feeling of great pleasure and happiness"
+            "emotion": "Acceptance",
+            "description": "The quality or state of being accepted or acceptable"
         },
         {
-            "emotion": "Sadness",
-            "description": "Feeling or showing sorrow or grief"
+            "emotion": "Admiration",
+            "description": "A feeling of respect and approval"
+        },
+        {
+            "emotion": "Adoration",
+            "description": "The act of adoring : The state of being adored"
+        },
+        {
+            "emotion": "Affection",
+            "description": "A feeling of liking and caring for someone or something : tender attachment"
+        },
+        {
+            "emotion": "Afraid",
+            "description": "Filled with fear or apprehension"
+        },
+        {
+            "emotion": "Agitate",
+            "description": "To excite and often trouble the mind or feelings of"
+        },
+        {
+            "emotion": "Agony",
+            "description": "Intense pain of mind or body"
+        },
+        {
+            "emotion": "Aggressive",
+            "description": "A forceful action or procedure (such as an unprovoked attack) especially when intended to dominate or master"
+        },
+        {
+            "emotion": "Alarm",
+            "description": "Sudden sharp apprehension and fear resulting from the perception of imminent danger"
+        },
+        {
+            "emotion": "Alarmed",
+            "description": "Feeling a sense of danger : urgently worried, concerned, or frightened"
+        },
+        {
+            "emotion": "Alienation",
+            "description": "A withdrawing or separation of a person or a person's affections from an object or position of former attachment"
+        },
+        {
+            "emotion": "Amazement",
+            "description": "Feeling or showing great surprise or wonder"
+        },
+        {
+            "emotion": "Ambivalence",
+            "description": "Simultaneous and contradictory attitudes or feelings (such as attraction and repulsion) toward an object, person, or action"
+        },
+        {
+            "emotion": "Amusement",
+            "description": "The condition of being amused"
         },
         {
             "emotion": "Anger",
-            "description": "A strong feeling of annoyance, displeasure, or hostility"
+            "description": "A strong feeling of displeasure and usually of antagonism"
         },
         {
-            "emotion": "Fear",
-            "description": "An unpleasant emotion caused by the belief that someone or something is dangerous"
+            "emotion": "Anguish",
+            "description": "Extreme pain, distress, or anxiety"
         },
         {
-            "emotion": "Surprise",
-            "description": "A feeling of mild astonishment or shock caused by something unexpected"
+            "emotion": "Annoyed",
+            "description": "Feeling or showing angry irritation"
         },
         {
-            "emotion": "Trust",
-            "description": "Firm belief in the reliability, truth, ability, or strength of someone or something"
+            "emotion": "Anticipating",
+            "description": "To give advance thought, discussion, or treatment to"
         },
         {
-            "emotion": "Anticipation",
-            "description": "A feeling of excitement about something that is going to happen"
+            "emotion": "Anxious",
+            "description": "Characterized by extreme uneasiness of mind or brooding fear about some contingency"
+        },
+        {
+            "emotion": "Apathy",
+            "description": "Lack of feeling or emotion"
+        },
+        {
+            "emotion": "Apprehension",
+            "description": "Suspicion or fear especially of future evil"
+        },
+        {
+            "emotion": "Arrogant",
+            "description": "Exaggerating or disposed to exaggerate one's own worth or importance often by an overbearing manner"
+        },
+        {
+            "emotion": "Assertive",
+            "description": "Disposed to or characterized by bold or confident statements and behavior"
+        },
+        {
+            "emotion": "Astonished",
+            "description": "Feeling or showing great surprise or wonder"
+        },
+        {
+            "emotion": "Attentive",
+            "description": "Having the mind fixed on something"
+        },
+        {
+            "emotion": "Attraction",
+            "description": "Something that attracts interest"
+        },
+        {
+            "emotion": "Aversion",
+            "description": "A dislike so strong as to cause stomach upset or queasiness"
+        },
+        {
+            "emotion": "Awe",
+            "description": "The rapt attention and deep emotion caused by the sight of something extraordinary"
+        },
+        {
+            "emotion": "Baffled",
+            "description": "Faced with difficulty or uncertainty about what to say, think, or do"
+        },
+        {
+            "emotion": "Bewildered",
+            "description": "Suffering from mental confusion"
+        },
+        {
+            "emotion": "Bitter",
+            "description": "Having or showing deep-seated resentment"
+        },
+        {
+            "emotion": "Bittersweet",
+            "description": "Pleasant but including or marked by elements of suffering or regret"
+        },
+        {
+            "emotion": "Bliss",
+            "description": "Complete happiness"
+        },
+        {
+            "emotion": "Boredom",
+            "description": "The state of being weary and restless through lack of interest"
+        },
+        {
+            "emotion": "Brazen",
+            "description": "Marked by shameless or disrespectful boldness"
+        },
+        {
+            "emotion": "Brooding",
+            "description": "Moodily or sullenly thoughtful or serious"
+        },
+        {
+            "emotion": "Calm",
+            "description": "A state of tranquility"
+        },
+        {
+            "emotion": "Carefree",
+            "description": "Having no worries or troubles"
+        },
+        {
+            "emotion": "Careless",
+            "description": "Free from care"
+        },
+        {
+            "emotion": "Caring",
+            "description": "Feeling or showing concern for or kindness to others"
+        },
+        {
+            "emotion": "Charity",
+            "description": "Generosity and helpfulness especially toward the needy or suffering"
+        },
+        {
+            "emotion": "Cheeky",
+            "description": "Boldly rude, impudent, or disrespectful in usually a playful or appealing way"
+        },
+        {
+            "emotion": "Cheerful",
+            "description": "Full of good spirits"
+        },
+        {
+            "emotion": "Claustrophobia",
+            "description": "A feeling of discomfort or discontent caused by being in a limiting or restrictive situation or environment"
+        },
+        {
+            "emotion": "Coerce",
+            "description": "To compel to an act or choice"
+        },
+        {
+            "emotion": "Comfortable",
+            "description": "Affording or enjoying contentment and security"
+        },
+        {
+            "emotion": "Confident",
+            "description": "Full of conviction"
+        },
+        {
+            "emotion": "Confusion",
+            "description": "Being perplexed or disconcerted"
+        },
+        {
+            "emotion": "Contempt",
+            "description": "The act of despising"
+        },
+        {
+            "emotion": "Content",
+            "description": "To appease the desires of"
+        },
+        {
+            "emotion": "Courage",
+            "description": "Mental or moral strength to venture, persevere, and withstand danger, fear, or difficulty"
+        },
+        {
+            "emotion": "Cowardly",
+            "description": "One who shows disgraceful fear or timidity"
+        },
+        {
+            "emotion": "Cruel",
+            "description": "Disposed to inflict pain or suffering : devoid of humane feelings"
+        },
+        {
+            "emotion": "Curiosity",
+            "description": "Desire to know"
+        },
+        {
+            "emotion": "Cynical",
+            "description": "contemptuously distrustful of human nature and motives"
+        },
+        {
+            "emotion": "Dazed",
+            "description": "Unable to think clearly or act normally due to injury, shock, bewilderment, fatigue, etc."
+        },
+        {
+            "emotion": "Dejection",
+            "description": "Lowness of spirits"
+        },
+        {
+            "emotion": "Delighted",
+            "description": "Highly pleased"
+        },
+        {
+            "emotion": "Demoralized",
+            "description": "To cause to turn aside or away from what is good or true or morally right : to corrupt the morals of"
+        },
+        {
+            "emotion": "Depressed",
+            "description": "Low in spirits : Sad"
+        },
+        {
+            "emotion": "Desire",
+            "description": "To long or hope for : exhibit or feel desire for"
+        },
+        {
+            "emotion": "Despair",
+            "description": "Utter loss of hope"
+        },
+        {
+            "emotion": "Determined",
+            "description": "Having reached a decision : firmly resolved"
+        },
+        {
+            "emotion": "Disappointed",
+            "description": "Defeated in expectation or hope"
+        },
+        {
+            "emotion": "Disbelief",
+            "description": "The act of disbelieving : mental rejection of something as untrue"
+        },
+        {
+            "emotion": "Discombobulated",
+            "description": "Characterized by confusion or disorder"
+        },
+        {
+            "emotion": "Discomfort",
+            "description": "Mental or physical uneasiness"
+        },
+        {
+            "emotion": "Discontentment",
+            "description": "Lack of satisfaction with one's possessions, status, or situation : lack of contentment"
+        },
+        {
+            "emotion": "Disgruntled",
+            "description": "Unhappy and annoyed"
         },
         {
             "emotion": "Disgust",
-            "description": "A feeling of revulsion or strong disapproval"
+            "description": "Marked aversion aroused by something highly distasteful"
         },
         {
-            "emotion": "Love",
-            "description": "An intense feeling of deep affection or attachment"
+            "emotion": "Disheartened",
+            "description": "To cause to lose hope, enthusiasm, or courage : to cause to lose spirit or morale"
+        },
+        {
+            "emotion": "Dislike",
+            "description": "Feeling of aversion or disapproval"
+        },
+        {
+            "emotion": "Dismay",
+            "description": "To cause to lose courage or resolution (as because of alarm or fear)"
+        },
+        {
+            "emotion": "Disoriented",
+            "description": "Having lost one's sense of time, place, or identity"
+        },
+        {
+            "emotion": "Dispirited",
+            "description": "To deprive of morale or enthusiasm"
+        },
+        {
+            "emotion": "Displeasure",
+            "description": "The feeling of one that is displeased"
+        },
+        {
+            "emotion": "Distract",
+            "description": "To draw or direct (something, such as someone's attention) to a different object or in different directions at the same time"
+        },
+        {
+            "emotion": "Distress",
+            "description": "Pain or suffering affecting the body, a bodily part, or the mind"
+        },
+        {
+            "emotion": "Disturbed",
+            "description": "Experiencing or exhibiting emotional disturbance or agitation : having a mental disability or illness"
+        },
+        {
+            "emotion": "Dominant",
+            "description": "Commanding, controlling, or prevailing over all others"
+        },
+        {
+            "emotion": "Doubt",
+            "description": "To call into question the truth of : to be uncertain or in doubt about"
+        },
+        {
+            "emotion": "Dread",
+            "description": "To fear greatly"
+        },
+        {
+            "emotion": "Driven",
+            "description": "Determined to succeed : highly energetic and motivated"
+        },
+        {
+            "emotion": "Dumbstruck",
+            "description": "Made silent by astonishment"
+        },
+        {
+            "emotion": "Eagerness",
+            "description": "Marked by enthusiastic or impatient desire or interest"
+        },
+        {
+            "emotion": "Ecstasy",
+            "description": "A state of overwhelming emotion"
+        },
+        {
+            "emotion": "Elated",
+            "description": "Marked by high spirits"
+        },
+        {
+            "emotion": "Embarrass",
+            "description": "To throw into a state of self-conscious distress"
+        },
+        {
+            "emotion": "Empathy",
+            "description": "The feeling that you understand and share another person's experiences and emotions"
+        },
+        {
+            "emotion": "Enchanted",
+            "description": "Being or appearing to be under a magic spell"
+        },
+        {
+            "emotion": "Enjoy",
+            "description": "To take pleasure in"
+        },
+        {
+            "emotion": "Enlightened",
+            "description": "As in educated"
+        },
+        {
+            "emotion": "Ennui",
+            "description": "a feeling of weariness and dissatisfaction "
+        },
+        {
+            "emotion": "Enthusiasm",
+            "description": "A practice or interest that is very popular for a short time"
+        },
+        {
+            "emotion": "Envy",
+            "description": "A painful awareness of another's possessions or advantages and a desire to have them too"
+        },
+        {
+            "emotion": "Epiphany",
+            "description": "A usually sudden manifestation or perception of the essential nature or meaning of something"
+        },
+        {
+            "emotion": "Euphoria",
+            "description": "A feeling of well-being or elation"
+        },
+        {
+            "emotion": "Exasperated",
+            "description": "Having or showing strong feelings of irritation or annoyance"
+        },
+        {
+            "emotion": "Excitement",
+            "description": "To arouse (something, such as a strong emotional response) by appropriate stimuli"
+        },
+        {
+            "emotion": "Expect",
+            "description": "To consider probable or certain"
+        },
+        {
+            "emotion": "Fascinate",
+            "description": "To command the interest of"
+        },
+        {
+            "emotion": "Fear",
+            "description": "An unpleasant often strong emotion caused by anticipation or awareness of danger"
+        },
+        {
+            "emotion": "Flakey",
+            "description": "Markedly odd or unconventional"
+        },
+        {
+            "emotion": "Focus",
+            "description": "A center of activity, attraction, or attention"
+        },
+        {
+            "emotion": "Fondness",
+            "description": "Tender affection"
+        },
+        {
+            "emotion": "Friendliness",
+            "description": "Disposition to goodwill, warmth, or kindness to others"
+        },
+        {
+            "emotion": "Fright",
+            "description": "Fear excited by sudden danger"
+        },
+        {
+            "emotion": "Frustrated",
+            "description": "Feeling discouragement, anger, and annoyance because of unresolved problems or unfulfilled goals, desires, or needs"
+        },
+        {
+            "emotion": "Fury",
+            "description": "Intense, disordered, and often destructive rage"
+        },
+        {
+            "emotion": "Glee",
+            "description": "Exultant high-spirited joy "
+        },
+        {
+            "emotion": "Gloomy",
+            "description": "Dismally and depressingly dark"
+        },
+        {
+            "emotion": "Glumness",
+            "description": "Broodingly morose"
+        },
+        {
+            "emotion": "Gratitude",
+            "description": "The state of being grateful"
+        },
+        {
+            "emotion": "Grateful",
+            "description": "Appreciative of benefits received"
+        },
+        {
+            "emotion": "Greed",
+            "description": "A selfish and excessive desire for more of something (such as money) than is needed"
+        },
+        {
+            "emotion": "Grief",
+            "description": "Deep and poignant distress caused by or as if by bereavement"
+        },
+        {
+            "emotion": "Grouchy",
+            "description": "Easily irritated or annoyed"
+        },
+        {
+            "emotion": "Grumpiness",
+            "description": "Readiness to show annoyance or impatience"
         },
         {
             "emotion": "Guilt",
-            "description": "A feeling of having done wrong or failed in an obligation"
+            "description": "A feeling of responsibility for wrongdoing"
+        },
+        {
+            "emotion": "Happiness",
+            "description": "A feeling or state of well-being and contentment"
+        },
+        {
+            "emotion": "Hate",
+            "description": "To dislike strongly"
+        },
+        {
+            "emotion": "Hatred",
+            "description": "A very strong dislike"
+        },
+        {
+            "emotion": "Helpless",
+            "description": "Lacking protection from danger or resistance against attack"
+        },
+        {
+            "emotion": "Homesick",
+            "description": "Longing for home and family while absent from them"
+        },
+        {
+            "emotion": "Hope",
+            "description": "To cherish a desire with anticipation : to want something to happen or be true"
+        },
+        {
+            "emotion": "Hopeless",
+            "description": "Having no expectation of good or success"
+        },
+        {
+            "emotion": "Horrified",
+            "description": "To cause to feel horror"
+        },
+        {
+            "emotion": "Hospitable",
+            "description": "Given to generous and cordial reception of guests"
+        },
+        {
+            "emotion": "Humiliation",
+            "description": "To reduce (someone) to a lower position in one's own eyes or others' eyes : to make (someone) ashamed or embarrassed"
+        },
+        {
+            "emotion": "Humility",
+            "description": "Freedom from pride or arrogance : the quality or state of being humble"
+        },
+        {
+            "emotion": "Hurt",
+            "description": "To inflict with physical pain"
+        },
+        {
+            "emotion": "Hysteria",
+            "description": "Behavior exhibiting overwhelming or unmanageable fear or emotional excess"
+        },
+        {
+            "emotion": "Idleness",
+            "description": "Not occupied or employed"
+        },
+        {
+            "emotion": "Impatient",
+            "description": "Not patient : restless or short of temper especially under irritation, delay, or opposition"
+        },
+        {
+            "emotion": "Indifferent",
+            "description": "Marked by a lack of interest, enthusiasm, or concern for something"
+        },
+        {
+            "emotion": "Indignant",
+            "description": "Feeling or showing anger because of something unjust or unworthy"
+        },
+        {
+            "emotion": "Infatuation",
+            "description": "A feeling of foolish or obsessively strong love for, admiration for, or interest in someone or something : strong and unreasoning attachment"
+        },
+        {
+            "emotion": "Infuriate",
+            "description": "To make furious"
+        },
+        {
+            "emotion": "Insecurity",
+            "description": "A state or feeling of anxiety, fear, or self-doubt"
+        },
+        {
+            "emotion": "Insight",
+            "description": "The power or act of seeing into a situation"
+        },
+        {
+            "emotion": "Insulted",
+            "description": "To treat with insolence, indignity, or contempt"
+        },
+        {
+            "emotion": "Interest",
+            "description": "A feeling that accompanies or causes special attention to something or someone"
+        },
+        {
+            "emotion": "Intrigued",
+            "description": "Having one's interest, desire, or curiosity strongly aroused"
+        },
+        {
+            "emotion": "Irritate",
+            "description": "To provoke impatience, anger, or displeasure"
+        },
+        {
+            "emotion": "Isolated",
+            "description": "Occurring alone or once"
+        },
+        {
+            "emotion": "Jealous",
+            "description": "Hostile toward a rival or one believed to enjoy an advantage"
+        },
+        {
+            "emotion": "Joviality",
+            "description": "Characterized by good-humored cheerfulness and conviviality"
+        },
+        {
+            "emotion": "Joy",
+            "description": "The emotion evoked by well-being, success, or good fortune or by the prospect of possessing what one desires"
+        },
+        {
+            "emotion": "Jubilant",
+            "description": "Feeling or expressing great joy"
+        },
+        {
+            "emotion": "Kind",
+            "description": "Sympathetic or helpful nature"
+        },
+        {
+            "emotion": "Lazy",
+            "description": "Disinclined to activity or exertion : not energetic or vigorous"
+        },
+        {
+            "emotion": "Liking",
+            "description": "Favorable regard"
+        },
+        {
+            "emotion": "Loathing",
+            "description": "Extreme disgust"
+        },
+        {
+            "emotion": "Lonely",
+            "description": "Being without company"
+        },
+        {
+            "emotion": "Longing",
+            "description": "A strong desire especially for something unattainable"
+        },
+        {
+            "emotion": "Loopy",
+            "description": "Having or characterized by loops"
+        },
+        {
+            "emotion": "\u200bLove",
+            "description": "To hold dear"
+        },
+        {
+            "emotion": "Lust",
+            "description": "Intense sexual desire"
+        },
+        {
+            "emotion": "Mad",
+            "description": "Feeling or showing anger"
+        },
+        {
+            "emotion": "Melancholy",
+            "description": "Suggestive or expressive of sadness or depression of mind or spirit"
+        },
+        {
+            "emotion": "Miserable",
+            "description": "Being in a pitiable state of distress or unhappiness (as from want or shame)"
+        },
+        {
+            "emotion": "Miserliness",
+            "description": "Marked by grasping meanness and penuriousness"
+        },
+        {
+            "emotion": "Mixed-up",
+            "description": "Marked by bewilderment, perplexity, or disorder"
+        },
+        {
+            "emotion": "Modesty",
+            "description": "The quality of not being too proud or confident about yourself or your abilities"
+        },
+        {
+            "emotion": "Moody",
+            "description": "Subject to depression"
+        },
+        {
+            "emotion": "Mortified",
+            "description": "Feeling or showing strong shame or embarrassment"
+        },
+        {
+            "emotion": "Mystified",
+            "description": "To perplex the mind"
+        },
+        {
+            "emotion": "Nasty",
+            "description": "Disgustingly filthy"
+        },
+        {
+            "emotion": "Nauseated",
+            "description": "Extreme disgust"
+        },
+        {
+            "emotion": "Negative",
+            "description": "Marked by features of hostility, withdrawal, or pessimism"
+        },
+        {
+            "emotion": "Neglect",
+            "description": "To give little attention or respect"
+        },
+        {
+            "emotion": "Nervous",
+            "description": "Timid, Apprehensive"
+        },
+        {
+            "emotion": "Nostalgic",
+            "description": "Longing for or thinking fondly of a past time or condition"
+        },
+        {
+            "emotion": "Numb",
+            "description": "Unable to think, feel, or react normally because of something that shocks or upsets you"
+        },
+        {
+            "emotion": "Obstinate",
+            "description": "Stubbornly adhering to an opinion, purpose, or course in spite of reason, arguments, or persuasion"
+        },
+        {
+            "emotion": "Offended",
+            "description": "To violate a law or rule : do wrong"
+        },
+        {
+            "emotion": "Optimistic",
+            "description": "Feeling or showing hope for the future"
+        },
+        {
+            "emotion": "Outrage",
+            "description": "An act of violence or brutality"
+        },
+        {
+            "emotion": "Overwhelmed",
+            "description": "Completely overcome or overpowered by thought or feeling"
+        },
+        {
+            "emotion": "Panic",
+            "description": "The emotion experienced in the presence or threat of danger"
+        },
+        {
+            "emotion": "Paranoid",
+            "description": "Having extreme or unreasonable fear or suspicion"
+        },
+        {
+            "emotion": "Passion",
+            "description": "A feeling of strong or constant regard for and dedication to someone"
+        },
+        {
+            "emotion": "Patience",
+            "description": "The capacity to endure what is difficult or disagreeable without complaining"
+        },
+        {
+            "emotion": "Pensive",
+            "description": "Given to or marked by long, quiet thinking"
+        },
+        {
+            "emotion": "Perplexed",
+            "description": "Faced with difficulty or uncertainty about what to say, think, or do"
+        },
+        {
+            "emotion": "Persevere",
+            "description": "Continuing despite difficulties, opposition, or discouragement"
+        },
+        {
+            "emotion": "Pessimism",
+            "description": "A feeling or belief that bad things will happen in the future; a feeling or belief that what you hope for will not happen"
+        },
+        {
+            "emotion": "Pity",
+            "description": "A regrettable or blameworthy act"
+        },
+        {
+            "emotion": "Pleased",
+            "description": "Experiencing pleasure, satisfaction, or delight"
+        },
+        {
+            "emotion": "Pleasure",
+            "description": "The feeling experienced when one's wishes are met"
+        },
+        {
+            "emotion": "Politeness",
+            "description": "Speech or behavior that is a sign of good breeding"
+        },
+        {
+            "emotion": "Positive",
+            "description": "Expressing approval"
+        },
+        {
+            "emotion": "Possessive",
+            "description": "Intolerant of rivalry or unfaithfulness"
+        },
+        {
+            "emotion": "Powerless",
+            "description": "Unable to act or achieve one's purpose"
+        },
+        {
+            "emotion": "Pride",
+            "description": "A reasonable or justifiable sense of one's worth or importance"
+        },
+        {
+            "emotion": "Puzzled",
+            "description": "To offer or represent to (someone) a problem difficult to solve or a situation difficult to resolve : challenge mentally"
+        },
+        {
+            "emotion": "Rage\u200b",
+            "description": "An intense feeling"
+        },
+        {
+            "emotion": "Rash",
+            "description": "Marked by or proceeding from undue haste or lack of deliberation or caution"
+        },
+        {
+            "emotion": "Rattled",
+            "description": "To upset especially to the point of loss of poise and composure"
+        },
+        {
+            "emotion": "Regret",
+            "description": "Sorrow aroused by circumstances beyond one's control or power to repair"
+        },
+        {
+            "emotion": "Rejected",
+            "description": "Not given approval or acceptance"
+        },
+        {
+            "emotion": "Relaxed",
+            "description": "Set or being at rest or at ease"
+        },
+        {
+            "emotion": "Relieved",
+            "description": "Experiencing or showing relief especially from anxiety or pent-up emotions"
+        },
+        {
+            "emotion": "Reluctant",
+            "description": "Feeling or showing aversion, hesitation, or unwillingness"
+        },
+        {
+            "emotion": "Remorse",
+            "description": "A gnawing distress arising from a sense of guilt for past wrongs"
+        },
+        {
+            "emotion": "Resentment",
+            "description": "A feeling of indignant displeasure or persistent ill will at something regarded as a wrong, insult, or injury"
+        },
+        {
+            "emotion": "Resigned",
+            "description": "Feeling or showing acceptance that something unwanted or unpleasant will happen or cannot be changed"
+        },
+        {
+            "emotion": "Restlessness",
+            "description": "Characterized by or manifesting unrest especially of mind"
+        },
+        {
+            "emotion": "Revulsion",
+            "description": "A sense of utter distaste or repugnance"
+        },
+        {
+            "emotion": "Ruthless",
+            "description": "Having no pity"
+        },
+        {
+            "emotion": "Sadness",
+            "description": "Affected with or expressive of grief or unhappiness"
+        },
+        {
+            "emotion": "Satisfaction",
+            "description": "Fulfillment of a need or want"
+        },
+        {
+            "emotion": "Scared",
+            "description": "Thrown into or being in a state of fear, fright, or panic"
+        },
+        {
+            "emotion": "Schadenfreude",
+            "description": "Enjoyment obtained from the troubles of others"
+        },
+        {
+            "emotion": "Scorn",
+            "description": "Open dislike and disrespect or mockery often mixed with indignation"
+        },
+        {
+            "emotion": "Self-care",
+            "description": "Care for oneself"
+        },
+        {
+            "emotion": "Self-compassionate",
+            "description": "Having or showing compassion for oneself"
+        },
+        {
+            "emotion": "Self-confident",
+            "description": "Confidence in oneself and in one's powers and abilities"
+        },
+        {
+            "emotion": "Self-conscious",
+            "description": "Conscious of one's own acts or states as belonging to or originating in oneself : aware of oneself as an individual"
+        },
+        {
+            "emotion": "Self-critical",
+            "description": "Inclined to find fault with oneself"
+        },
+        {
+            "emotion": "Self-loathing",
+            "description": "Loathing of oneself "
+        },
+        {
+            "emotion": "Self-motivated",
+            "description": "Driven by one's own desires and ambitions"
+        },
+        {
+            "emotion": "Self-pity",
+            "description": "Pity for oneself"
+        },
+        {
+            "emotion": "Self-respecting",
+            "description": "Having or characterized by self-respect"
+        },
+        {
+            "emotion": "Self-understanding",
+            "description": "Knowledge or understanding of one's own capabilities, character, feelings, or motivations"
+        },
+        {
+            "emotion": "Sentimentality",
+            "description": "Marked or governed by feeling, sensibility, or emotional idealism"
+        },
+        {
+            "emotion": "Serenity",
+            "description": "Marked by or suggestive of utter calm and unruffled repose or quietude"
+        },
+        {
+            "emotion": "Shame",
+            "description": "A painful emotion caused by consciousness of guilt, shortcoming, or impropriety"
+        },
+        {
+            "emotion": "Shameless",
+            "description": "Having no shame : insensible to disgrace"
+        },
+        {
+            "emotion": "Shock",
+            "description": "A sudden or violent mental or emotional disturbance"
+        },
+        {
+            "emotion": "Smug",
+            "description": "Highly self-satisfied"
+        },
+        {
+            "emotion": "\u200bSorrow",
+            "description": "Deep distress, sadness, or regret especially for the loss of someone or something loved"
+        },
+        {
+            "emotion": "Spite",
+            "description": "Petty ill will or hatred with the disposition to irritate, annoy, or thwart"
+        },
+        {
+            "emotion": "Stress",
+            "description": "A physical, chemical, or emotional factor that causes bodily or mental tension and may be a factor in disease causation"
+        },
+        {
+            "emotion": "Strong",
+            "description": "Effective or efficient especially in a specified direction"
+        },
+        {
+            "emotion": "Stubborn",
+            "description": "Difficult to handle, manage, or treat"
+        },
+        {
+            "emotion": "Stuck",
+            "description": "Firmly positioned in place and difficult to dislodge"
+        },
+        {
+            "emotion": "Submissive",
+            "description": "Readily giving in to the command or authority of another"
+        },
+        {
+            "emotion": "Suffering",
+            "description": "The state or experience of one that suffers"
+        },
+        {
+            "emotion": "Sullenness",
+            "description": "Gloomily or resentfully silent or repressed"
+        },
+        {
+            "emotion": "Surprise",
+            "description": "The feeling caused by something unexpected or unusual"
+        },
+        {
+            "emotion": "Suspense",
+            "description": "Mental uncertainty"
+        },
+        {
+            "emotion": "Suspicion",
+            "description": "A state of mental uneasiness and uncertainty"
+        },
+        {
+            "emotion": "Sympathy",
+            "description": "An affinity, association, or relationship between persons or things wherein whatever affects one similarly affects the other"
+        },
+        {
+            "emotion": "Tender",
+            "description": "Marked by, responding to, or expressing the softer emotions"
+        },
+        {
+            "emotion": "Tension",
+            "description": "Inner striving, unrest, or imbalance often with physiological indication of emotion"
+        },
+        {
+            "emotion": "Terror",
+            "description": "A state of intense or overwhelming fear"
+        },
+        {
+            "emotion": "Thankfulness",
+            "description": "Well pleased"
+        },
+        {
+            "emotion": "Thrilled",
+            "description": "Extremely pleased and excited"
+        },
+        {
+            "emotion": "Tired",
+            "description": "Drained of strength and energy : fatigued often to the point of exhaustion"
+        },
+        {
+            "emotion": "Tolerance",
+            "description": "Capacity to endure pain or hardship"
+        },
+        {
+            "emotion": "\u200bTorment",
+            "description": "Extreme pain or anguish of body or mind"
+        },
+        {
+            "emotion": "Triumphant",
+            "description": "Rejoicing for or celebrating victory"
+        },
+        {
+            "emotion": "Trouble",
+            "description": "The quality or state of being troubled especially mentally"
+        },
+        {
+            "emotion": "Trust",
+            "description": "Assured reliance on the character, ability, strength, or truth of someone or something"
+        },
+        {
+            "emotion": "Uncertain",
+            "description": "Not having certain knowledge"
+        },
+        {
+            "emotion": "Undermined",
+            "description": "To subvert or weaken insidiously or secretly"
+        },
+        {
+            "emotion": "Uneasiness",
+            "description": "Causing physical or mental discomfort"
+        },
+        {
+            "emotion": "Unhappy",
+            "description": "Not cheerful or glad"
+        },
+        {
+            "emotion": "Unnerved",
+            "description": "To deprive of courage, strength, or steadiness"
+        },
+        {
+            "emotion": "Unsettled",
+            "description": "Not calm or tranquil"
+        },
+        {
+            "emotion": "Unsure",
+            "description": "Not marked by or given to feelings of confident certainty"
+        },
+        {
+            "emotion": "Upset",
+            "description": "To trouble mentally or emotionally : disturb the poise of"
+        },
+        {
+            "emotion": "Vengeful",
+            "description": "Seeking to avenge"
+        },
+        {
+            "emotion": "Vicious",
+            "description": "Dangerously aggressive "
+        },
+        {
+            "emotion": "\u200bVigilance",
+            "description": "Alertly watchful especially to avoid danger"
+        },
+        {
+            "emotion": "Vulnerable",
+            "description": "Capable of being physically or emotionally wounded"
+        },
+        {
+            "emotion": "Weak",
+            "description": "Lacking strength"
+        },
+        {
+            "emotion": "Woe",
+            "description": "A condition of deep suffering from misfortune, affliction, or grief"
+        },
+        {
+            "emotion": "Worried",
+            "description": "Mentally troubled or concerned : feeling or showing concern or anxiety about what is happening or might happen"
+        },
+        {
+            "emotion": "Worthy",
+            "description": "Having sufficient worth or importance"
+        },
+        {
+            "emotion": "Wrath",
+            "description": "Strong vengeful anger or indignation"
         }
     ]
 }
