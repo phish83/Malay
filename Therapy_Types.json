@@ -1,0 +1,217 @@
+[
+    {
+        "id": "art",
+        "name": "Art Therapy",
+        "description": "Art therapy uses creative expression as a therapeutic tool to promote emotional and mental well-being.",
+        "applications": [
+            "Emotional expression",
+            "Trauma processing",
+            "Anxiety and depression",
+            "Child therapy",
+            "Stress reduction"
+        ]
+    },
+    {
+        "id": "cbt",
+        "name": "Cognitive Behavioral Therapy (CBT)",
+        "description": "CBT is a structured, goal-oriented therapy that focuses on the relationship between thoughts, feelings, and behaviors. It helps individuals identify and change negative thought patterns and behaviors.",
+        "applications": [
+            "Depression and anxiety disorders",
+            "Phobias and panic disorders",
+            "Post-traumatic stress disorder (PTSD)",
+            "Eating disorders",
+            "Sleep disorders"
+        ]
+    },
+    {
+        "id": "ecotherapy",
+        "name": "Ecotherapy",
+        "description": "Ecotherapy involves exposure to and activities in nature to improve mental health. It emphasizes the connection between humans and the environment.",
+        "applications": [
+            "Stress and anxiety reduction",
+            "Depression management",
+            "Improved well-being",
+            "Enhanced mindfulness and connection to nature"
+        ]
+    },
+    {
+        "id": "family",
+        "name": "Family Therapy",
+        "description": "Family therapy focuses on improving communication and resolving conflicts within the family unit.",
+        "applications": [
+            "Family conflicts",
+            "Child and adolescent issues",
+            "Marriage problems",
+            "Behavioral problems",
+            "Communication issues"
+        ]
+    },
+    {
+        "id": "humanistic",
+        "name": "Humanistic Therapy",
+        "description": "Humanistic therapy emphasizes personal growth and self-actualization. It focuses on the present moment and helps individuals develop a stronger sense of self.",
+        "applications": [
+            "Self-esteem issues",
+            "Personal growth",
+            "Relationship difficulties",
+            "Life transitions",
+            "Existential concerns"
+        ]
+    },
+    {
+        "id": "hypnotherapy",
+        "name": "Hypnotherapy",
+        "description": "Hypnotherapy uses guided relaxation, concentration, and focused attention to achieve a heightened state of awareness (hypnosis). It is often used to help change habits or alleviate stress.",
+        "applications": [
+            "Smoking cessation",
+            "Weight management",
+            "Anxiety and phobias",
+            "Pain management",
+            "Stress reduction"
+        ]
+    },
+    {
+        "id": "music",
+        "name": "Music Therapy",
+        "description": "Music therapy uses music interventions to address emotional, cognitive, and social needs of individuals.",
+        "applications": [
+            "Stress management",
+            "Improved communication",
+            "Emotional expression",
+            "Physical rehabilitation",
+            "Enhancing memory in dementia"
+        ]
+    },
+    {
+        "id": "psychodynamic",
+        "name": "Psychodynamic Therapy",
+        "description": "Psychodynamic therapy focuses on unconscious processes and past experiences that influence current behavior. It helps individuals gain insight into their emotional patterns and relationships.",
+        "applications": [
+            "Depression and anxiety",
+            "Relationship issues",
+            "Personal growth and self-understanding",
+            "Long-standing emotional difficulties",
+            "Identity issues"
+        ]
+    },
+    {
+        "id": "somatic",
+        "name": "Somatic Experiencing",
+        "description": "Somatic experiencing focuses on the connection between the mind and body. It helps individuals process trauma through physical sensations and awareness.",
+        "applications": [
+            "Trauma and PTSD",
+            "Stress and anxiety",
+            "Chronic pain",
+            "Emotional regulation",
+            "Improved self-awareness"
+        ]
+    },
+    {
+        "id": "gestalt",
+        "name": "Gestalt Therapy",
+        "description": "Gestalt therapy emphasizes personal responsibility and focuses on the present moment. It helps individuals become more aware of their thoughts, emotions, and behaviors.",
+        "applications": [
+            "Improved self-awareness",
+            "Relationship challenges",
+            "Depression and anxiety",
+            "Personal growth",
+            "Emotional processing"
+        ]
+    },
+    {
+        "id": "dbt",
+        "name": "Dialectical Behavior Therapy (DBT)",
+        "description": "DBT combines cognitive-behavioral techniques with mindfulness concepts. It teaches skills like emotion regulation, distress tolerance, and interpersonal effectiveness.",
+        "applications": [
+            "Borderline personality disorder",
+            "Emotional dysregulation",
+            "Self-harming behaviors",
+            "Substance abuse",
+            "Severe anxiety"
+        ]
+    },
+    {
+        "id": "clientcentered",
+        "name": "Client-Centered Therapy",
+        "description": "Client-centered therapy, developed by Carl Rogers, emphasizes creating a supportive environment to empower clients to find solutions to their own challenges.",
+        "applications": [
+            "Building self-esteem",
+            "Fostering personal growth",
+            "Improving relationships",
+            "Addressing anxiety and depression",
+            "Encouraging self-awareness"
+        ]
+    },
+    {
+        "id": "couples",
+        "name": "Couples Therapy",
+        "description": "Couples therapy helps partners improve their relationship through better communication and understanding.",
+        "applications": [
+            "Resolving conflicts",
+            "Improving communication",
+            "Rebuilding trust",
+            "Enhancing intimacy",
+            "Managing life transitions as a couple"
+        ]
+    },
+    {
+        "id": "play",
+        "name": "Play Therapy",
+        "description": "Play therapy uses play as a way for children to express emotions and address psychological issues in a safe environment.",
+        "applications": [
+            "Trauma recovery in children",
+            "Behavioral issues",
+            "Anxiety and depression",
+            "Social skills development",
+            "Grief and loss"
+        ]
+    },
+    {
+        "id": "exposure",
+        "name": "Exposure Therapy",
+        "description": "Exposure therapy helps individuals face and overcome fears by gradually exposing them to anxiety-provoking situations.",
+        "applications": [
+            "Phobias",
+            "Post-traumatic stress disorder (PTSD)",
+            "Obsessive-compulsive disorder (OCD)",
+            "Panic disorder",
+            "Social anxiety"
+        ]
+    },
+    {
+        "id": "emdr",
+        "name": "Eye Movement Desensitization and Reprocessing (EMDR)",
+        "description": "EMDR helps individuals process and reduce distress from traumatic memories through guided eye movements.",
+        "applications": [
+            "Trauma and PTSD",
+            "Anxiety and panic disorders",
+            "Phobias",
+            "Grief and loss",
+            "Performance anxiety"
+        ]
+    },
+    {
+        "id": "act",
+        "name": "Acceptance and Commitment Therapy (ACT)",
+        "description": "ACT focuses on accepting emotions and committing to meaningful actions aligned with personal values.",
+        "applications": [
+            "Chronic pain management",
+            "Anxiety and depression",
+            "Stress reduction",
+            "Substance abuse recovery",
+            "Improving emotional flexibility"
+        ]
+    },
+    {
+        "id": "sfb",
+        "name": "Solution-Focused Brief Therapy (SFBT)",
+        "description": "SFBT is a goal-oriented therapy that focuses on solutions rather than problems.",
+        "applications": [
+            "Short-term therapy needs",
+            "Building coping strategies",
+            "Improving relationships",
+            "Career challenges",
+            "Conflict resolution"
+        ]
+    }
+]
