@@ -1,0 +1,15 @@
+{
+    "categoryDescriptions": {
+        "anxiety": "Anxiety disorders are characterized by excessive fear or worry that disrupts daily activities.",
+        "mood": "Mood disorders primarily affect an individual's emotional state, including disorders like depression and bipolar disorder.",
+        ...
+    },
+    "disorders": {
+        "anxiety": [
+            { "id": "anxiety-gad", "name": "Generalized Anxiety Disorder" },
+            { "id": "anxiety-panic", "name": "Panic Disorder" },
+            ...
+        ],
+        ...
+    }
+}
