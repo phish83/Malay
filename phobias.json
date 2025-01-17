@@ -1,127 +1,502 @@
 {
-    "Ablutophobia": "An intense fear of bathing or washing, often rooted in traumatic experiences or irrational anxiety about hygiene-related activities.",
-    "Achluophobia": "A severe fear of darkness that can trigger anxiety or panic attacks, often linked to childhood experiences or the fear of the unknown.",
-    "Acrophobia": "An intense fear of heights that can cause dizziness, anxiety, or avoidance of high places like bridges, towers, or mountains.",
-    "Aerophobia": "An extreme fear of flying that can result in significant distress and avoidance of air travel, often linked to past traumatic experiences or anxiety about crashing.",
-    "Agoraphobia": "A fear of open spaces, crowded areas, or situations where escape might be difficult, often associated with panic disorder.",
-    "Aichmophobia": "An irrational fear of needles, sharp objects, or pointed items, which can cause significant discomfort during medical procedures.",
-    "Ailurophobia": "A deep fear of cats that can lead to avoidance behavior, often based on superstition or past negative encounters with cats.",
-    "Alektorophobia": "An uncommon but intense fear of chickens, which may stem from childhood experiences or a phobia of birds in general.",
-    "Algophobia": "A profound fear of pain, often associated with anxiety disorders or chronic pain experiences.",
-    "Amaxophobia": "A fear of riding in vehicles or cars, which can severely impact daily life and transportation needs.",
-    "Androphobia": "An intense fear of men, which can stem from traumatic experiences or cultural conditioning.",
-    "Anemophobia": "A fear of air or wind, often linked to experiences of severe weather events or phobias about breathing difficulties.",
-    "Anginophobia": "A fear of choking or angina, typically related to anxiety about health and physical well-being.",
-    "Angrophobia": "A fear of anger or angry people, which can lead to avoidance of confrontation or stressful social interactions.",
-    "Anthrophobia": "A fear of flowers, which may stem from allergic reactions, past trauma, or irrational associations with plants.",
-    "Anthropophobia": "An intense fear of people or social situations, often resulting in isolation or extreme anxiety during interactions.",
-    "Aphenphosmphobia": "A fear of being touched, which can be linked to past traumatic events or personal space issues.",
-    "Arachibutyrophobia": "A rare and specific fear of peanut butter sticking to the roof of the mouth, which can trigger anxiety or avoidance of peanut butter altogether.",
-    "Arachnophobia": "A profound fear of spiders that often causes panic attacks and avoidance of places where spiders might be present.",
-    "Arithmophobia": "An irrational fear of numbers, often causing anxiety about mathematics or numerical tasks.",
-    "Astraphobia": "A fear of thunder and lightning that can cause severe anxiety, especially during storms, often associated with traumatic weather experiences.",
-    "Astrophobia": "An intense fear of outer space, including the vastness, darkness, or unknown elements of the universe.",
-    "Ataxophobia": "A fear of disorder or untidiness, often linked to obsessive-compulsive tendencies or a need for control.",
-    "Atelophobia": "An intense fear of imperfection or making mistakes, which can lead to procrastination or avoidance behaviors.",
-    "Atychiphobia": "A fear of failure that can prevent individuals from pursuing goals or taking risks, often resulting in missed opportunities.",
-    "Automatonophobia": "A fear of human-like figures such as mannequins, wax figures, or robots, often causing discomfort or avoidance of such objects.",
-    "Autophobia": "A fear of being alone or isolated, often linked to feelings of abandonment or anxiety in solitude.",
-    "Bacteriophobia": "A fear of bacteria that can result in excessive cleaning, avoidance of public places, or other compulsive behaviors.",
-    "Barophobia": "An unusual fear of gravity, often manifesting as anxiety about falling or being crushed.",
-    "Bathmophobia": "A fear of stairs or steep slopes, which can cause avoidance of certain terrains or buildings.",
-    "Batrachophobia": "A fear of amphibians, such as frogs, toads, or salamanders, often based on irrational disgust or traumatic experiences.",
-    "Belonephobia": "A fear of pins, needles, or sharp objects, often causing avoidance of sewing, medical procedures, or similar situations.",
-    "Bibliophobia": "A fear of books, which can stem from negative educational experiences or irrational associations with printed materials.",
-    "Botanophobia": "A fear of plants, often linked to allergies, traumatic encounters, or fear of the unknown in nature.",
-    "Cacophobia": "A fear of ugliness, which can manifest as anxiety about one\u2019s own appearance or judgment of others.",
-    "Catagelophobia": "A fear of being ridiculed or mocked, which can cause avoidance of social interactions or performance situations.",
-    "Catoptrophobia": "A fear of mirrors, often associated with anxiety about self-image or superstitions involving reflections.",
-    "Chionophobia": "A fear of snow, which can lead to avoidance of winter activities or regions with heavy snowfall.",
-    "Chrometophobia": "A fear of spending money, often linked to financial insecurity or anxiety about wastefulness.",
-    "Chromophobia": "A fear of colors, which can cause avoidance of certain hues or overwhelming visual experiences.",
-    "Chronomentrophobia": "A fear of clocks, often linked to the anxiety of passing time or reminders of time limits and deadlines.",
-    "Chronophobia": "An intense fear of time or the passage of time, commonly associated with existential dread or high-pressure situations.",
-    "Cibophobia": "A fear of food, which can stem from concerns about contamination, choking, or negative associations with eating.",
-    "Claustrophobia": "A fear of confined spaces or being enclosed, often triggering anxiety or panic attacks in small rooms or crowded areas.",
-    "Climacophobia": "A fear of climbing or steep inclines, which can manifest as anxiety about heights or losing balance.",
-    "Coulrophobia": "A fear of clowns, often linked to childhood experiences or discomfort with exaggerated facial expressions.",
-    "Cyberphobia": "A fear of computers or technology, which can arise from unfamiliarity, technophobia, or concerns about digital safety.",
-    "Cynophobia": "A fear of dogs that ranges from mild anxiety to extreme panic, often caused by traumatic experiences or lack of familiarity with dogs.",
-    "Daemonophobia": "A fear of demons or evil spirits, typically rooted in cultural or religious beliefs about supernatural entities.",
-    "Decidophobia": "A fear of making decisions, often associated with anxiety about consequences, regret, or responsibility.",
-    "Dendrophobia": "A fear of trees, which may stem from past trauma, phobias related to forests, or symbolic associations.",
-    "Dentophobia": "A fear of dentists or dental procedures, often triggered by past painful experiences or fear of pain.",
-    "Domatophobia": "A fear of houses or being in a home, which can be related to traumatic experiences or feelings of entrapment.",
-    "Dystychiphobia": "A fear of accidents or mishaps, often causing hypervigilance or avoidance of potentially risky situations.",
-    "Ecophobia": "A fear of the home or household items, which can stem from trauma or unpleasant memories tied to a particular living space.",
-    "Emetophobia": "A fear of vomiting, often linked to anxiety about illness, lack of control, or public embarrassment.",
-    "Entomophobia": "A fear of insects, which can range from mild discomfort to severe panic attacks, depending on the insect.",
-    "Ephebiphobia": "A fear of teenagers, which may arise from stereotypes, cultural misunderstandings, or past negative experiences.",
-    "Equinophobia": "A fear of horses, often linked to past accidents, unfamiliarity, or their large size.",
-    "Erotophobia": "A fear of sex or sexual intimacy, which can stem from cultural taboos, past trauma, or feelings of inadequacy.",
-    "Gamophobia": "A fear of marriage or commitment, often stemming from anxiety about long-term responsibilities or past relationship experiences.",
-    "Genuphobia": "A fear of knees, which may arise from trauma, discomfort with physical appearance, or symbolic associations with kneeling.",
-    "Glossophobia": "A fear of speaking in public or performing in front of an audience, often linked to anxiety about judgment or embarrassment.",
-    "Gynophobia": "A fear of women, which can stem from cultural, personal, or traumatic experiences.",
-    "Haphephobia": "A fear of touch, often tied to past trauma, personal space issues, or sensory sensitivities.",
-    "Heliophobia": "A fear of the sun, often linked to concerns about sunburn, skin cancer, or discomfort in bright light.",
-    "Hemophobia": "A fear of blood, which can trigger fainting, nausea, or severe anxiety when exposed to injuries or medical procedures.",
-    "Herpetophobia": "A fear of reptiles, such as snakes or lizards, often associated with disgust, cultural myths, or traumatic encounters.",
-    "Hippopotomonstrosesquipedaliophobia": "An ironically long term describing a fear of long words, often associated with anxiety about pronunciation or comprehension.",
-    "Hydrophobia": "A fear of water, which can manifest as a reluctance to swim, bathe, or be near bodies of water, often rooted in past traumatic experiences.",
-    "Hypochondria": "A fear of illness, characterized by excessive worry about health or symptoms, even in the absence of medical issues.",
-    "Iatrophobia": "A fear of doctors or medical procedures, often linked to painful past experiences or anxiety about diagnoses.",
-    "Koinoniphobia": "A fear of rooms full of people, often related to social anxiety or fear of being judged in group settings.",
-    "Koumpounophobia": "A fear of buttons, which may result from sensory discomfort, negative associations, or obsessive-compulsive tendencies.",
-    "Leukophobia": "A fear of the color white, which can symbolize emptiness, sterility, or certain cultural connotations.",
-    "Lilapsophobia": "A fear of tornadoes and hurricanes, often stemming from personal experiences with severe weather or anxiety about natural disasters.",
-    "Lockiophobia": "A fear of childbirth, typically related to concerns about pain, medical risks, or the responsibilities of parenting.",
-    "Mageirocophobia": "A fear of cooking, which may be caused by anxiety about making mistakes, past kitchen accidents, or fear of judgment.",
-    "Megalophobia": "A fear of large things, such as buildings, vehicles, or animals, often triggered by feelings of being overwhelmed or small in comparison.",
-    "Melanophobia": "A fear of the color black, which can stem from cultural associations, symbolism, or negative personal experiences.",
-    "Microphobia": "A fear of small things, often tied to a sense of vulnerability or anxiety about things that cannot be easily seen or controlled.",
-    "Mysophobia": "A fear of dirt and germs, often leading to excessive cleaning or avoidance of public spaces due to contamination fears.",
-    "Necrophobia": "A fear of death or dead things, which can stem from existential anxieties or traumatic encounters with mortality.",
-    "Noctiphobia": "A fear of the night, often linked to anxiety about the unknown, darkness, or nighttime events.",
-    "Nomophobia": "A modern fear of being without a mobile phone, which can result in significant anxiety when disconnected from digital communication.",
-    "Nosocomephobia": "A fear of hospitals, often related to negative past experiences, medical anxiety, or fear of illness.",
-    "Nyctophobia": "A fear of the dark, which can cause distress, insomnia, or avoidance of nighttime activities.",
-    "Obesophobia": "A fear of gaining weight, often tied to body image issues or anxiety about health and societal standards.",
-    "Octophobia": "A fear of the figure 8, which may stem from symbolic associations, numerical anxiety, or superstitions.",
-    "Ombrophobia": "A fear of rain, which can lead to avoidance of outdoor activities or distress during storms.",
-    "Ophidiophobia": "A fear of snakes, which can trigger panic attacks or avoidance of areas where snakes might be present.",
-    "Ornithophobia": "A fear of birds, which can range from mild discomfort to severe anxiety when near birds or bird imagery.",
-    "Osmophobia": "A fear of smells, often tied to specific odors that trigger negative memories or sensory sensitivities.",
-    "Ostraconophobia": "A fear of shellfish, which can arise from allergies, traumatic encounters, or cultural associations.",
-    "Papyrophobia": "A fear of paper, which may stem from traumatic events, sensory discomfort, or fear of sharp paper edges.",
-    "Pathophobia": "A fear of disease, often resulting in obsessive behaviors like avoiding contact with others or frequent medical checkups.",
-    "Pedophobia": "A fear of children, which can be linked to traumatic experiences, misunderstandings, or cultural conditioning.",
-    "Philematophobia": "A fear of kissing, often tied to concerns about intimacy, germs, or personal boundaries.",
-    "Philophobia": "A fear of love, which can stem from past heartbreaks, emotional vulnerability, or fear of attachment.",
-    "Phobophobia": "A fear of phobias themselves, which creates a cycle of anxiety about experiencing fear.",
-    "Podophobia": "A fear of feet, often triggered by sensory discomfort, personal hygiene concerns, or negative associations.",
-    "Pogonophobia": "A fear of beards, which may stem from cultural stereotypes, past encounters, or aversion to facial hair.",
-    "Porphyrophobia": "A fear of the color purple, which can arise from symbolic associations or sensory aversions.",
-    "Pteridophobia": "A fear of ferns, which may be linked to phobias of plants or past experiences in nature.",
-    "Pteromerhanophobia": "A fear of flying, which causes anxiety about air travel, often rooted in claustrophobia or fear of crashes.",
-    "Pyrophobia": "A fear of fire, which can stem from traumatic experiences or anxiety about destruction and danger.",
-    "Samhainophobia": "A fear of Halloween, often tied to superstitions, cultural beliefs, or traumatic holiday experiences.",
-    "Scolionophobia": "A fear of school, which can result from bullying, academic pressure, or negative past experiences.",
-    "Scoptophobia": "A fear of being stared at, often causing anxiety in social situations or fear of public attention.",
-    "Selenophobia": "A fear of the moon, often tied to superstitions, cultural beliefs, or fear of nighttime.",
-    "Sociophobia": "A fear of social evaluation, which can lead to avoidance of social interactions or public scrutiny.",
-    "Somniphobia": "A fear of sleep, often linked to nightmares, fear of losing control, or anxiety about death during sleep.",
-    "Tachophobia": "A fear of speed, which can cause distress in fast-moving vehicles or anxiety about losing control.",
-    "Technophobia": "A fear of technology, which may result from unfamiliarity, rapid technological advancements, or distrust in devices.",
-    "Thalassophobia": "A fear of the ocean and deep bodies of water, often triggered by the vastness, depth, or fear of marine creatures.",
-    "Tonitrophobia": "A fear of thunder, which can lead to panic attacks during storms or avoidance of areas prone to thunderstorms.",
-    "Trichophobia": "A fear of hair, whether loose strands or body hair, often tied to sensory discomfort or disgust.",
-    "Trypanophobia": "A fear of needles or injections, often causing avoidance of medical procedures or vaccinations.",
-    "Trypophobia": "A fear of clustered patterns of holes, which can trigger discomfort, disgust, or visual distress.",
-    "Venustraphobia": "A fear of beautiful women, often rooted in insecurity, social anxiety, or fear of rejection.",
-    "Verminophobia": "A fear of germs, similar to mysophobia, leading to compulsive cleaning or avoidance of perceived contamination.",
-    "Wiccaphobia": "A fear of witches and witchcraft, often tied to cultural or religious beliefs about the supernatural.",
-    "Xenophobia": "A fear of strangers or foreigners, which can manifest as avoidance, distrust, or prejudice.",
-    "Zoophobia": "A fear of animals, either generalized or specific to certain species, often linked to traumatic experiences.",
-    "Zuigerphobia": "A fear of vacuum cleaners, often triggered by the noise, appearance, or negative childhood associations."
+    "Ablutophobia": {
+        "short": "An intense fear of bathing or washing",
+        "full": "An intense fear of bathing or washing, often rooted in traumatic experiences or irrational anxiety about hygiene-related activities."
+    },
+    "Achluophobia": {
+        "short": "A severe fear of darkness that can trigger anxiety or panic attacks",
+        "full": "A severe fear of darkness that can trigger anxiety or panic attacks, often linked to childhood experiences or the fear of the unknown."
+    },
+    "Acrophobia": {
+        "short": "An intense fear of heights that can cause dizziness",
+        "full": "An intense fear of heights that can cause dizziness, anxiety, or avoidance of high places like bridges, towers, or mountains."
+    },
+    "Aerophobia": {
+        "short": "An extreme fear of flying that can result in significant distress and avoidance of air travel",
+        "full": "An extreme fear of flying that can result in significant distress and avoidance of air travel, often linked to past traumatic experiences or anxiety about crashing."
+    },
+    "Agoraphobia": {
+        "short": "A fear of open spaces",
+        "full": "A fear of open spaces, crowded areas, or situations where escape might be difficult, often associated with panic disorder."
+    },
+    "Aichmophobia": {
+        "short": "An irrational fear of needles",
+        "full": "An irrational fear of needles, sharp objects, or pointed items, which can cause significant discomfort during medical procedures."
+    },
+    "Ailurophobia": {
+        "short": "A deep fear of cats that can lead to avoidance behavior",
+        "full": "A deep fear of cats that can lead to avoidance behavior, often based on superstition or past negative encounters with cats."
+    },
+    "Alektorophobia": {
+        "short": "An uncommon but intense fear of chickens",
+        "full": "An uncommon but intense fear of chickens, which may stem from childhood experiences or a phobia of birds in general."
+    },
+    "Algophobia": {
+        "short": "A profound fear of pain",
+        "full": "A profound fear of pain, often associated with anxiety disorders or chronic pain experiences."
+    },
+    "Amaxophobia": {
+        "short": "A fear of riding in vehicles or cars",
+        "full": "A fear of riding in vehicles or cars, which can severely impact daily life and transportation needs."
+    },
+    "Androphobia": {
+        "short": "An intense fear of men",
+        "full": "An intense fear of men, which can stem from traumatic experiences or cultural conditioning."
+    },
+    "Anemophobia": {
+        "short": "A fear of air or wind",
+        "full": "A fear of air or wind, often linked to experiences of severe weather events or phobias about breathing difficulties."
+    },
+    "Anginophobia": {
+        "short": "A fear of choking or angina",
+        "full": "A fear of choking or angina, typically related to anxiety about health and physical well-being."
+    },
+    "Angrophobia": {
+        "short": "A fear of anger or angry people",
+        "full": "A fear of anger or angry people, which can lead to avoidance of confrontation or stressful social interactions."
+    },
+    "Anthrophobia": {
+        "short": "A fear of flowers",
+        "full": "A fear of flowers, which may stem from allergic reactions, past trauma, or irrational associations with plants."
+    },
+    "Anthropophobia": {
+        "short": "An intense fear of people or social situations",
+        "full": "An intense fear of people or social situations, often resulting in isolation or extreme anxiety during interactions."
+    },
+    "Aphenphosmphobia": {
+        "short": "A fear of being touched",
+        "full": "A fear of being touched, which can be linked to past traumatic events or personal space issues."
+    },
+    "Arachibutyrophobia": {
+        "short": "A rare and specific fear of peanut butter sticking to the roof of the mouth",
+        "full": "A rare and specific fear of peanut butter sticking to the roof of the mouth, which can trigger anxiety or avoidance of peanut butter altogether."
+    },
+    "Arachnophobia": {
+        "short": "A profound fear of spiders that often causes panic attacks and avoidance of places where spiders might be present.",
+        "full": "A profound fear of spiders that often causes panic attacks and avoidance of places where spiders might be present."
+    },
+    "Arithmophobia": {
+        "short": "An irrational fear of numbers",
+        "full": "An irrational fear of numbers, often causing anxiety about mathematics or numerical tasks."
+    },
+    "Astraphobia": {
+        "short": "A fear of thunder and lightning that can cause severe anxiety",
+        "full": "A fear of thunder and lightning that can cause severe anxiety, especially during storms, often associated with traumatic weather experiences."
+    },
+    "Astrophobia": {
+        "short": "An intense fear of outer space",
+        "full": "An intense fear of outer space, including the vastness, darkness, or unknown elements of the universe."
+    },
+    "Ataxophobia": {
+        "short": "A fear of disorder or untidiness",
+        "full": "A fear of disorder or untidiness, often linked to obsessive-compulsive tendencies or a need for control."
+    },
+    "Atelophobia": {
+        "short": "An intense fear of imperfection or making mistakes",
+        "full": "An intense fear of imperfection or making mistakes, which can lead to procrastination or avoidance behaviors."
+    },
+    "Atychiphobia": {
+        "short": "A fear of failure that can prevent individuals from pursuing goals or taking risks",
+        "full": "A fear of failure that can prevent individuals from pursuing goals or taking risks, often resulting in missed opportunities."
+    },
+    "Automatonophobia": {
+        "short": "A fear of human-like figures such as mannequins",
+        "full": "A fear of human-like figures such as mannequins, wax figures, or robots, often causing discomfort or avoidance of such objects."
+    },
+    "Autophobia": {
+        "short": "A fear of being alone or isolated",
+        "full": "A fear of being alone or isolated, often linked to feelings of abandonment or anxiety in solitude."
+    },
+    "Bacteriophobia": {
+        "short": "A fear of bacteria that can result in excessive cleaning",
+        "full": "A fear of bacteria that can result in excessive cleaning, avoidance of public places, or other compulsive behaviors."
+    },
+    "Barophobia": {
+        "short": "An unusual fear of gravity",
+        "full": "An unusual fear of gravity, often manifesting as anxiety about falling or being crushed."
+    },
+    "Bathmophobia": {
+        "short": "A fear of stairs or steep slopes",
+        "full": "A fear of stairs or steep slopes, which can cause avoidance of certain terrains or buildings."
+    },
+    "Batrachophobia": {
+        "short": "A fear of amphibians",
+        "full": "A fear of amphibians, such as frogs, toads, or salamanders, often based on irrational disgust or traumatic experiences."
+    },
+    "Belonephobia": {
+        "short": "A fear of pins",
+        "full": "A fear of pins, needles, or sharp objects, often causing avoidance of sewing, medical procedures, or similar situations."
+    },
+    "Bibliophobia": {
+        "short": "A fear of books",
+        "full": "A fear of books, which can stem from negative educational experiences or irrational associations with printed materials."
+    },
+    "Botanophobia": {
+        "short": "A fear of plants",
+        "full": "A fear of plants, often linked to allergies, traumatic encounters, or fear of the unknown in nature."
+    },
+    "Cacophobia": {
+        "short": "A fear of ugliness",
+        "full": "A fear of ugliness, which can manifest as anxiety about one\u2019s own appearance or judgment of others."
+    },
+    "Catagelophobia": {
+        "short": "A fear of being ridiculed or mocked",
+        "full": "A fear of being ridiculed or mocked, which can cause avoidance of social interactions or performance situations."
+    },
+    "Catoptrophobia": {
+        "short": "A fear of mirrors",
+        "full": "A fear of mirrors, often associated with anxiety about self-image or superstitions involving reflections."
+    },
+    "Chionophobia": {
+        "short": "A fear of snow",
+        "full": "A fear of snow, which can lead to avoidance of winter activities or regions with heavy snowfall."
+    },
+    "Chrometophobia": {
+        "short": "A fear of spending money",
+        "full": "A fear of spending money, often linked to financial insecurity or anxiety about wastefulness."
+    },
+    "Chromophobia": {
+        "short": "A fear of colors",
+        "full": "A fear of colors, which can cause avoidance of certain hues or overwhelming visual experiences."
+    },
+    "Chronomentrophobia": {
+        "short": "A fear of clocks",
+        "full": "A fear of clocks, often linked to the anxiety of passing time or reminders of time limits and deadlines."
+    },
+    "Chronophobia": {
+        "short": "An intense fear of time or the passage of time",
+        "full": "An intense fear of time or the passage of time, commonly associated with existential dread or high-pressure situations."
+    },
+    "Cibophobia": {
+        "short": "A fear of food",
+        "full": "A fear of food, which can stem from concerns about contamination, choking, or negative associations with eating."
+    },
+    "Claustrophobia": {
+        "short": "A fear of confined spaces or being enclosed",
+        "full": "A fear of confined spaces or being enclosed, often triggering anxiety or panic attacks in small rooms or crowded areas."
+    },
+    "Climacophobia": {
+        "short": "A fear of climbing or steep inclines",
+        "full": "A fear of climbing or steep inclines, which can manifest as anxiety about heights or losing balance."
+    },
+    "Coulrophobia": {
+        "short": "A fear of clowns",
+        "full": "A fear of clowns, often linked to childhood experiences or discomfort with exaggerated facial expressions."
+    },
+    "Cyberphobia": {
+        "short": "A fear of computers or technology",
+        "full": "A fear of computers or technology, which can arise from unfamiliarity, technophobia, or concerns about digital safety."
+    },
+    "Cynophobia": {
+        "short": "A fear of dogs that ranges from mild anxiety to extreme panic",
+        "full": "A fear of dogs that ranges from mild anxiety to extreme panic, often caused by traumatic experiences or lack of familiarity with dogs."
+    },
+    "Daemonophobia": {
+        "short": "A fear of demons or evil spirits",
+        "full": "A fear of demons or evil spirits, typically rooted in cultural or religious beliefs about supernatural entities."
+    },
+    "Decidophobia": {
+        "short": "A fear of making decisions",
+        "full": "A fear of making decisions, often associated with anxiety about consequences, regret, or responsibility."
+    },
+    "Dendrophobia": {
+        "short": "A fear of trees",
+        "full": "A fear of trees, which may stem from past trauma, phobias related to forests, or symbolic associations."
+    },
+    "Dentophobia": {
+        "short": "A fear of dentists or dental procedures",
+        "full": "A fear of dentists or dental procedures, often triggered by past painful experiences or fear of pain."
+    },
+    "Domatophobia": {
+        "short": "A fear of houses or being in a home",
+        "full": "A fear of houses or being in a home, which can be related to traumatic experiences or feelings of entrapment."
+    },
+    "Dystychiphobia": {
+        "short": "A fear of accidents or mishaps",
+        "full": "A fear of accidents or mishaps, often causing hypervigilance or avoidance of potentially risky situations."
+    },
+    "Ecophobia": {
+        "short": "A fear of the home or household items",
+        "full": "A fear of the home or household items, which can stem from trauma or unpleasant memories tied to a particular living space."
+    },
+    "Emetophobia": {
+        "short": "A fear of vomiting",
+        "full": "A fear of vomiting, often linked to anxiety about illness, lack of control, or public embarrassment."
+    },
+    "Entomophobia": {
+        "short": "A fear of insects",
+        "full": "A fear of insects, which can range from mild discomfort to severe panic attacks, depending on the insect."
+    },
+    "Ephebiphobia": {
+        "short": "A fear of teenagers",
+        "full": "A fear of teenagers, which may arise from stereotypes, cultural misunderstandings, or past negative experiences."
+    },
+    "Equinophobia": {
+        "short": "A fear of horses",
+        "full": "A fear of horses, often linked to past accidents, unfamiliarity, or their large size."
+    },
+    "Erotophobia": {
+        "short": "A fear of sex or sexual intimacy",
+        "full": "A fear of sex or sexual intimacy, which can stem from cultural taboos, past trauma, or feelings of inadequacy."
+    },
+    "Gamophobia": {
+        "short": "A fear of marriage or commitment",
+        "full": "A fear of marriage or commitment, often stemming from anxiety about long-term responsibilities or past relationship experiences."
+    },
+    "Genuphobia": {
+        "short": "A fear of knees",
+        "full": "A fear of knees, which may arise from trauma, discomfort with physical appearance, or symbolic associations with kneeling."
+    },
+    "Glossophobia": {
+        "short": "A fear of speaking in public or performing in front of an audience",
+        "full": "A fear of speaking in public or performing in front of an audience, often linked to anxiety about judgment or embarrassment."
+    },
+    "Gynophobia": {
+        "short": "A fear of women",
+        "full": "A fear of women, which can stem from cultural, personal, or traumatic experiences."
+    },
+    "Haphephobia": {
+        "short": "A fear of touch",
+        "full": "A fear of touch, often tied to past trauma, personal space issues, or sensory sensitivities."
+    },
+    "Heliophobia": {
+        "short": "A fear of the sun",
+        "full": "A fear of the sun, often linked to concerns about sunburn, skin cancer, or discomfort in bright light."
+    },
+    "Hemophobia": {
+        "short": "A fear of blood",
+        "full": "A fear of blood, which can trigger fainting, nausea, or severe anxiety when exposed to injuries or medical procedures."
+    },
+    "Herpetophobia": {
+        "short": "A fear of reptiles",
+        "full": "A fear of reptiles, such as snakes or lizards, often associated with disgust, cultural myths, or traumatic encounters."
+    },
+    "Hippopotomonstrosesquipedaliophobia": {
+        "short": "An ironically long term describing a fear of long words",
+        "full": "An ironically long term describing a fear of long words, often associated with anxiety about pronunciation or comprehension."
+    },
+    "Hydrophobia": {
+        "short": "A fear of water",
+        "full": "A fear of water, which can manifest as a reluctance to swim, bathe, or be near bodies of water, often rooted in past traumatic experiences."
+    },
+    "Hypochondria": {
+        "short": "A fear of illness",
+        "full": "A fear of illness, characterized by excessive worry about health or symptoms, even in the absence of medical issues."
+    },
+    "Iatrophobia": {
+        "short": "A fear of doctors or medical procedures",
+        "full": "A fear of doctors or medical procedures, often linked to painful past experiences or anxiety about diagnoses."
+    },
+    "Koinoniphobia": {
+        "short": "A fear of rooms full of people",
+        "full": "A fear of rooms full of people, often related to social anxiety or fear of being judged in group settings."
+    },
+    "Koumpounophobia": {
+        "short": "A fear of buttons",
+        "full": "A fear of buttons, which may result from sensory discomfort, negative associations, or obsessive-compulsive tendencies."
+    },
+    "Leukophobia": {
+        "short": "A fear of the color white",
+        "full": "A fear of the color white, which can symbolize emptiness, sterility, or certain cultural connotations."
+    },
+    "Lilapsophobia": {
+        "short": "A fear of tornadoes and hurricanes",
+        "full": "A fear of tornadoes and hurricanes, often stemming from personal experiences with severe weather or anxiety about natural disasters."
+    },
+    "Lockiophobia": {
+        "short": "A fear of childbirth",
+        "full": "A fear of childbirth, typically related to concerns about pain, medical risks, or the responsibilities of parenting."
+    },
+    "Mageirocophobia": {
+        "short": "A fear of cooking",
+        "full": "A fear of cooking, which may be caused by anxiety about making mistakes, past kitchen accidents, or fear of judgment."
+    },
+    "Megalophobia": {
+        "short": "A fear of large things",
+        "full": "A fear of large things, such as buildings, vehicles, or animals, often triggered by feelings of being overwhelmed or small in comparison."
+    },
+    "Melanophobia": {
+        "short": "A fear of the color black",
+        "full": "A fear of the color black, which can stem from cultural associations, symbolism, or negative personal experiences."
+    },
+    "Microphobia": {
+        "short": "A fear of small things",
+        "full": "A fear of small things, often tied to a sense of vulnerability or anxiety about things that cannot be easily seen or controlled."
+    },
+    "Mysophobia": {
+        "short": "A fear of dirt and germs",
+        "full": "A fear of dirt and germs, often leading to excessive cleaning or avoidance of public spaces due to contamination fears."
+    },
+    "Necrophobia": {
+        "short": "A fear of death or dead things",
+        "full": "A fear of death or dead things, which can stem from existential anxieties or traumatic encounters with mortality."
+    },
+    "Noctiphobia": {
+        "short": "A fear of the night",
+        "full": "A fear of the night, often linked to anxiety about the unknown, darkness, or nighttime events."
+    },
+    "Nomophobia": {
+        "short": "A modern fear of being without a mobile phone",
+        "full": "A modern fear of being without a mobile phone, which can result in significant anxiety when disconnected from digital communication."
+    },
+    "Nosocomephobia": {
+        "short": "A fear of hospitals",
+        "full": "A fear of hospitals, often related to negative past experiences, medical anxiety, or fear of illness."
+    },
+    "Nyctophobia": {
+        "short": "A fear of the dark",
+        "full": "A fear of the dark, which can cause distress, insomnia, or avoidance of nighttime activities."
+    },
+    "Obesophobia": {
+        "short": "A fear of gaining weight",
+        "full": "A fear of gaining weight, often tied to body image issues or anxiety about health and societal standards."
+    },
+    "Octophobia": {
+        "short": "A fear of the figure 8",
+        "full": "A fear of the figure 8, which may stem from symbolic associations, numerical anxiety, or superstitions."
+    },
+    "Ombrophobia": {
+        "short": "A fear of rain",
+        "full": "A fear of rain, which can lead to avoidance of outdoor activities or distress during storms."
+    },
+    "Ophidiophobia": {
+        "short": "A fear of snakes",
+        "full": "A fear of snakes, which can trigger panic attacks or avoidance of areas where snakes might be present."
+    },
+    "Ornithophobia": {
+        "short": "A fear of birds",
+        "full": "A fear of birds, which can range from mild discomfort to severe anxiety when near birds or bird imagery."
+    },
+    "Osmophobia": {
+        "short": "A fear of smells",
+        "full": "A fear of smells, often tied to specific odors that trigger negative memories or sensory sensitivities."
+    },
+    "Ostraconophobia": {
+        "short": "A fear of shellfish",
+        "full": "A fear of shellfish, which can arise from allergies, traumatic encounters, or cultural associations."
+    },
+    "Papyrophobia": {
+        "short": "A fear of paper",
+        "full": "A fear of paper, which may stem from traumatic events, sensory discomfort, or fear of sharp paper edges."
+    },
+    "Pathophobia": {
+        "short": "A fear of disease",
+        "full": "A fear of disease, often resulting in obsessive behaviors like avoiding contact with others or frequent medical checkups."
+    },
+    "Pedophobia": {
+        "short": "A fear of children",
+        "full": "A fear of children, which can be linked to traumatic experiences, misunderstandings, or cultural conditioning."
+    },
+    "Philematophobia": {
+        "short": "A fear of kissing",
+        "full": "A fear of kissing, often tied to concerns about intimacy, germs, or personal boundaries."
+    },
+    "Philophobia": {
+        "short": "A fear of love",
+        "full": "A fear of love, which can stem from past heartbreaks, emotional vulnerability, or fear of attachment."
+    },
+    "Phobophobia": {
+        "short": "A fear of phobias themselves",
+        "full": "A fear of phobias themselves, which creates a cycle of anxiety about experiencing fear."
+    },
+    "Podophobia": {
+        "short": "A fear of feet",
+        "full": "A fear of feet, often triggered by sensory discomfort, personal hygiene concerns, or negative associations."
+    },
+    "Pogonophobia": {
+        "short": "A fear of beards",
+        "full": "A fear of beards, which may stem from cultural stereotypes, past encounters, or aversion to facial hair."
+    },
+    "Porphyrophobia": {
+        "short": "A fear of the color purple",
+        "full": "A fear of the color purple, which can arise from symbolic associations or sensory aversions."
+    },
+    "Pteridophobia": {
+        "short": "A fear of ferns",
+        "full": "A fear of ferns, which may be linked to phobias of plants or past experiences in nature."
+    },
+    "Pteromerhanophobia": {
+        "short": "A fear of flying",
+        "full": "A fear of flying, which causes anxiety about air travel, often rooted in claustrophobia or fear of crashes."
+    },
+    "Pyrophobia": {
+        "short": "A fear of fire",
+        "full": "A fear of fire, which can stem from traumatic experiences or anxiety about destruction and danger."
+    },
+    "Samhainophobia": {
+        "short": "A fear of Halloween",
+        "full": "A fear of Halloween, often tied to superstitions, cultural beliefs, or traumatic holiday experiences."
+    },
+    "Scolionophobia": {
+        "short": "A fear of school",
+        "full": "A fear of school, which can result from bullying, academic pressure, or negative past experiences."
+    },
+    "Scoptophobia": {
+        "short": "A fear of being stared at",
+        "full": "A fear of being stared at, often causing anxiety in social situations or fear of public attention."
+    },
+    "Selenophobia": {
+        "short": "A fear of the moon",
+        "full": "A fear of the moon, often tied to superstitions, cultural beliefs, or fear of nighttime."
+    },
+    "Sociophobia": {
+        "short": "A fear of social evaluation",
+        "full": "A fear of social evaluation, which can lead to avoidance of social interactions or public scrutiny."
+    },
+    "Somniphobia": {
+        "short": "A fear of sleep",
+        "full": "A fear of sleep, often linked to nightmares, fear of losing control, or anxiety about death during sleep."
+    },
+    "Tachophobia": {
+        "short": "A fear of speed",
+        "full": "A fear of speed, which can cause distress in fast-moving vehicles or anxiety about losing control."
+    },
+    "Technophobia": {
+        "short": "A fear of technology",
+        "full": "A fear of technology, which may result from unfamiliarity, rapid technological advancements, or distrust in devices."
+    },
+    "Thalassophobia": {
+        "short": "A fear of the ocean and deep bodies of water",
+        "full": "A fear of the ocean and deep bodies of water, often triggered by the vastness, depth, or fear of marine creatures."
+    },
+    "Tonitrophobia": {
+        "short": "A fear of thunder",
+        "full": "A fear of thunder, which can lead to panic attacks during storms or avoidance of areas prone to thunderstorms."
+    },
+    "Trichophobia": {
+        "short": "A fear of hair",
+        "full": "A fear of hair, whether loose strands or body hair, often tied to sensory discomfort or disgust."
+    },
+    "Trypanophobia": {
+        "short": "A fear of needles or injections",
+        "full": "A fear of needles or injections, often causing avoidance of medical procedures or vaccinations."
+    },
+    "Trypophobia": {
+        "short": "A fear of clustered patterns of holes",
+        "full": "A fear of clustered patterns of holes, which can trigger discomfort, disgust, or visual distress."
+    },
+    "Venustraphobia": {
+        "short": "A fear of beautiful women",
+        "full": "A fear of beautiful women, often rooted in insecurity, social anxiety, or fear of rejection."
+    },
+    "Verminophobia": {
+        "short": "A fear of germs",
+        "full": "A fear of germs, similar to mysophobia, leading to compulsive cleaning or avoidance of perceived contamination."
+    },
+    "Wiccaphobia": {
+        "short": "A fear of witches and witchcraft",
+        "full": "A fear of witches and witchcraft, often tied to cultural or religious beliefs about the supernatural."
+    },
+    "Xenophobia": {
+        "short": "A fear of strangers or foreigners",
+        "full": "A fear of strangers or foreigners, which can manifest as avoidance, distrust, or prejudice."
+    },
+    "Zoophobia": {
+        "short": "A fear of animals",
+        "full": "A fear of animals, either generalized or specific to certain species, often linked to traumatic experiences."
+    },
+    "Zuigerphobia": {
+        "short": "A fear of vacuum cleaners",
+        "full": "A fear of vacuum cleaners, often triggered by the noise, appearance, or negative childhood associations."
+    }
 }
