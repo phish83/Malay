@@ -1,92 +1,476 @@
 {
-  "title": "Relaxation Techniques",
-  "description": "A guide to various relaxation methods for stress relief and well-being.",
-  "categories": [
-    {
-      "name": "Breathing Techniques",
-      "techniques": [
+    "categories": [
         {
-          "id": "box",
-          "name": "Box Breathing (4-4-4-4)",
-          "description": "Box breathing, also known as square breathing, is a technique used by military personnel, athletes, and meditation practitioners to induce calmness and reduce stress. It involves equal counts of inhaling, holding, exhaling, and holding again.",
-          "benefits": [
-            "Reduces stress and anxiety quickly",
-            "Improves focus and concentration",
-            "Can be practiced discreetly in any situation",
-            "Helps regulate the autonomic nervous system"
-          ],
-          "strategies": [
-            "Sit in a comfortable position with your back straight",
-            "Inhale through your nose for 4 counts",
-            "Hold your breath for 4 counts",
-            "Exhale through your mouth for 4 counts",
-            "Hold your breath for 4 counts",
-            "Repeat for 4-5 cycles or until calm"
-          ]
+            "name": "Breathing Techniques",
+            "techniques": [
+                {
+                    "id": "box",
+                    "name": "Box Breathing (4-4-4-4)",
+                    "description": "Box breathing, also known as square breathing, is a technique used by military personnel, athletes, and meditation practitioners to induce calmness and reduce stress. It involves equal counts of inhaling, holding, exhaling, and holding again.",
+                    "benefits": [
+                        "Reduces stress and anxiety quickly",
+                        "Improves focus and concentration",
+                        "Can be practiced discreetly in any situation",
+                        "Helps regulate the autonomic nervous system"
+                    ],
+                    "strategies": [
+                        "Sit in a comfortable position with your back straight",
+                        "Inhale through your nose for 4 counts",
+                        "Hold your breath for 4 counts",
+                        "Exhale through your mouth for 4 counts",
+                        "Hold your breath for 4 counts",
+                        "Repeat for 4-5 cycles or until calm"
+                    ]
+                },
+                {
+                    "id": "478",
+                    "name": "4-7-8 Breathing",
+                    "description": "The 4-7-8 breathing technique, developed by Dr. Andrew Weil, is a powerful method that acts as a natural tranquilizer for the nervous system. It emphasizes longer exhales than inhales to promote relaxation.",
+                    "benefits": [
+                        "Helps fall asleep faster",
+                        "Manages anxiety and panic attacks",
+                        "Reduces stress responses in the body",
+                        "Controls emotional reactions and cravings"
+                    ],
+                    "strategies": [
+                        "Sit with your back straight and tip of tongue behind upper front teeth",
+                        "Exhale completely through your mouth, making a whoosh sound",
+                        "Close your mouth and inhale quietly through nose for 4 counts",
+                        "Hold your breath for 7 counts",
+                        "Exhale completely through mouth for 8 counts with whoosh sound",
+                        "Repeat cycle 3-4 times"
+                    ]
+                },
+                {
+                    "id": "belly",
+                    "name": "Belly Breathing",
+                    "description": "Belly breathing engages the diaphragm fully, promoting deep relaxation and optimal oxygen exchange. This technique helps you breathe more efficiently by using the full capacity of your lungs.",
+                    "benefits": [
+                        "Strengthens the diaphragm",
+                        "Decreases oxygen demand",
+                        "Slows heart rate",
+                        "Reduces stress and blood pressure"
+                    ],
+                    "strategies": [
+                        "Lie on your back with knees bent or sit comfortably",
+                        "Place one hand on chest and other on belly",
+                        "Breathe in slowly through nose, feeling belly expand",
+                        "Keep chest relatively still",
+                        "Purse lips and exhale slowly through mouth",
+                        "Practice for 5-10 minutes, 3-4 times daily"
+                    ]
+                },
+                {
+                    "id": "alternate",
+                    "name": "Alternate Nostril Breathing",
+                    "description": "This yogic breathing technique involves alternating breath between nostrils to balance the left and right hemispheres of the brain and promote calm, focused energy.",
+                    "benefits": [
+                        "Balances left and right brain hemispheres",
+                        "Improves focus and concentration",
+                        "Reduces stress and anxiety",
+                        "Promotes mental clarity"
+                    ],
+                    "strategies": [
+                        "Sit comfortably with spine straight",
+                        "Use right thumb to close right nostril",
+                        "Inhale through left nostril",
+                        "Close left nostril with ring finger, release thumb",
+                        "Exhale through right nostril",
+                        "Continue alternating for 5-10 cycles"
+                    ]
+                },
+                {
+                    "id": "lion",
+                    "name": "Lion's Breath",
+                    "description": "Lion's Breath is an energetic breathing technique that releases tension in the face and chest while stimulating the throat chakra. It involves a powerful exhale with the tongue extended.",
+                    "benefits": [
+                        "Releases facial tension",
+                        "Reduces stress and anxiety",
+                        "Improves vocal health",
+                        "Energizes the body and mind"
+                    ],
+                    "strategies": [
+                        "Sit comfortably on heels or cross-legged",
+                        "Place hands on knees, spreading fingers",
+                        "Inhale deeply through nose",
+                        "Open mouth wide, stick tongue out toward chin",
+                        "Exhale forcefully with a \"ha\" sound",
+                        "Repeat 4-6 times"
+                    ]
+                }
+            ]
         },
         {
-          "id": "478",
-          "name": "4-7-8 Breathing",
-          "description": "The 4-7-8 breathing technique, developed by Dr. Andrew Weil, is a powerful method that acts as a natural tranquilizer for the nervous system. It emphasizes longer exhales than inhales to promote relaxation.",
-          "benefits": [
-            "Helps fall asleep faster",
-            "Manages anxiety and panic attacks",
-            "Reduces stress responses in the body",
-            "Controls emotional reactions and cravings"
-          ],
-          "strategies": [
-            "Sit with your back straight and tip of tongue behind upper front teeth",
-            "Exhale completely through your mouth, making a whoosh sound",
-            "Close your mouth and inhale quietly through nose for 4 counts",
-            "Hold your breath for 7 counts",
-            "Exhale completely through mouth for 8 counts with whoosh sound",
-            "Repeat cycle 3-4 times"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sensory Techniques",
-      "techniques": [
-        {
-          "id": "aromatherapy",
-          "name": "Aromatherapy",
-          "description": "Aromatherapy uses essential oils and natural scents to promote relaxation, reduce stress, and improve mood through the olfactory system's connection to the brain's emotional centers.",
-          "benefits": [
-            "Reduces stress and anxiety",
-            "Improves sleep quality",
-            "Enhances mood and emotional well-being",
-            "Can help with headaches and tension"
-          ],
-          "strategies": [
-            "Choose calming scents (lavender, chamomile, vanilla)",
-            "Use a diffuser or apply diluted oils to pulse points",
-            "Create a relaxing environment with dim lighting",
-            "Practice deep breathing while enjoying the scents",
-            "Use consistently as part of a bedtime routine",
-            "Combine with other relaxation techniques"
-          ]
+            "name": "Sensory Techniques",
+            "techniques": [
+                {
+                    "id": "aromatherapy",
+                    "name": "Aromatherapy",
+                    "description": "Aromatherapy uses essential oils and natural scents to promote relaxation, reduce stress, and improve mood through the olfactory system's connection to the brain's emotional centers.",
+                    "benefits": [
+                        "Reduces stress and anxiety",
+                        "Improves sleep quality",
+                        "Enhances mood and emotional well-being",
+                        "Can help with headaches and tension"
+                    ],
+                    "strategies": [
+                        "Choose calming scents (lavender, chamomile, vanilla)",
+                        "Use a diffuser or apply diluted oils to pulse points",
+                        "Create a relaxing environment with dim lighting",
+                        "Practice deep breathing while enjoying the scents",
+                        "Use consistently as part of a bedtime routine",
+                        "Combine with other relaxation techniques"
+                    ]
+                },
+                {
+                    "id": "soundbath",
+                    "name": "Sound Bath",
+                    "description": "A sound bath immerses you in peaceful sounds and vibrations from instruments like singing bowls, gongs, and chimes to promote deep relaxation and mental clarity.",
+                    "benefits": [
+                        "Reduces mental chatter and anxiety",
+                        "Promotes deep relaxation",
+                        "Helps with stress-related tension",
+                        "Can improve sleep quality"
+                    ],
+                    "strategies": [
+                        "Find a comfortable lying position",
+                        "Use quality headphones or speakers",
+                        "Choose calming sounds (bowls, nature, ambient)",
+                        "Focus on the vibrations and resonance",
+                        "Allow thoughts to come and go",
+                        "Practice for 15-45 minutes"
+                    ]
+                },
+                {
+                    "id": "temperature",
+                    "name": "Temperature Therapy",
+                    "description": "Temperature therapy uses hot and cold sensations to promote relaxation, reduce muscle tension, and calm the nervous system through controlled exposure to different temperatures.",
+                    "benefits": [
+                        "Reduces muscle tension",
+                        "Promotes circulation",
+                        "Calms the nervous system",
+                        "Can help with anxiety and stress"
+                    ],
+                    "strategies": [
+                        "Try a warm bath or shower for relaxation",
+                        "Use cold compress on face or neck to calm down",
+                        "Practice contrast therapy (alternating hot and cold)",
+                        "Hold ice cube briefly for grounding",
+                        "Use heating pad for tense muscles",
+                        "Combine with deep breathing"
+                    ]
+                },
+                {
+                    "id": "grounding",
+                    "name": "5-4-3-2-1 Grounding",
+                    "description": "The 5-4-3-2-1 technique is a sensory awareness exercise that helps ground you in the present moment by systematically engaging all five senses.",
+                    "benefits": [
+                        "Reduces anxiety and panic",
+                        "Improves present-moment awareness",
+                        "Helps manage overwhelming emotions",
+                        "Can be done anywhere, anytime"
+                    ],
+                    "strategies": [
+                        "Name 5 things you can see",
+                        "Name 4 things you can touch/feel",
+                        "Name 3 things you can hear",
+                        "Name 2 things you can smell",
+                        "Name 1 thing you can taste",
+                        "Repeat if needed, taking time with each sense"
+                    ]
+                },
+                {
+                    "id": "lighttherapy",
+                    "name": "Light Therapy",
+                    "description": "Light therapy uses specific types of light exposure to regulate mood, energy levels, and circadian rhythms. It can be particularly helpful for seasonal mood changes.",
+                    "benefits": [
+                        "Improves mood and energy",
+                        "Helps regulate sleep patterns",
+                        "Reduces seasonal depression",
+                        "Enhances daytime alertness"
+                    ],
+                    "strategies": [
+                        "Use a light therapy lamp in the morning",
+                        "Position light at eye level or above",
+                        "Maintain 16-24 inches distance from light",
+                        "Start with 10-15 minutes daily",
+                        "Gradually increase to 20-30 minutes",
+                        "Be consistent with daily practice"
+                    ]
+                }
+            ]
         },
         {
-          "id": "soundbath",
-          "name": "Sound Bath",
-          "description": "A sound bath immerses you in peaceful sounds and vibrations from instruments like singing bowls, gongs, and chimes to promote deep relaxation and mental clarity.",
-          "benefits": [
-            "Reduces mental chatter and anxiety",
-            "Promotes deep relaxation",
-            "Helps with stress-related tension",
-            "Can improve sleep quality"
-          ],
-          "strategies": [
-            "Find a comfortable lying position",
-            "Use quality headphones or speakers",
-            "Choose calming sounds (bowls, nature, ambient)",
-            "Focus on the vibrations and resonance",
-            "Allow thoughts to come and go",
-            "Practice for 15-45 minutes"
-          ]
+            "name": "Creative Techniques",
+            "techniques": [
+                {
+                    "id": "arttherapy",
+                    "name": "Art Therapy",
+                    "description": "Art therapy uses creative processes like drawing, painting, or sculpting to help individuals express their emotions and improve mental well-being. It is often facilitated by a trained therapist who guides individuals in exploring their feelings through art.",
+                    "benefits": [
+                        "Enhances emotional expression and self-awareness",
+                        "Reduces stress and anxiety",
+                        "Improves focus and mindfulness",
+                        "Promotes problem-solving and creative thinking"
+                    ],
+                    "strategies": [
+                        "Choose a medium that feels comfortable (e.g., drawing, painting, or clay).",
+                        "Set up a quiet, comfortable space for creativity.",
+                        "Focus on expressing emotions through colors, shapes, or lines.",
+                        "Avoid self-judgment\u2014focus on the process, not the outcome.",
+                        "Reflect on the artwork and journal your thoughts if helpful.",
+                        "Use art as part of a routine to manage stress or explore feelings."
+                    ]
+                },
+                {
+                    "id": "journaling",
+                    "name": "Expressive Journaling",
+                    "description": "Expressive journaling involves writing freely about your thoughts, emotions, and experiences to process feelings, gain clarity, and reduce stress.",
+                    "benefits": [
+                        "Improves emotional regulation",
+                        "Enhances self-awareness",
+                        "Reduces stress and anxiety",
+                        "Promotes problem-solving and clarity"
+                    ],
+                    "strategies": [
+                        "Set aside a dedicated time and space for journaling daily.",
+                        "Write without judgment or concern for grammar or structure.",
+                        "Focus on emotions, events, or themes that feel important.",
+                        "Use prompts like \u201cToday I feel\u2026\u201d or \u201cWhat I learned\u2026\u201d if stuck.",
+                        "Revisit past entries to track growth and insights."
+                    ]
+                },
+                {
+                    "id": "coloring",
+                    "name": "Mandala Coloring",
+                    "description": "Mandala coloring involves filling intricate patterns with color to encourage mindfulness and relaxation. The repetitive nature helps focus the mind and soothe stress.",
+                    "benefits": [
+                        "Promotes mindfulness and present-moment awareness",
+                        "Reduces anxiety and mental fatigue",
+                        "Enhances focus and creativity",
+                        "Encourages relaxation through repetitive activity"
+                    ],
+                    "strategies": [
+                        "Choose mandala patterns that feel appealing or calming.",
+                        "Use colors intuitively without overthinking combinations.",
+                        "Work in a quiet, distraction-free environment.",
+                        "Focus on the act of coloring and the patterns forming.",
+                        "Use this activity during moments of stress or overwhelm."
+                    ]
+                },
+                {
+                    "id": "musicmaking",
+                    "name": "Music Making",
+                    "description": "Music making involves creating or playing music to channel emotions and foster relaxation. This can include playing instruments, singing, or composing.",
+                    "benefits": [
+                        "Reduces stress and boosts mood",
+                        "Enhances self-expression",
+                        "Promotes relaxation through rhythmic activity",
+                        "Encourages a sense of accomplishment"
+                    ],
+                    "strategies": [
+                        "Choose an instrument or tool (e.g., drums, piano, or digital apps).",
+                        "Play simple rhythms or melodies that feel enjoyable.",
+                        "Experiment with improvisation to express emotions.",
+                        "Sing or hum along for additional relaxation benefits.",
+                        "Create a playlist of calming or uplifting tracks to inspire you."
+                    ]
+                },
+                {
+                    "id": "dance",
+                    "name": "Free-Form Dance",
+                    "description": "Free-form dance is spontaneous movement to music without specific choreography, allowing the body to express emotions freely.",
+                    "benefits": [
+                        "Releases physical tension and stress",
+                        "Boosts mood through endorphin release",
+                        "Enhances body awareness and connection",
+                        "Encourages creativity and emotional expression"
+                    ],
+                    "strategies": [
+                        "Choose music that matches your mood or desired energy level.",
+                        "Find a private space where you can move freely.",
+                        "Focus on how your body feels, not on how you look.",
+                        "Allow your movements to flow naturally with the music.",
+                        "Use dance as a warm-up or cool-down for other activities."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Physical Techniques",
+            "techniques": [
+                {
+                    "id": "stretching",
+                    "name": "Dynamic Stretching",
+                    "description": "Dynamic stretching involves active movements that gently stretch muscles, improving flexibility and blood flow.",
+                    "benefits": [
+                        "Prepares the body for physical activity",
+                        "Increases circulation and reduces stiffness",
+                        "Enhances flexibility and range of motion",
+                        "Promotes relaxation through mindful movement"
+                    ],
+                    "strategies": [
+                        "Perform slow, controlled stretches like leg swings or arm circles.",
+                        "Pair stretching with deep, steady breathing.",
+                        "Focus on major muscle groups, especially tight areas.",
+                        "Use stretching as part of a warm-up or cooldown routine.",
+                        "Avoid holding positions; keep movements fluid."
+                    ]
+                },
+                {
+                    "id": "selfmassage",
+                    "name": "Self-Massage",
+                    "description": "Self-massage involves using your hands or tools to apply pressure to muscles, promoting relaxation and reducing tension.",
+                    "benefits": [
+                        "Relieves muscle tension and pain",
+                        "Enhances circulation and relaxation",
+                        "Reduces stress and improves sleep",
+                        "Increases body awareness"
+                    ],
+                    "strategies": [
+                        "Use circular motions on tight areas like neck, shoulders, or feet.",
+                        "Apply moderate pressure with your fingers or massage tools.",
+                        "Use soothing oils or lotions for added comfort.",
+                        "Pair massage with calming music or aromatherapy.",
+                        "Practice regularly, especially after stressful days."
+                    ]
+                },
+                {
+                    "id": "walking",
+                    "name": "Mindful Walking",
+                    "description": "Mindful walking involves slow, intentional steps while focusing on the physical sensations and environment around you.",
+                    "benefits": [
+                        "Reduces stress and anxiety",
+                        "Enhances mindfulness and focus",
+                        "Improves physical and mental well-being",
+                        "Combines movement with relaxation"
+                    ],
+                    "strategies": [
+                        "Choose a quiet, safe path for walking.",
+                        "Focus on each step and the sensation of your feet touching the ground.",
+                        "Sync your breathing with your pace.",
+                        "Notice your surroundings, like sights, sounds, or smells.",
+                        "Walk for 10-20 minutes or longer as needed."
+                    ]
+                },
+                {
+                    "id": "qigong",
+                    "name": "Qigong",
+                    "description": "Qigong is a Chinese practice combining gentle movement, breathing, and meditation to promote energy flow and balance in the body.",
+                    "benefits": [
+                        "Enhances relaxation and focus",
+                        "Improves balance and flexibility",
+                        "Reduces stress and tension",
+                        "Boosts overall energy and vitality"
+                    ],
+                    "strategies": [
+                        "Start with simple movements and focus on slow, deliberate motions.",
+                        "Incorporate deep, rhythmic breathing with each movement.",
+                        "Practice in a quiet, calm environment.",
+                        "Use guided videos or classes if new to the practice.",
+                        "Perform daily for 10-30 minutes to establish a routine."
+                    ]
+                },
+                {
+                    "id": "shaking",
+                    "name": "Tension Shaking",
+                    "description": "Tension shaking involves rhythmic, full-body shaking to release built-up physical and emotional tension.",
+                    "benefits": [
+                        "Releases physical stress and tightness",
+                        "Increases energy and circulation",
+                        "Promotes a sense of emotional release",
+                        "Encourages relaxation after intense emotions"
+                    ],
+                    "strategies": [
+                        "Stand with feet shoulder-width apart in a comfortable position.",
+                        "Begin gently shaking your hands, arms, and legs.",
+                        "Gradually involve your whole body, including shoulders and hips.",
+                        "Shake for 5-10 minutes, allowing natural movements.",
+                        "End by standing still and noticing the sensations in your body."
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Other Relaxation Techniques",
+            "techniques": [
+                {
+                    "id": "meditation",
+                    "name": "Mindfulness Meditation",
+                    "description": "Mindfulness meditation involves focusing on the present moment while calmly acknowledging and accepting your feelings, thoughts, and bodily sensations.",
+                    "benefits": [
+                        "Reduces stress and anxiety",
+                        "Improves emotional regulation",
+                        "Enhances self-awareness",
+                        "Increases focus and concentration"
+                    ],
+                    "strategies": [
+                        "Find a quiet, comfortable space",
+                        "Set a timer for your desired duration",
+                        "Focus on your breath or a specific point",
+                        "When thoughts arise, acknowledge them without judgment",
+                        "Gently return your attention to your breath",
+                        "Start with 5 minutes and gradually increase duration"
+                    ]
+                },
+                {
+                    "id": "pmr",
+                    "name": "Progressive Muscle Relaxation",
+                    "description": "Progressive muscle relaxation involves systematically tensing and then relaxing different muscle groups throughout the body to reduce physical tension and mental stress.",
+                    "benefits": [
+                        "Reduces muscle tension and physical stress",
+                        "Helps with insomnia and sleep quality",
+                        "Decreases anxiety and fatigue",
+                        "Improves body awareness"
+                    ],
+                    "strategies": [
+                        "Lie down in a comfortable position",
+                        "Start with your toes and work up to your head",
+                        "Tense each muscle group for 5-10 seconds",
+                        "Release the tension and notice the feeling of relaxation",
+                        "Wait 20 seconds before moving to the next muscle group",
+                        "Complete the full body sequence"
+                    ]
+                },
+                {
+                    "id": "visualization",
+                    "name": "Guided Visualization",
+                    "description": "Guided visualization involves creating a mental image of a peaceful, calming place or scenario to promote relaxation and reduce stress.",
+                    "benefits": [
+                        "Reduces stress and anxiety",
+                        "Enhances mood and emotional well-being",
+                        "Improves creative thinking",
+                        "Helps with pain management"
+                    ],
+                    "strategies": [
+                        "Find a quiet, comfortable space",
+                        "Close your eyes and take several deep breaths",
+                        "Imagine a peaceful place in detail",
+                        "Engage all your senses in the visualization",
+                        "Stay with the image for 5-15 minutes",
+                        "Slowly return to the present moment"
+                    ]
+                },
+                {
+                    "id": "yoga",
+                    "name": "Gentle Yoga",
+                    "description": "Gentle yoga combines simple physical postures with breathing techniques and meditation to promote relaxation and flexibility.",
+                    "benefits": [
+                        "Improves flexibility and balance",
+                        "Reduces muscle tension and physical stress",
+                        "Enhances mind-body connection",
+                        "Promotes better sleep"
+                    ],
+                    "strategies": [
+                        "Start with basic poses like Child's Pose or Cat-Cow",
+                        "Hold each pose for 3-5 breath cycles",
+                        "Focus on proper alignment and breathing",
+                        "Listen to your body and avoid strain",
+                        "End with Savasana (relaxation pose)",
+                        "Practice for 10-30 minutes daily"
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
