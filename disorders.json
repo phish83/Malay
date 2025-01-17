@@ -2,22 +2,85 @@
     "categoryDescriptions": {
         "anxiety": "Anxiety disorders are characterized by excessive fear or worry that disrupts daily activities.",
         "mood": "Mood disorders primarily affect an individual's emotional state, including disorders like depression and bipolar disorder.",
-        "psychotic": "Psychotic disorders involve distorted thinking and awareness, often including hallucinations or delusions."
+        "psychotic": "Psychotic disorders involve distorted thinking and awareness, often including hallucinations or delusions.",
+        "personality": "Personality disorders involve enduring patterns of behavior and inner experiences that deviate from societal expectations.",
+        "ocd": "Obsessive-compulsive and related disorders involve intrusive thoughts and repetitive behaviors.",
+        "trauma": "These disorders result from exposure to traumatic or stressful events, such as PTSD.",
+        "eating": "Eating disorders involve unhealthy eating habits and concerns about body weight or shape.",
+        "neurodevelopmental": "These disorders, typically diagnosed in childhood, affect development and functioning, such as ADHD.",
+        "substance": "Substance-related and addictive disorders involve the misuse of substances like alcohol or drugs.",
+        "somatic": "These disorders involve physical symptoms without a clear medical cause, often accompanied by excessive concern about the symptoms."
     },
     "disorders": {
         "anxiety": [
-            { "id": "anxiety-gad", "name": "Generalized Anxiety Disorder" },
-            { "id": "anxiety-panic", "name": "Panic Disorder" },
-            { "id": "anxiety-social", "name": "Social Anxiety Disorder" },
-            { "id": "anxiety-phobia", "name": "Specific Phobias" },
-            { "id": "anxiety-separation", "name": "Separation Anxiety Disorder" }
+            { "id": "anxiety-gad", "name": "Generalized Anxiety Disorder", "description": "Persistent and excessive worry about various aspects of life." },
+            { "id": "anxiety-panic", "name": "Panic Disorder", "description": "Recurrent, unexpected panic attacks with intense fear and physical symptoms." },
+            { "id": "anxiety-social", "name": "Social Anxiety Disorder", "description": "Intense fear of social situations due to fear of judgment or embarrassment." },
+            { "id": "anxiety-phobia", "name": "Specific Phobias", "description": "Intense fear of specific objects or situations, such as heights or animals." },
+            { "id": "anxiety-separation", "name": "Separation Anxiety Disorder", "description": "Excessive fear or anxiety about separation from attachment figures." }
         ],
         "mood": [
-            { "id": "mood-depression", "name": "Major Depressive Disorder" },
-            { "id": "mood-bipolar", "name": "Bipolar Disorder" },
-            { "id": "mood-dysthymia", "name": "Persistent Depressive Disorder (Dysthymia)" },
-            { "id": "mood-cyclothymia", "name": "Cyclothymic Disorder" },
-            { "id": "mood-pmdd", "name": "Premenstrual Dysphoric Disorder (PMDD)" }
+            { "id": "mood-depression", "name": "Major Depressive Disorder", "description": "Persistent sadness and loss of interest in daily activities." },
+            { "id": "mood-bipolar", "name": "Bipolar Disorder", "description": "Characterized by alternating episodes of depression and mania." },
+            { "id": "mood-dysthymia", "name": "Persistent Depressive Disorder (Dysthymia)", "description": "Chronic low-level depression lasting for at least two years." },
+            { "id": "mood-cyclothymia", "name": "Cyclothymic Disorder", "description": "A milder form of bipolar disorder with mood swings that are less severe." },
+            { "id": "mood-pmdd", "name": "Premenstrual Dysphoric Disorder (PMDD)", "description": "Severe mood changes and irritability related to the menstrual cycle." }
+        ],
+        "psychotic": [
+            { "id": "psychotic-schizophrenia", "name": "Schizophrenia", "description": "Involves distorted thinking and awareness, often accompanied by hallucinations and delusions." },
+            { "id": "psychotic-delusional", "name": "Delusional Disorder", "description": "Characterized by persistent delusions without other psychotic symptoms." },
+            { "id": "psychotic-brief", "name": "Brief Psychotic Disorder", "description": "Short-term psychotic episodes, often triggered by stress." },
+            { "id": "psychotic-schizoaffective", "name": "Schizoaffective Disorder", "description": "A combination of schizophrenia symptoms and mood disorder features." },
+            { "id": "psychotic-substance", "name": "Substance-Induced Psychotic Disorder", "description": "Psychotic symptoms caused by substance use or withdrawal." }
+        ],
+        "personality": [
+            { "id": "personality-bpd", "name": "Borderline Personality Disorder", "description": "Intense emotions, unstable relationships, and impulsive behavior." },
+            { "id": "personality-narcissistic", "name": "Narcissistic Personality Disorder", "description": "An inflated sense of self-importance and a lack of empathy for others." },
+            { "id": "personality-antisocial", "name": "Antisocial Personality Disorder", "description": "Disregard for others' rights, often accompanied by manipulative or criminal behavior." },
+            { "id": "personality-histrionic", "name": "Histrionic Personality Disorder", "description": "Excessive emotionality and a need for attention." },
+            { "id": "personality-avoidant", "name": "Avoidant Personality Disorder", "description": "Extreme social inhibition and sensitivity to negative evaluation." }
+        ],
+        "ocd": [
+            { "id": "ocd-condition", "name": "Obsessive-Compulsive Disorder", "description": "Recurring, unwanted thoughts (obsessions) and repetitive behaviors (compulsions)." },
+            { "id": "ocd-body-dysmorphic", "name": "Body Dysmorphic Disorder", "description": "Preoccupation with perceived flaws in physical appearance." },
+            { "id": "ocd-hoarding", "name": "Hoarding Disorder", "description": "Difficulty discarding items, leading to clutter and distress." },
+            { "id": "ocd-trichotillomania", "name": "Trichotillomania (Hair-Pulling Disorder)", "description": "Recurrent, irresistible urges to pull out one's hair." },
+            { "id": "ocd-excoriation", "name": "Excoriation (Skin-Picking Disorder)", "description": "Recurrent skin-picking resulting in lesions and distress." }
+        ],
+        "trauma": [
+            { "id": "trauma-ptsd", "name": "Post-Traumatic Stress Disorder", "description": "Persistent distress following exposure to a traumatic event, with symptoms like flashbacks and avoidance." },
+            { "id": "trauma-acute", "name": "Acute Stress Disorder", "description": "Short-term stress reactions occurring immediately after a traumatic event." },
+            { "id": "trauma-adjustment", "name": "Adjustment Disorders", "description": "Emotional or behavioral symptoms in response to a significant life change or stressor." },
+            { "id": "trauma-reactive", "name": "Reactive Attachment Disorder", "description": "Severe emotional withdrawal and difficulty forming healthy attachments in children." },
+            { "id": "trauma-disinhibited", "name": "Disinhibited Social Engagement Disorder", "description": "Overly familiar behavior with strangers in children, often resulting from neglect." }
+        ],
+        "eating": [
+            { "id": "eating-anorexia", "name": "Anorexia Nervosa", "description": "Restrictive eating and an intense fear of gaining weight." },
+            { "id": "eating-bulimia", "name": "Bulimia Nervosa", "description": "Binge eating followed by compensatory behaviors like purging." },
+            { "id": "eating-binge", "name": "Binge-Eating Disorder", "description": "Recurrent episodes of excessive eating without compensatory behaviors." },
+            { "id": "eating-pica", "name": "Pica", "description": "Eating non-nutritive substances such as paper, dirt, or chalk." },
+            { "id": "eating-rumination", "name": "Rumination Disorder", "description": "Regurgitation of food that is re-chewed, re-swallowed, or spit out." }
+        ],
+        "neurodevelopmental": [
+            { "id": "neuro-asd", "name": "Autism Spectrum Disorder", "description": "Challenges with social interaction, communication, and repetitive behaviors." },
+            { "id": "neuro-adhd", "name": "Attention-Deficit/Hyperactivity Disorder (ADHD)", "description": "Characterized by inattention, hyperactivity, and impulsivity that interfere with daily functioning." },
+            { "id": "neuro-tics", "name": "Tic Disorders", "description": "Characterized by sudden, repetitive, nonrhythmic movements or sounds." },
+            { "id": "neuro-id", "name": "Intellectual Disability", "description": "Impairments in intellectual functioning and adaptive behavior." },
+            { "id": "neuro-ld", "name": "Specific Learning Disorders", "description": "Difficulties in acquiring and using academic skills, such as reading or math." }
+        ],
+        "substance": [
+            { "id": "substance-alcohol", "name": "Alcohol Use Disorder", "description": "Dependence on alcohol characterized by cravings, withdrawal, and tolerance." },
+            { "id": "substance-opioid", "name": "Opioid Use Disorder", "description": "Dependence on opioids, such as prescription pain relievers or heroin." },
+            { "id": "substance-nicotine", "name": "Nicotine Dependence", "description": "Dependence on nicotine, often from tobacco products." },
+            { "id": "substance-cocaine", "name": "Cocaine Use Disorder", "description": "Compulsive use of cocaine with severe physical and psychological effects." },
+            { "id": "substance-cannabis", "name": "Cannabis Use Disorder", "description": "Problematic use of marijuana with dependency and withdrawal symptoms." }
+        ],
+        "somatic": [
+            { "id": "somatic-symptom", "name": "Somatic Symptom Disorder", "description": "Significant focus on physical symptoms leading to distress and impairment." },
+            { "id": "somatic-illness", "name": "Illness Anxiety Disorder", "description": "Preoccupation with having or developing a serious illness despite minimal symptoms." },
+            { "id": "somatic-conversion", "name": "Conversion Disorder", "description": "Neurological symptoms, such as paralysis or seizures, that lack a medical cause." },
+            { "id": "somatic-factitious", "name": "Factitious Disorder", "description": "Deliberately faking or inducing symptoms to assume a sick role." },
+            { "id": "somatic-pain", "name": "Chronic Pain Disorder", "description": "Persistent pain that is linked to psychological factors." }
         ]
     }
 }
