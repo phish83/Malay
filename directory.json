@@ -3,56 +3,96 @@
         "Name": "Pao",
         "Wellness Type": "Physical",
         "Service": "Counselling",
+        "Specialization": "Therapy",
         "City": "Cubao City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964321,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Intellectual",
         "Service": "Therapy",
+        "Specialization": "counselling",
         "City": "Auckland City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964322,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Emotional",
         "Service": "Fitness Coach",
+        "Specialization": "counselling",
         "City": "Bayawan City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964323,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Spiritual",
         "Service": "Bar",
+        "Specialization": "counselling",
         "City": "Wellington City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964324,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Social",
         "Service": "Caf\u00e9",
+        "Specialization": "counselling",
         "City": "Cubao City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964325,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Environmental",
         "Service": "Gym",
+        "Specialization": "counselling",
         "City": "Auckland City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964326,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Financial",
         "Service": "Resort",
+        "Specialization": "counselling",
         "City": "Bayawan City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964327,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     },
     {
         "Name": "Pao",
         "Wellness Type": "Occupational",
         "Service": "Counselling",
+        "Specialization": "counselling",
         "City": "Wellington City",
-        "Modality": "Online"
+        "Barangay": "San Roque",
+        "Modality": "Online",
+        "Contact": 9165964328,
+        "Email": "paolopena@gmail.com",
+        "Social Media": "www.facebook.com/deadempty"
     }
 ]
