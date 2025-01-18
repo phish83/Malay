@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "Pao",
+        "Wellness Type": "Physical",
+        "Service": "Counselling",
+        "City": "Cubao City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Intellectual",
+        "Service": "Therapy",
+        "City": "Auckland City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Emotional",
+        "Service": "Fitness Coach",
+        "City": "Bayawan City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Spiritual",
+        "Service": "Bar",
+        "City": "Wellington City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Social",
+        "Service": "Caf\u00e9",
+        "City": "Cubao City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Environmental",
+        "Service": "Gym",
+        "City": "Auckland City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Financial",
+        "Service": "Resort",
+        "City": "Bayawan City",
+        "Modality": "Online"
+    },
+    {
+        "Name": "Pao",
+        "Wellness Type": "Occupational",
+        "Service": "Counselling",
+        "City": "Wellington City",
+        "Modality": "Online"
+    }
+]
