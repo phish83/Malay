@@ -128,12 +128,14 @@
             "How often do I equate my feelings with facts?",
             "What would a more balanced perspective look like in this situation?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Emotional Reasoning",
+        "definition": "Believing something is true based on emotional response rather than evidence.",
         "examples": [
-            "Examples not available"
+            "I feel stupid, therefore I must be stupid.",
+            "I feel guilty, so I must have done something wrong.",
+            "I'm anxious about this decision, so it must be the wrong choice."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "Feeling stupid doesn\u2019t make me stupid. Everyone feels this way sometimes, regardless of their abilities."
     },
     "personalization": {
         "scenario": {
@@ -149,12 +151,14 @@
             "How often do I take excessive responsibility for others' emotions or outcomes?",
             "How can I remind myself of factors beyond my control?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Personalization",
+        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
         "examples": [
-            "Examples not available"
+            "My friend seems sad today; it must be something I did.",
+            "The project failed because I didn\u2019t work hard enough, even though the whole team contributed.",
+            "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "Many things could affect someone's mood that have nothing to do with me."
     },
     "mind-reading": {
         "scenario": {
@@ -170,12 +174,14 @@
             "How often do I assume I know what others are thinking?",
             "What would happen if I asked for clarification instead of assuming?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Mind Reading",
+        "definition": "Assuming you know what others are thinking without evidence.",
         "examples": [
-            "Examples not available"
+            "They didn\u2019t text back immediately; they must be mad at me.",
+            "They glanced at me in the meeting; they think I\u2019m incompetent.",
+            "They canceled plans; they probably don\u2019t like me anymore."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "They might be busy, have their phone off, or be taking time to think of a response."
     },
     "magnification": {
         "scenario": {
@@ -191,12 +197,14 @@
             "How often do I blow mistakes out of proportion or downplay my achievements?",
             "What would happen if I acknowledged my contributions more fairly?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Magnification/Minimization",
+        "definition": "Exaggerating negative aspects while downplaying positive ones.",
         "examples": [
-            "Examples not available"
+            "My mistake ruined the entire project (while ignoring all your contributions).",
+            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation.",
+            "I got one answer wrong, so I must be bad at this subject."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project."
     },
     "labeling-mislabeling": {
         "scenario": {
@@ -212,12 +220,13 @@
             "How often do I define myself or others by a single action or event?",
             "What would happen if I saw behaviors as part of a larger pattern instead?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Labeling and Mislabeling",
+        "definition": "Defining yourself or others based on a single incident or behavior.",
         "examples": [
-            "Examples not available"
+            "I failed that test, so I\u2019m a failure.",
+            "They forgot my birthday, so they\u2019re a bad friend."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "I failed that test, but it doesn\u2019t mean I\u2019m a failure. I can work harder next time."
     },
     "disqualifying-positive": {
         "scenario": {
@@ -233,12 +242,13 @@
             "How often do I dismiss positive feedback or experiences?",
             "What would happen if I accepted praise at face value?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Disqualifying the Positive",
+        "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
         "examples": [
-            "Examples not available"
+            "They said I did well, but they were just being nice.",
+            "I got promoted, but it\u2019s just because no one else applied."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "Their feedback was genuine, and my promotion reflects my hard work."
     },
     "blaming": {
         "name": "Blaming",
@@ -346,11 +356,12 @@
             "When was the last time I assumed a negative outcome? Was I right?",
             "What would happen if I allowed myself to explore the possibility of a positive result?"
         ],
-        "name": "Name not available",
-        "definition": "Definition not available",
+        "name": "Fortune Telling",
+        "definition": "Making negative predictions about the future without supporting evidence.",
         "examples": [
-            "Examples not available"
+            "There\u2019s no point in applying for that job because they won\u2019t hire me.",
+            "No one will talk to me at the party, so I shouldn\u2019t go."
         ],
-        "alternative": "Alternative thought not available"
+        "alternative": "While I might not get the job, applying gives me a chance and good interview practice."
     }
 }
