@@ -127,7 +127,13 @@
         "self_reflection": [
             "How often do I equate my feelings with facts?",
             "What would a more balanced perspective look like in this situation?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "personalization": {
         "scenario": {
@@ -142,7 +148,13 @@
         "self_reflection": [
             "How often do I take excessive responsibility for others' emotions or outcomes?",
             "How can I remind myself of factors beyond my control?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "mind-reading": {
         "scenario": {
@@ -157,7 +169,13 @@
         "self_reflection": [
             "How often do I assume I know what others are thinking?",
             "What would happen if I asked for clarification instead of assuming?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "magnification": {
         "scenario": {
@@ -172,7 +190,13 @@
         "self_reflection": [
             "How often do I blow mistakes out of proportion or downplay my achievements?",
             "What would happen if I acknowledged my contributions more fairly?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "labeling-mislabeling": {
         "scenario": {
@@ -187,7 +211,13 @@
         "self_reflection": [
             "How often do I define myself or others by a single action or event?",
             "What would happen if I saw behaviors as part of a larger pattern instead?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "disqualifying-positive": {
         "scenario": {
@@ -202,7 +232,13 @@
         "self_reflection": [
             "How often do I dismiss positive feedback or experiences?",
             "What would happen if I accepted praise at face value?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     },
     "blaming": {
         "name": "Blaming",
@@ -309,6 +345,12 @@
         "self_reflection": [
             "When was the last time I assumed a negative outcome? Was I right?",
             "What would happen if I allowed myself to explore the possibility of a positive result?"
-        ]
+        ],
+        "name": "Name not available",
+        "definition": "Definition not available",
+        "examples": [
+            "Examples not available"
+        ],
+        "alternative": "Alternative thought not available"
     }
 }
