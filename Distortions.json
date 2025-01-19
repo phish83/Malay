@@ -44,5 +44,95 @@
             "Practice mindfulness to stay grounded in the present moment."
         ],
         "alternative": "Most people make minor mistakes in presentations. It's normal and unlikely to have serious consequences."
+    },
+    "mental-filter": {
+        "name": "Mental Filter",
+        "definition": "Focusing exclusively on negative aspects while filtering out all positive aspects of a situation.",
+        "examples": [
+            "Only remembering the one criticism from a mostly positive work review.",
+            "Focusing on the one person who didn't like your presentation despite a majority giving positive feedback.",
+            "Thinking your day was awful because of a single mishap, ignoring everything that went well."
+        ],
+        "challenge_tips": [
+            "Deliberately list both positive and negative aspects of the situation.",
+            "Ask: What positive aspects am I ignoring?",
+            "Practice writing down a balanced summary after events to improve perspective."
+        ],
+        "alternative": "While there are areas for improvement, I also received praise for my creativity and teamwork."
+    },
+    "should-statements": {
+        "name": "Should Statements",
+        "definition": "Having rigid rules about how you and others 'should,' 'must,' or 'ought to' behave.",
+        "examples": [
+            "I should always be productive.",
+            "People should always agree with me.",
+            "I must never make mistakes."
+        ],
+        "challenge_tips": [
+            "Replace 'should' with 'would like' or 'prefer.'",
+            "Ask: Are these expectations realistic or fair?",
+            "Practice self-compassion when you don't meet a 'should' standard."
+        ],
+        "alternative": "I would like to be productive, but it's okay and normal to have downtime."
+    },
+    "emotional-reasoning": {
+        "name": "Emotional Reasoning",
+        "definition": "Believing something is true based on emotional response rather than evidence.",
+        "examples": [
+            "I feel stupid, therefore I must be stupid.",
+            "I feel guilty, so I must have done something wrong.",
+            "I'm anxious about this decision, so it must be the wrong choice."
+        ],
+        "challenge_tips": [
+            "Separate feelings from facts. Ask: What objective evidence supports or contradicts this thought?",
+            "Write down your emotions and then identify neutral facts about the situation.",
+            "Practice grounding techniques to distance yourself from overwhelming emotions."
+        ],
+        "alternative": "Feeling stupid doesn't make me stupid. Everyone feels this way sometimes, regardless of their abilities."
+    },
+    "personalization": {
+        "name": "Personalization",
+        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
+        "examples": [
+            "My friend seems sad today; it must be something I did.",
+            "The project failed because I didn't work hard enough, even though the whole team contributed.",
+            "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
+        ],
+        "challenge_tips": [
+            "Consider multiple factors that might have contributed to the situation.",
+            "Ask: What evidence suggests this is entirely my responsibility?",
+            "Practice reframing by identifying other possible influences."
+        ],
+        "alternative": "Many things could affect someone's mood that have nothing to do with me."
+    },
+    "mind-reading": {
+        "name": "Mind Reading",
+        "definition": "Assuming you know what others are thinking without evidence.",
+        "examples": [
+            "They didn't text back immediately; they must be mad at me.",
+            "They glanced at me in the meeting; they think I\u2019m incompetent.",
+            "They canceled plans; they probably don\u2019t like me anymore."
+        ],
+        "challenge_tips": [
+            "Ask yourself: What evidence do I have for this assumption?",
+            "What are other possible explanations for their behavior?",
+            "Communicate directly to verify your interpretation rather than assuming."
+        ],
+        "alternative": "They might be busy, have their phone off, or be taking time to think of a response."
+    },
+    "magnification": {
+        "name": "Magnification/Minimization",
+        "definition": "Exaggerating negative aspects while downplaying positive ones.",
+        "examples": [
+            "My mistake ruined the entire project (while ignoring all your contributions).",
+            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation.",
+            "I got one answer wrong, so I must be bad at this subject."
+        ],
+        "challenge_tips": [
+            "Practice balanced evaluation by writing down both positives and negatives of a situation.",
+            "Ask: What's the actual impact of this mistake?",
+            "Focus on the bigger picture and the contributions you made."
+        ],
+        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project."
     }
 }
