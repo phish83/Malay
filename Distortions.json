@@ -12,12 +12,12 @@
             "How often do I think in extremes?",
             "When was the last time I thought this way, and how did it affect my mood?"
         ],
-        "examples_and_contexts": [
-            "At work: I missed one deadline; now my boss will think I\u2019m unreliable.",
+        "examples": [
             "In relationships: If they don\u2019t respond right away, they must not care about me.",
-            "If I don't get an A on this test, I'm a complete failure.",
+            "If my presentation isn't perfect, my boss will think I'm incompetent.",
+            "At work: I missed one deadline; now my boss will think I\u2019m unreliable.",
             "If I miss one workout, my fitness goals are ruined.",
-            "If my presentation isn't perfect, my boss will think I'm incompetent."
+            "If I don't get an A on this test, I'm a complete failure."
         ]
     },
     "overgeneralization": {
@@ -33,9 +33,9 @@
             "What evidence supports or contradicts my generalization?",
             "How can I look for exceptions to this pattern in my life?"
         ],
-        "examples_and_contexts": [
-            "At work: After one critique, you believe, 'I\u2019ll always fail at this job.'",
+        "examples": [
             "After one bad date: I'll never find someone who likes me.",
+            "At work: After one critique, you believe, 'I\u2019ll always fail at this job.'",
             "Because my project was criticized, I'm bad at my job.",
             "I forgot my friend's birthday; I'm a terrible friend."
         ]
@@ -53,7 +53,7 @@
             "What evidence do I have for and against my worst-case scenario?",
             "How likely is this outcome, realistically?"
         ],
-        "examples_and_contexts": [
+        "examples": [
             "If I make a mistake in this presentation, I'll definitely get fired.",
             "If I fail this exam, my entire career is over.",
             "If my friend doesn\u2019t text back, they must hate me."
@@ -72,9 +72,9 @@
             "What am I focusing on most right now?",
             "What positive things might I be discounting in this situation?"
         ],
-        "examples_and_contexts": [
-            "Only remembering the one criticism from a mostly positive work review.",
+        "examples": [
             "Focusing on the one person who didn't like your presentation despite a majority giving positive feedback.",
+            "Only remembering the one criticism from a mostly positive work review.",
             "Thinking your day was awful because of a single mishap, ignoring everything that went well."
         ]
     },
@@ -91,11 +91,11 @@
             "What rigid 'should' rules am I applying to myself or others?",
             "How can I make my expectations more compassionate and realistic?"
         ],
-        "examples_and_contexts": [
-            "At work: I should always meet every deadline perfectly, or I\u2019m a failure.",
+        "examples": [
             "In relationships: My friends should always agree with me; otherwise, they don\u2019t care about me.",
             "I should always be productive.",
             "People should always agree with me.",
+            "At work: I should always meet every deadline perfectly, or I\u2019m a failure.",
             "I must never make mistakes."
         ]
     },
@@ -112,7 +112,7 @@
         "name": "Emotional Reasoning",
         "definition": "Believing something is true based on emotional response rather than evidence.",
         "alternative": "Feeling stupid doesn\u2019t make me stupid. Everyone feels this way sometimes, regardless of their abilities.",
-        "examples_and_contexts": [
+        "examples": [
             "In relationships: I feel unworthy of love, so no one must truly care about me.",
             "I feel stupid, therefore I must be stupid.",
             "I feel guilty, so I must have done something wrong.",
@@ -132,11 +132,11 @@
         "name": "Personalization",
         "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
         "alternative": "Many things could affect someone's mood that have nothing to do with me.",
-        "examples_and_contexts": [
-            "At work: If the team doesn\u2019t meet its goals, it\u2019s my fault.",
-            "In relationships: My friend seemed upset, so I must have done something wrong.",
+        "examples": [
             "My friend seems sad today; it must be something I did.",
+            "In relationships: My friend seemed upset, so I must have done something wrong.",
             "The project failed because I didn\u2019t work hard enough, even though the whole team contributed.",
+            "At work: If the team doesn\u2019t meet its goals, it\u2019s my fault.",
             "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
         ]
     },
@@ -153,9 +153,9 @@
         "name": "Mind Reading",
         "definition": "Assuming you know what others are thinking without evidence.",
         "alternative": "They might be busy, have their phone off, or be taking time to think of a response.",
-        "examples_and_contexts": [
-            "They didn\u2019t text back immediately; they must be mad at me.",
+        "examples": [
             "They glanced at me in the meeting; they think I\u2019m incompetent.",
+            "They didn\u2019t text back immediately; they must be mad at me.",
             "They canceled plans; they probably don\u2019t like me anymore."
         ]
     },
@@ -172,10 +172,10 @@
         "name": "Magnification/Minimization",
         "definition": "Exaggerating negative aspects while downplaying positive ones.",
         "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project.",
-        "examples_and_contexts": [
+        "examples": [
+            "I got one answer wrong, so I must be bad at this subject.",
             "My mistake ruined the entire project (while ignoring all your contributions).",
-            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation.",
-            "I got one answer wrong, so I must be bad at this subject."
+            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation."
         ]
     },
     "labeling-mislabeling": {
@@ -191,9 +191,9 @@
         "name": "Labeling and Mislabeling",
         "definition": "Defining yourself or others based on a single incident or behavior.",
         "alternative": "I failed that test, but it doesn\u2019t mean I\u2019m a failure. I can work harder next time.",
-        "examples_and_contexts": [
-            "I failed that test, so I\u2019m a failure.",
-            "They forgot my birthday, so they\u2019re a bad friend."
+        "examples": [
+            "They forgot my birthday, so they\u2019re a bad friend.",
+            "I failed that test, so I\u2019m a failure."
         ]
     },
     "disqualifying-positive": {
@@ -209,10 +209,10 @@
         "name": "Disqualifying the Positive",
         "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
         "alternative": "Their feedback was genuine, and my promotion reflects my hard work.",
-        "examples_and_contexts": [
-            "At work: They said I did a great job, but they were just being nice.",
+        "examples": [
             "In relationships: They complimented me, but they didn\u2019t mean it.",
             "They said I did well, but they were just being nice.",
+            "At work: They said I did a great job, but they were just being nice.",
             "I got promoted, but it\u2019s just because no one else applied."
         ]
     },
@@ -230,10 +230,10 @@
             "What evidence supports or contradicts this thought?",
             "How can I approach this situation differently?"
         ],
-        "examples_and_contexts": [
-            "At work: Example of how Blaming might manifest at work.",
-            "In relationships: Example of how Blaming might manifest in relationships.",
+        "examples": [
             "I\u2019m unhappy because my partner doesn\u2019t do what I want.",
+            "In relationships: Example of how Blaming might manifest in relationships.",
+            "At work: Example of how Blaming might manifest at work.",
             "If only I had been more careful, this wouldn\u2019t have happened."
         ]
     },
@@ -251,11 +251,11 @@
             "What evidence supports or contradicts this thought?",
             "How can I approach this situation differently?"
         ],
-        "examples_and_contexts": [
-            "At work: Example of how Control Fallacies might manifest at work.",
+        "examples": [
+            "There\u2019s no point in trying; nothing I do will change anything.",
             "In relationships: Example of how Control Fallacies might manifest in relationships.",
-            "If I had been a better parent, my child wouldn\u2019t have struggled.",
-            "There\u2019s no point in trying; nothing I do will change anything."
+            "At work: Example of how Control Fallacies might manifest at work.",
+            "If I had been a better parent, my child wouldn\u2019t have struggled."
         ]
     },
     "fairness-fallacy": {
@@ -272,11 +272,11 @@
             "What evidence supports or contradicts this thought?",
             "How can I approach this situation differently?"
         ],
-        "examples_and_contexts": [
-            "At work: Example of how Fallacy of Fairness might manifest at work.",
+        "examples": [
             "In relationships: Example of how Fallacy of Fairness might manifest in relationships.",
             "It\u2019s not fair that they got the job when I worked harder.",
-            "I shouldn\u2019t have to deal with this; it\u2019s not fair."
+            "I shouldn\u2019t have to deal with this; it\u2019s not fair.",
+            "At work: Example of how Fallacy of Fairness might manifest at work."
         ]
     },
     "heavens-reward": {
@@ -293,10 +293,10 @@
             "What evidence supports or contradicts this thought?",
             "How can I approach this situation differently?"
         ],
-        "examples_and_contexts": [
-            "At work: Example of how Heaven\u2019s Reward Fallacy might manifest at work.",
-            "In relationships: Example of how Heaven\u2019s Reward Fallacy might manifest in relationships.",
+        "examples": [
             "After all I\u2019ve done, I deserve recognition.",
+            "In relationships: Example of how Heaven\u2019s Reward Fallacy might manifest in relationships.",
+            "At work: Example of how Heaven\u2019s Reward Fallacy might manifest at work.",
             "I worked so hard, but it feels like it was for nothing."
         ]
     },
@@ -313,7 +313,7 @@
         "name": "Fortune Telling",
         "definition": "Making negative predictions about the future without supporting evidence.",
         "alternative": "While I might not get the job, applying gives me a chance and good interview practice.",
-        "examples_and_contexts": [
+        "examples": [
             "There\u2019s no point in applying for that job because they won\u2019t hire me.",
             "No one will talk to me at the party, so I shouldn\u2019t go."
         ]
