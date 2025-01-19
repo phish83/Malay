@@ -17,7 +17,6 @@
             "work": "I missed one deadline; now my boss will think I\u2019m unreliable.",
             "relationships": "If they don\u2019t respond right away, they must not care about me."
         },
-        "reference": "Aaron Beck\u2019s Cognitive Therapy and the Emotional Disorders",
         "self_reflection": [
             "How often do I think in extremes?",
             "When was the last time I thought this way, and how did it affect my mood?"
@@ -41,7 +40,6 @@
             "dating": "After one bad date, you think, 'I\u2019ll never find someone who likes me.'",
             "work": "After one critique, you believe, 'I\u2019ll always fail at this job.'"
         },
-        "reference": "Aaron Beck\u2019s Depression Inventory studies",
         "self_reflection": [
             "What evidence supports or contradicts my generalization?",
             "How can I look for exceptions to this pattern in my life?"
@@ -65,7 +63,6 @@
             "health": "This headache must be a brain tumor.",
             "public_speaking": "If I forget one point, the entire presentation will be ruined."
         },
-        "reference": "David Burns\u2019 Feeling Good: The New Mood Therapy",
         "self_reflection": [
             "What evidence do I have for and against my worst-case scenario?",
             "How likely is this outcome, realistically?"
@@ -89,7 +86,6 @@
             "feedback": "You focus on the one criticism in a mostly positive performance review.",
             "social": "You remember only the one awkward moment during an otherwise great party."
         },
-        "reference": "Cognitive Behavioral Therapy for Dummies by Rob Willson and Rhena Branch",
         "self_reflection": [
             "What am I focusing on most right now?",
             "What positive things might I be discounting in this situation?"
@@ -113,99 +109,100 @@
             "work": "I should always meet every deadline perfectly, or I\u2019m a failure.",
             "relationships": "My friends should always agree with me; otherwise, they don\u2019t care about me."
         },
-        "reference": "David Burns\u2019 Cognitive Distortions Handbook",
         "self_reflection": [
             "What rigid 'should' rules am I applying to myself or others?",
             "How can I make my expectations more compassionate and realistic?"
         ]
     },
     "emotional-reasoning": {
-        "name": "Emotional Reasoning",
-        "definition": "Believing something is true based on emotional response rather than evidence.",
-        "examples": [
-            "I feel stupid, therefore I must be stupid.",
-            "I feel guilty, so I must have done something wrong.",
-            "I'm anxious about this decision, so it must be the wrong choice."
-        ],
+        "scenario": {
+            "self-esteem": "I feel like a failure, so I must be a failure.",
+            "relationships": "I feel unworthy of love, so no one must truly care about me."
+        },
         "challenge_tips": [
-            "Separate feelings from facts. Ask: What objective evidence supports or contradicts this thought?",
-            "Write down your emotions and then identify neutral facts about the situation.",
-            "Practice grounding techniques to distance yourself from overwhelming emotions."
+            "Separate feelings from facts. Ask: What evidence supports or contradicts this thought?",
+            "Practice identifying neutral or positive interpretations of your emotions.",
+            "Journaling Prompt: What emotions am I feeling, and how might they influence my thoughts?"
         ],
-        "alternative": "Feeling stupid doesn't make me stupid. Everyone feels this way sometimes, regardless of their abilities."
+        "self_reflection": [
+            "How often do I equate my feelings with facts?",
+            "What would a more balanced perspective look like in this situation?"
+        ]
     },
     "personalization": {
-        "name": "Personalization",
-        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
-        "examples": [
-            "My friend seems sad today; it must be something I did.",
-            "The project failed because I didn't work hard enough, even though the whole team contributed.",
-            "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
-        ],
+        "scenario": {
+            "work": "If the team doesn\u2019t meet its goals, it\u2019s my fault.",
+            "relationships": "My friend seemed upset, so I must have done something wrong."
+        },
         "challenge_tips": [
-            "Consider multiple factors that might have contributed to the situation.",
-            "Ask: What evidence suggests this is entirely my responsibility?",
-            "Practice reframing by identifying other possible influences."
+            "Consider multiple factors that might have influenced the situation.",
+            "Ask: What other explanations might there be?",
+            "Journaling Prompt: What aspects of this situation are outside of my control?"
         ],
-        "alternative": "Many things could affect someone's mood that have nothing to do with me."
+        "self_reflection": [
+            "How often do I take excessive responsibility for others' emotions or outcomes?",
+            "How can I remind myself of factors beyond my control?"
+        ]
     },
     "mind-reading": {
-        "name": "Mind Reading",
-        "definition": "Assuming you know what others are thinking without evidence.",
-        "examples": [
-            "They didn't text back immediately; they must be mad at me.",
-            "They glanced at me in the meeting; they think I\u2019m incompetent.",
-            "They canceled plans; they probably don\u2019t like me anymore."
-        ],
+        "scenario": {
+            "texts": "They didn\u2019t text back immediately; they must be mad at me.",
+            "workplace": "My boss didn\u2019t smile at me; they must think I\u2019m doing poorly."
+        },
         "challenge_tips": [
-            "Ask yourself: What evidence do I have for this assumption?",
-            "What are other possible explanations for their behavior?",
-            "Communicate directly to verify your interpretation rather than assuming."
+            "Ask: What evidence do I have for this assumption?",
+            "Practice direct communication instead of guessing others\u2019 thoughts.",
+            "Journaling Prompt: What alternative explanations can I think of for their behavior?"
         ],
-        "alternative": "They might be busy, have their phone off, or be taking time to think of a response."
+        "self_reflection": [
+            "How often do I assume I know what others are thinking?",
+            "What would happen if I asked for clarification instead of assuming?"
+        ]
     },
     "magnification": {
-        "name": "Magnification/Minimization",
-        "definition": "Exaggerating negative aspects while downplaying positive ones.",
-        "examples": [
-            "My mistake ruined the entire project (while ignoring all your contributions).",
-            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation.",
-            "I got one answer wrong, so I must be bad at this subject."
-        ],
+        "scenario": {
+            "mistakes": "I made a typo in the email, so now everyone will think I\u2019m unprofessional.",
+            "achievements": "Sure, I completed the project, but it wasn\u2019t a big deal."
+        },
         "challenge_tips": [
-            "Practice balanced evaluation by writing down both positives and negatives of a situation.",
-            "Ask: What's the actual impact of this mistake?",
-            "Focus on the bigger picture and the contributions you made."
+            "Practice balanced evaluation by listing both positives and negatives of the situation.",
+            "Ask: What\u2019s the actual impact of this mistake?",
+            "Journaling Prompt: How can I give my successes as much weight as my challenges?"
         ],
-        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project."
+        "self_reflection": [
+            "How often do I blow mistakes out of proportion or downplay my achievements?",
+            "What would happen if I acknowledged my contributions more fairly?"
+        ]
     },
     "labeling-mislabeling": {
-        "name": "Labeling and Mislabeling",
-        "definition": "Defining yourself or others based on a single incident or behavior.",
-        "examples": [
-            "I failed that test, so I\u2019m a failure.",
-            "They forgot my birthday, so they\u2019re a bad friend."
-        ],
+        "scenario": {
+            "self": "I failed that test, so I\u2019m a failure.",
+            "others": "They acted selfishly once, so they\u2019re a selfish person."
+        },
         "challenge_tips": [
             "Focus on specific behaviors rather than assigning a global label.",
             "Ask: Is it fair to define someone (or myself) based on one incident?",
-            "Replace negative labels with more accurate descriptions of the situation."
+            "Journaling Prompt: What evidence suggests this behavior is not the whole picture?"
         ],
-        "alternative": "I failed that test, but it doesn\u2019t mean I\u2019m a failure. I can work harder next time."
+        "self_reflection": [
+            "How often do I define myself or others by a single action or event?",
+            "What would happen if I saw behaviors as part of a larger pattern instead?"
+        ]
     },
     "disqualifying-positive": {
-        "name": "Disqualifying the Positive",
-        "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
-        "examples": [
-            "They said I did well, but they were just being nice.",
-            "I got promoted, but it\u2019s just because no one else applied."
-        ],
+        "scenario": {
+            "work": "They said I did a great job, but they were just being nice.",
+            "relationships": "They complimented me, but they didn\u2019t mean it."
+        },
         "challenge_tips": [
             "Acknowledge positive feedback and achievements without dismissing them.",
-            "Ask: What evidence do I have to support this dismissal?",
-            "Write down positive experiences and review them regularly."
+            "Ask: What evidence do I have that their praise was genuine?",
+            "Journaling Prompt: How can I learn to trust positive feedback?"
         ],
-        "alternative": "Their feedback was genuine, and my promotion reflects my hard work."
+        "self_reflection": [
+            "How often do I dismiss positive feedback or experiences?",
+            "What would happen if I accepted praise at face value?"
+        ]
     },
     "blaming": {
         "name": "Blaming",
@@ -219,7 +216,16 @@
             "Avoid assuming total responsibility for things outside your influence.",
             "Ask: How can I respond to this situation constructively?"
         ],
-        "alternative": "I can\u2019t control others\u2019 actions, but I can work on my response to this situation."
+        "alternative": "I can\u2019t control others\u2019 actions, but I can work on my response to this situation.",
+        "scenario": {
+            "work": "Example of how Blaming might manifest at work.",
+            "relationships": "Example of how Blaming might manifest in relationships."
+        },
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ]
     },
     "control-fallacies": {
         "name": "Control Fallacies",
@@ -233,7 +239,16 @@
             "Ask: What small steps can I take to improve the situation?",
             "Focus on actions within your power rather than external factors."
         ],
-        "alternative": "I can\u2019t control everything, but I can influence the outcome by trying."
+        "alternative": "I can\u2019t control everything, but I can influence the outcome by trying.",
+        "scenario": {
+            "work": "Example of how Control Fallacies might manifest at work.",
+            "relationships": "Example of how Control Fallacies might manifest in relationships."
+        },
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ]
     },
     "fairness-fallacy": {
         "name": "Fallacy of Fairness",
@@ -247,7 +262,16 @@
             "Ask: How can I adapt to this situation instead of focusing on fairness?",
             "Focus on what you can learn or do to move forward."
         ],
-        "alternative": "Life isn\u2019t always fair, but I can choose how to respond to unfair situations."
+        "alternative": "Life isn\u2019t always fair, but I can choose how to respond to unfair situations.",
+        "scenario": {
+            "work": "Example of how Fallacy of Fairness might manifest at work.",
+            "relationships": "Example of how Fallacy of Fairness might manifest in relationships."
+        },
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ]
     },
     "heavens-reward": {
         "name": "Heaven\u2019s Reward Fallacy",
@@ -261,6 +285,30 @@
             "Ask: What have I gained or learned from this experience?",
             "Focus on personal growth and satisfaction instead of external validation."
         ],
-        "alternative": "Hard work doesn\u2019t always guarantee recognition, but I\u2019ve grown and learned through the process."
+        "alternative": "Hard work doesn\u2019t always guarantee recognition, but I\u2019ve grown and learned through the process.",
+        "scenario": {
+            "work": "Example of how Heaven\u2019s Reward Fallacy might manifest at work.",
+            "relationships": "Example of how Heaven\u2019s Reward Fallacy might manifest in relationships."
+        },
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ]
+    },
+    "fortune-telling": {
+        "scenario": {
+            "job applications": "There\u2019s no point in applying; I won\u2019t get the job anyway.",
+            "social settings": "No one will talk to me at the party, so I shouldn\u2019t go."
+        },
+        "challenge_tips": [
+            "Ask yourself: How can I know for certain this will happen?",
+            "Focus on the possibilities rather than fixating on negative outcomes.",
+            "Journaling Prompt: What small steps can I take to challenge this assumption?"
+        ],
+        "self_reflection": [
+            "When was the last time I assumed a negative outcome? Was I right?",
+            "What would happen if I allowed myself to explore the possibility of a positive result?"
+        ]
     }
 }
