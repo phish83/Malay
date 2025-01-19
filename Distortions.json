@@ -134,5 +134,89 @@
             "Focus on the bigger picture and the contributions you made."
         ],
         "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project."
+    },
+    "labeling-mislabeling": {
+        "name": "Labeling and Mislabeling",
+        "definition": "Defining yourself or others based on a single incident or behavior.",
+        "examples": [
+            "I failed that test, so I\u2019m a failure.",
+            "They forgot my birthday, so they\u2019re a bad friend."
+        ],
+        "challenge_tips": [
+            "Focus on specific behaviors rather than assigning a global label.",
+            "Ask: Is it fair to define someone (or myself) based on one incident?",
+            "Replace negative labels with more accurate descriptions of the situation."
+        ],
+        "alternative": "I failed that test, but it doesn\u2019t mean I\u2019m a failure. I can work harder next time."
+    },
+    "disqualifying-positive": {
+        "name": "Disqualifying the Positive",
+        "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
+        "examples": [
+            "They said I did well, but they were just being nice.",
+            "I got promoted, but it\u2019s just because no one else applied."
+        ],
+        "challenge_tips": [
+            "Acknowledge positive feedback and achievements without dismissing them.",
+            "Ask: What evidence do I have to support this dismissal?",
+            "Write down positive experiences and review them regularly."
+        ],
+        "alternative": "Their feedback was genuine, and my promotion reflects my hard work."
+    },
+    "blaming": {
+        "name": "Blaming",
+        "definition": "Holding others responsible for your problems or blaming yourself for things outside your control.",
+        "examples": [
+            "I\u2019m unhappy because my partner doesn\u2019t do what I want.",
+            "If only I had been more careful, this wouldn\u2019t have happened."
+        ],
+        "challenge_tips": [
+            "Recognize the factors within your control and focus on those.",
+            "Avoid assuming total responsibility for things outside your influence.",
+            "Ask: How can I respond to this situation constructively?"
+        ],
+        "alternative": "I can\u2019t control others\u2019 actions, but I can work on my response to this situation."
+    },
+    "control-fallacies": {
+        "name": "Control Fallacies",
+        "definition": "Believing you are either entirely responsible for everything or powerless over your circumstances.",
+        "examples": [
+            "If I had been a better parent, my child wouldn\u2019t have struggled.",
+            "There\u2019s no point in trying; nothing I do will change anything."
+        ],
+        "challenge_tips": [
+            "Separate what you can control from what you can\u2019t.",
+            "Ask: What small steps can I take to improve the situation?",
+            "Focus on actions within your power rather than external factors."
+        ],
+        "alternative": "I can\u2019t control everything, but I can influence the outcome by trying."
+    },
+    "fairness-fallacy": {
+        "name": "Fallacy of Fairness",
+        "definition": "Believing life should always be fair and feeling upset when it isn\u2019t.",
+        "examples": [
+            "It\u2019s not fair that they got the job when I worked harder.",
+            "I shouldn\u2019t have to deal with this; it\u2019s not fair."
+        ],
+        "challenge_tips": [
+            "Acknowledge that fairness is subjective and not always achievable.",
+            "Ask: How can I adapt to this situation instead of focusing on fairness?",
+            "Focus on what you can learn or do to move forward."
+        ],
+        "alternative": "Life isn\u2019t always fair, but I can choose how to respond to unfair situations."
+    },
+    "heavens-reward": {
+        "name": "Heaven\u2019s Reward Fallacy",
+        "definition": "Expecting that sacrifices or hard work should always be rewarded and feeling bitter when they aren\u2019t.",
+        "examples": [
+            "After all I\u2019ve done, I deserve recognition.",
+            "I worked so hard, but it feels like it was for nothing."
+        ],
+        "challenge_tips": [
+            "Reflect on intrinsic motivations rather than external rewards.",
+            "Ask: What have I gained or learned from this experience?",
+            "Focus on personal growth and satisfaction instead of external validation."
+        ],
+        "alternative": "Hard work doesn\u2019t always guarantee recognition, but I\u2019ve grown and learned through the process."
     }
 }
