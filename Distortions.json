@@ -8,11 +8,20 @@
             "If my presentation isn't perfect, my boss will think I'm incompetent."
         ],
         "challenge_tips": [
-            "Ask yourself: What evidence supports this extreme view?",
-            "What are some examples of middle ground in similar situations?",
-            "Write down a realistic outcome instead of the worst-case scenario."
+            "Practice using the words 'sometimes' and 'partially' instead of 'always' and 'never.'",
+            "List evidence of past successes to counteract extreme thoughts.",
+            "Journaling Prompt: What shades of gray can I see in this situation?"
         ],
-        "alternative": "Getting a B shows I still learned a lot, even if it's not perfect. One grade doesn't define my worth."
+        "alternative": "Getting a B shows I still learned a lot, even if it's not perfect. One grade doesn't define my worth.",
+        "scenario": {
+            "work": "I missed one deadline; now my boss will think I\u2019m unreliable.",
+            "relationships": "If they don\u2019t respond right away, they must not care about me."
+        },
+        "reference": "Aaron Beck\u2019s Cognitive Therapy and the Emotional Disorders",
+        "self_reflection": [
+            "How often do I think in extremes?",
+            "When was the last time I thought this way, and how did it affect my mood?"
+        ]
     },
     "overgeneralization": {
         "name": "Overgeneralization",
@@ -23,11 +32,20 @@
             "I forgot my friend's birthday; I'm a terrible friend."
         ],
         "challenge_tips": [
-            "Challenge absolute words like 'never,' 'always,' or 'every.'",
-            "List counterexamples where the outcome was positive or neutral.",
-            "Ask: What specific evidence supports this thought?"
+            "Challenge absolute words like 'always' and 'never.'",
+            "List examples of positive outcomes in similar situations.",
+            "Journaling Prompt: How might this situation be unique rather than a pattern?"
         ],
-        "alternative": "This date didn't work out, but I've had good connections before. Each person is different."
+        "alternative": "This date didn't work out, but I've had good connections before. Each person is different.",
+        "scenario": {
+            "dating": "After one bad date, you think, 'I\u2019ll never find someone who likes me.'",
+            "work": "After one critique, you believe, 'I\u2019ll always fail at this job.'"
+        },
+        "reference": "Aaron Beck\u2019s Depression Inventory studies",
+        "self_reflection": [
+            "What evidence supports or contradicts my generalization?",
+            "How can I look for exceptions to this pattern in my life?"
+        ]
     },
     "catastrophizing": {
         "name": "Catastrophizing",
@@ -38,12 +56,20 @@
             "If my friend doesn\u2019t text back, they must hate me."
         ],
         "challenge_tips": [
-            "Break down the thought into smaller parts and evaluate each one.",
-            "Ask yourself: What's the most likely outcome?",
-            "If the worst happens, how could I cope with it?",
-            "Practice mindfulness to stay grounded in the present moment."
+            "Break down worst-case scenarios into manageable parts.",
+            "Practice mindfulness to stay grounded in the present moment.",
+            "Affirmation: 'Even if the worst happens, I can handle it.'"
         ],
-        "alternative": "Most people make minor mistakes in presentations. It's normal and unlikely to have serious consequences."
+        "alternative": "Most people make minor mistakes in presentations. It's normal and unlikely to have serious consequences.",
+        "scenario": {
+            "health": "This headache must be a brain tumor.",
+            "public_speaking": "If I forget one point, the entire presentation will be ruined."
+        },
+        "reference": "David Burns\u2019 Feeling Good: The New Mood Therapy",
+        "self_reflection": [
+            "What evidence do I have for and against my worst-case scenario?",
+            "How likely is this outcome, realistically?"
+        ]
     },
     "mental-filter": {
         "name": "Mental Filter",
@@ -54,11 +80,20 @@
             "Thinking your day was awful because of a single mishap, ignoring everything that went well."
         ],
         "challenge_tips": [
-            "Deliberately list both positive and negative aspects of the situation.",
+            "Deliberately list both positive and negative aspects of a situation.",
             "Ask: What positive aspects am I ignoring?",
-            "Practice writing down a balanced summary after events to improve perspective."
+            "Journaling Prompt: What\u2019s the full story of this event, including the positives?"
         ],
-        "alternative": "While there are areas for improvement, I also received praise for my creativity and teamwork."
+        "alternative": "While there are areas for improvement, I also received praise for my creativity and teamwork.",
+        "scenario": {
+            "feedback": "You focus on the one criticism in a mostly positive performance review.",
+            "social": "You remember only the one awkward moment during an otherwise great party."
+        },
+        "reference": "Cognitive Behavioral Therapy for Dummies by Rob Willson and Rhena Branch",
+        "self_reflection": [
+            "What am I focusing on most right now?",
+            "What positive things might I be discounting in this situation?"
+        ]
     },
     "should-statements": {
         "name": "Should Statements",
@@ -71,9 +106,18 @@
         "challenge_tips": [
             "Replace 'should' with 'would like' or 'prefer.'",
             "Ask: Are these expectations realistic or fair?",
-            "Practice self-compassion when you don't meet a 'should' standard."
+            "Journaling Prompt: What flexibility can I allow myself in this situation?"
         ],
-        "alternative": "I would like to be productive, but it's okay and normal to have downtime."
+        "alternative": "I would like to be productive, but it's okay and normal to have downtime.",
+        "scenario": {
+            "work": "I should always meet every deadline perfectly, or I\u2019m a failure.",
+            "relationships": "My friends should always agree with me; otherwise, they don\u2019t care about me."
+        },
+        "reference": "David Burns\u2019 Cognitive Distortions Handbook",
+        "self_reflection": [
+            "What rigid 'should' rules am I applying to myself or others?",
+            "How can I make my expectations more compassionate and realistic?"
+        ]
     },
     "emotional-reasoning": {
         "name": "Emotional Reasoning",
