@@ -1,72 +1,48 @@
 {
     "all-or-nothing": {
         "name": "All-or-Nothing Thinking",
-        "definition": "Viewing situations in absolute, black-and-white terms without acknowledging middle ground",
-        "example": "If I don't get an A on this test, I'm a complete failure",
-        "challenge": "Ask yourself: Are there shades of gray in this situation? What falls between these extremes?",
+        "definition": "Viewing situations in absolute, black-and-white terms without acknowledging middle ground.",
+        "examples": [
+            "If I don't get an A on this test, I'm a complete failure.",
+            "If I miss one workout, my fitness goals are ruined.",
+            "If my presentation isn't perfect, my boss will think I'm incompetent."
+        ],
+        "challenge_tips": [
+            "Ask yourself: What evidence supports this extreme view?",
+            "What are some examples of middle ground in similar situations?",
+            "Write down a realistic outcome instead of the worst-case scenario."
+        ],
         "alternative": "Getting a B shows I still learned a lot, even if it's not perfect. One grade doesn't define my worth."
     },
     "overgeneralization": {
         "name": "Overgeneralization",
-        "definition": "Drawing broad conclusions from a single event and applying them inappropriately to other situations",
-        "example": "After one bad date: I'll never find someone who likes me",
-        "challenge": "Look for counter-examples and question the word 'never.' What evidence contradicts this thought?",
+        "definition": "Drawing broad conclusions from a single event and applying them inappropriately to other situations.",
+        "examples": [
+            "After one bad date: I'll never find someone who likes me.",
+            "Because my project was criticized, I'm bad at my job.",
+            "I forgot my friend's birthday; I'm a terrible friend."
+        ],
+        "challenge_tips": [
+            "Challenge absolute words like 'never,' 'always,' or 'every.'",
+            "List counterexamples where the outcome was positive or neutral.",
+            "Ask: What specific evidence supports this thought?"
+        ],
         "alternative": "This date didn't work out, but I've had good connections before. Each person is different."
-    },
-    "mental-filter": {
-        "name": "Mental Filter",
-        "definition": "Focusing exclusively on negative aspects while filtering out all positive aspects of a situation",
-        "example": "Only remembering the one criticism from a mostly positive work review",
-        "challenge": "Deliberately list both positive and negative aspects. What good things am I ignoring?",
-        "alternative": "While there are areas for improvement, I also received praise for my creativity and teamwork."
     },
     "catastrophizing": {
         "name": "Catastrophizing",
-        "definition": "Assuming the worst possible outcome will happen and/or exaggerating the importance of negative events",
-        "example": "If I make a mistake in this presentation, I'll definitely get fired",
-        "challenge": "Ask: What's the most likely outcome? What's the evidence for and against this thought?",
+        "definition": "Assuming the worst possible outcome will happen and/or exaggerating the importance of negative events.",
+        "examples": [
+            "If I make a mistake in this presentation, I'll definitely get fired.",
+            "If I fail this exam, my entire career is over.",
+            "If my friend doesn\u2019t text back, they must hate me."
+        ],
+        "challenge_tips": [
+            "Break down the thought into smaller parts and evaluate each one.",
+            "Ask yourself: What's the most likely outcome?",
+            "If the worst happens, how could I cope with it?",
+            "Practice mindfulness to stay grounded in the present moment."
+        ],
         "alternative": "Most people make minor mistakes in presentations. It's normal and unlikely to have serious consequences."
-    },
-    "should-statements": {
-        "name": "Should Statements",
-        "definition": "Having rigid rules about how you and others 'should,' 'must,' or 'ought to' behave",
-        "example": "I should always be productive or People should always agree with me",
-        "challenge": "Replace 'should' with 'would like' or 'prefer.' Are these expectations realistic?",
-        "alternative": "I would like to be productive, but it's okay and normal to have downtime."
-    },
-    "emotional-reasoning": {
-        "name": "Emotional Reasoning",
-        "definition": "Believing something is true based on emotional response rather than evidence",
-        "example": "I feel stupid, therefore I must be stupid",
-        "challenge": "Separate feelings from facts. What objective evidence supports or contradicts this feeling?",
-        "alternative": "Feeling stupid doesn't make me stupid. Everyone feels this way sometimes, regardless of their abilities."
-    },
-    "personalization": {
-        "name": "Personalization",
-        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately",
-        "example": "My friend seems sad today; it must be something I did",
-        "challenge": "Consider multiple factors. What other explanations might there be?",
-        "alternative": "Many things could affect someone's mood that have nothing to do with me."
-    },
-    "fortune-telling": {
-        "name": "Fortune Telling",
-        "definition": "Making negative predictions about the future without supporting evidence",
-        "example": "There's no point in applying for that job because they won't hire me",
-        "challenge": "Question: How can I know this for certain? What are other possible outcomes?",
-        "alternative": "While I might not get the job, applying gives me a chance and good interview practice."
-    },
-    "mind-reading": {
-        "name": "Mind Reading",
-        "definition": "Assuming you know what others are thinking without evidence",
-        "example": "They didn't text back immediately; they must be mad at me",
-        "challenge": "Ask yourself: What other explanations are possible? How can I verify this assumption?",
-        "alternative": "They might be busy, have their phone off, or be taking time to think of a response."
-    },
-    "magnification": {
-        "name": "Magnification/Minimization",
-        "definition": "Exaggerating negative aspects while downplaying positive ones",
-        "example": "My mistake ruined the entire project (while ignoring all your contributions)",
-        "challenge": "Practice balanced evaluation. What's the actual impact? What went well?",
-        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project."
     }
 }
