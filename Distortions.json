@@ -13,9 +13,9 @@
             "When was the last time I thought this way, and how did it affect my mood?"
         ],
         "examples": [
-            "In relationships: If they don\u2019t respond right away, they must not care about me.",
+            "If they don\u2019t respond right away, they must not care about me.",
             "If my presentation isn't perfect, my boss will think I'm incompetent.",
-            "At work: I missed one deadline; now my boss will think I\u2019m unreliable.",
+            "I missed one deadline; now my boss will think I\u2019m unreliable.",
             "If I miss one workout, my fitness goals are ruined.",
             "If I don't get an A on this test, I'm a complete failure."
         ]
@@ -34,10 +34,9 @@
             "How can I look for exceptions to this pattern in my life?"
         ],
         "examples": [
-            "After one bad date: I'll never find someone who likes me.",
-            "At work: After one critique, you believe, 'I\u2019ll always fail at this job.'",
-            "Because my project was criticized, I'm bad at my job.",
-            "I forgot my friend's birthday; I'm a terrible friend."
+            "After one bad date, you think 'I'll never find someone who likes me.'",
+            "At work, After one critique, you believe, 'I\u2019ll always fail at this job.'",
+            "When you missed an event or activity for a friend, you think,  'I\u2019m a terrible friend.'"
         ]
     },
     "catastrophizing": {
@@ -92,10 +91,10 @@
             "How can I make my expectations more compassionate and realistic?"
         ],
         "examples": [
-            "In relationships: My friends should always agree with me; otherwise, they don\u2019t care about me.",
+            "In relationships, you think, 'people should always agree with me; otherwise, they don\u2019t care about me.'",
             "I should always be productive.",
             "People should always agree with me.",
-            "At work: I should always meet every deadline perfectly, or I\u2019m a failure.",
+            "I should always meet every deadline perfectly, or I\u2019m a failure.",
             "I must never make mistakes."
         ]
     },
@@ -113,7 +112,7 @@
         "definition": "Believing something is true based on emotional response rather than evidence.",
         "alternative": "Feeling stupid doesn\u2019t make me stupid. Everyone feels this way sometimes, regardless of their abilities.",
         "examples": [
-            "In relationships: I feel unworthy of love, so no one must truly care about me.",
+            "In relationships, you think, 'I feel unworthy of love, so no one must truly care about me.'",
             "I feel stupid, therefore I must be stupid.",
             "I feel guilty, so I must have done something wrong.",
             "I'm anxious about this decision, so it must be the wrong choice."
@@ -134,9 +133,9 @@
         "alternative": "Many things could affect someone's mood that have nothing to do with me.",
         "examples": [
             "My friend seems sad today; it must be something I did.",
-            "In relationships: My friend seemed upset, so I must have done something wrong.",
+            "In relationships, you think, 'My friend seemed upset, so I must have done something wrong.'",
             "The project failed because I didn\u2019t work hard enough, even though the whole team contributed.",
-            "At work: If the team doesn\u2019t meet its goals, it\u2019s my fault.",
+            "If the team doesn\u2019t meet its goals, it\u2019s my fault.",
             "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
         ]
     },
@@ -210,9 +209,9 @@
         "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
         "alternative": "Their feedback was genuine, and my promotion reflects my hard work.",
         "examples": [
-            "In relationships: They complimented me, but they didn\u2019t mean it.",
+            "In relationships, you think 'They complimented me, but they didn\u2019t mean it.'",
             "They said I did well, but they were just being nice.",
-            "At work: They said I did a great job, but they were just being nice.",
+            "They said I did a great job, but they were just being nice.",
             "I got promoted, but it\u2019s just because no one else applied."
         ]
     },
@@ -232,8 +231,6 @@
         ],
         "examples": [
             "I\u2019m unhappy because my partner doesn\u2019t do what I want.",
-            "In relationships: Example of how Blaming might manifest in relationships.",
-            "At work: Example of how Blaming might manifest at work.",
             "If only I had been more careful, this wouldn\u2019t have happened."
         ]
     },
@@ -253,8 +250,6 @@
         ],
         "examples": [
             "There\u2019s no point in trying; nothing I do will change anything.",
-            "In relationships: Example of how Control Fallacies might manifest in relationships.",
-            "At work: Example of how Control Fallacies might manifest at work.",
             "If I had been a better parent, my child wouldn\u2019t have struggled."
         ]
     },
@@ -273,10 +268,8 @@
             "How can I approach this situation differently?"
         ],
         "examples": [
-            "In relationships: Example of how Fallacy of Fairness might manifest in relationships.",
             "It\u2019s not fair that they got the job when I worked harder.",
-            "I shouldn\u2019t have to deal with this; it\u2019s not fair.",
-            "At work: Example of how Fallacy of Fairness might manifest at work."
+            "I shouldn\u2019t have to deal with this; it\u2019s not fair."
         ]
     },
     "heavens-reward": {
@@ -295,8 +288,6 @@
         ],
         "examples": [
             "After all I\u2019ve done, I deserve recognition.",
-            "In relationships: Example of how Heaven\u2019s Reward Fallacy might manifest in relationships.",
-            "At work: Example of how Heaven\u2019s Reward Fallacy might manifest at work.",
             "I worked so hard, but it feels like it was for nothing."
         ]
     },
