@@ -13,30 +13,30 @@
             "When was the last time I thought this way, and how did it affect my mood?"
         ],
         "examples": [
-            "If they don\u2019t respond right away, they must not care about me.",
+            "If they don’t respond right away, they must not care about me.",
             "If my presentation isn't perfect, my boss will think I'm incompetent.",
-            "I missed one deadline; now my boss will think I\u2019m unreliable.",
+            "I missed one deadline; now my boss will think I’m unreliable.",
             "If I miss one workout, my fitness goals are ruined.",
             "If I don't get an A on this test, I'm a complete failure."
         ]
     },
-    "overgeneralization": {
-        "name": "Overgeneralization",
-        "definition": "Drawing broad conclusions from a single event and applying them inappropriately to other situations.",
+    "blaming": {
+        "name": "Blaming",
+        "definition": "Holding others responsible for your problems or blaming yourself for things outside your control.",
         "challenge_tips": [
-            "Challenge absolute words like 'always' and 'never.'",
-            "List examples of positive outcomes in similar situations.",
-            "Journaling Prompt: How might this situation be unique rather than a pattern?"
+            "Recognize the factors within your control and focus on those.",
+            "Avoid assuming total responsibility for things outside your influence.",
+            "Ask: How can I respond to this situation constructively?"
         ],
-        "alternative": "This date didn't work out, but I've had good connections before. Each person is different.",
+        "alternative": "I can’t control others’ actions, but I can work on my response to this situation.",
         "self_reflection": [
-            "What evidence supports or contradicts my generalization?",
-            "How can I look for exceptions to this pattern in my life?"
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
         ],
         "examples": [
-            "After one bad date, you think 'I'll never find someone who likes me.'",
-            "At work, after one critique, you believe, 'I\u2019ll always fail at this job.'",
-            "When you missed an event or activity for a friend, you think,  'I\u2019m a terrible friend.'"
+            "I’m unhappy because my partner doesn’t do what I want.",
+            "If only I had been more careful, this wouldn’t have happened."
         ]
     },
     "catastrophizing": {
@@ -55,7 +55,159 @@
         "examples": [
             "If I make a mistake in this presentation, I'll definitely get fired.",
             "If I fail this exam, my entire career is over.",
-            "If my friend doesn\u2019t text back, they must hate me."
+            "If my friend doesn’t text back, they must hate me."
+        ]
+    },
+    "control-fallacies": {
+        "name": "Control Fallacies",
+        "definition": "Believing you are either entirely responsible for everything or powerless over your circumstances.",
+        "challenge_tips": [
+            "Separate what you can control from what you can’t.",
+            "Ask: What small steps can I take to improve the situation?",
+            "Focus on actions within your power rather than external factors."
+        ],
+        "alternative": "I can’t control everything, but I can influence the outcome by trying.",
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ],
+        "examples": [
+            "There’s no point in trying; nothing I do will change anything.",
+            "If I had been a better parent, my child wouldn’t have struggled."
+        ]
+    },
+    "disqualifying-positive": {
+        "name": "Disqualifying the Positive",
+        "definition": "Rejecting positive experiences by insisting they don’t count for some reason.",
+        "challenge_tips": [
+            "Acknowledge positive feedback and achievements without dismissing them.",
+            "Ask: What evidence do I have that their praise was genuine?",
+            "Journaling Prompt: How can I learn to trust positive feedback?"
+        ],
+        "alternative": "Their feedback was genuine, and my promotion reflects my hard work.",
+        "self_reflection": [
+            "How often do I dismiss positive feedback or experiences?",
+            "What would happen if I accepted praise at face value?"
+        ],
+        "examples": [
+            "In relationships, you think 'They complimented me, but they didn’t mean it.'",
+            "They said I did well, but they were just being nice.",
+            "I got promoted, but it’s just because no one else applied."
+        ]
+    },
+
+    "emotional-reasoning": {
+        "name": "Emotional Reasoning",
+        "definition": "Believing something is true based on emotional response rather than evidence.",
+        "challenge_tips": [
+            "Separate feelings from facts. Ask: What evidence supports or contradicts this thought?",
+            "Practice identifying neutral or positive interpretations of your emotions.",
+            "Journaling Prompt: What emotions am I feeling, and how might they influence my thoughts?"
+        ],
+        "alternative": "Feeling stupid doesn’t make me stupid. Everyone feels this way sometimes, regardless of their abilities.",
+        "self_reflection": [
+            "How often do I equate my feelings with facts?",
+            "What would a more balanced perspective look like in this situation?"
+        ],
+        "examples": [
+            "In relationships, you think, 'I feel unworthy of love, so no one must truly care about me.'",
+            "I feel stupid, therefore I must be stupid.",
+            "I feel guilty, so I must have done something wrong.",
+            "I'm anxious about this decision, so it must be the wrong choice."
+        ]
+    },
+    "fairness-fallacy": {
+        "name": "Fallacy of Fairness",
+        "definition": "Believing life should always be fair and feeling upset when it isn’t.",
+        "challenge_tips": [
+            "Acknowledge that fairness is subjective and not always achievable.",
+            "Ask: How can I adapt to this situation instead of focusing on fairness?",
+            "Focus on what you can learn or do to move forward."
+        ],
+        "alternative": "Life isn’t always fair, but I can choose how to respond to unfair situations.",
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ],
+        "examples": [
+            "It’s not fair that they got the job when I worked harder.",
+            "I shouldn’t have to deal with this; it’s not fair."
+        ]
+    },
+    "fortune-telling": {
+        "name": "Fortune Telling",
+        "definition": "Making negative predictions about the future without supporting evidence.",
+        "challenge_tips": [
+            "Ask yourself: How can I know for certain this will happen?",
+            "Focus on the possibilities rather than fixating on negative outcomes.",
+            "Journaling Prompt: What small steps can I take to challenge this assumption?"
+        ],
+        "alternative": "While I might not get the job, applying gives me a chance and good interview practice.",
+        "self_reflection": [
+            "When was the last time I assumed a negative outcome? Was I right?",
+            "What would happen if I allowed myself to explore the possibility of a positive result?"
+        ],
+        "examples": [
+            "There’s no point in applying for that job because they won’t hire me.",
+            "No one will talk to me at the party, so I shouldn’t go."
+        ]
+    },
+    "heavens-reward": {
+        "name": "Heaven’s Reward Fallacy",
+        "definition": "Expecting that sacrifices or hard work should always be rewarded and feeling bitter when they aren’t.",
+        "challenge_tips": [
+            "Reflect on intrinsic motivations rather than external rewards.",
+            "Ask: What have I gained or learned from this experience?",
+            "Focus on personal growth and satisfaction instead of external validation."
+        ],
+        "alternative": "Hard work doesn’t always guarantee recognition, but I’ve grown and learned through the process.",
+        "self_reflection": [
+            "How often do I notice this thought pattern?",
+            "What evidence supports or contradicts this thought?",
+            "How can I approach this situation differently?"
+        ],
+        "examples": [
+            "After all I’ve done, I deserve recognition.",
+            "I worked so hard, but it feels like it was for nothing."
+        ]
+    },
+    "labeling-mislabeling": {
+        "name": "Labeling and Mislabeling",
+        "definition": "Defining yourself or others based on a single incident or behavior.",
+        "challenge_tips": [
+            "Focus on specific behaviors rather than assigning a global label.",
+            "Ask: Is it fair to define someone (or myself) based on one incident?",
+            "Journaling Prompt: What evidence suggests this behavior is not the whole picture?"
+        ],
+        "alternative": "I failed that test, but it doesn’t mean I’m a failure. I can work harder next time.",
+        "self_reflection": [
+            "How often do I define myself or others by a single action or event?",
+            "What would happen if I saw behaviors as part of a larger pattern instead?"
+        ],
+        "examples": [
+            "They forgot my birthday, so they’re a bad friend.",
+            "I failed that test, so I’m a failure."
+        ]
+    },
+    "magnification": {
+        "name": "Magnification/Minimization",
+        "definition": "Exaggerating negative aspects while downplaying positive ones.",
+        "challenge_tips": [
+            "Practice balanced evaluation by listing both positives and negatives of the situation.",
+            "Ask: What’s the actual impact of this mistake?",
+            "Journaling Prompt: How can I give my successes as much weight as my challenges?"
+        ],
+        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project.",
+        "self_reflection": [
+            "How often do I blow mistakes out of proportion or downplay my achievements?",
+            "What would happen if I acknowledged my contributions more fairly?"
+        ],
+        "examples": [
+            "I got one answer wrong, so I must be bad at this subject.",
+            "My mistake ruined the entire project (while ignoring all your contributions).",
+            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation."
         ]
     },
     "mental-filter": {
@@ -64,7 +216,7 @@
         "challenge_tips": [
             "Deliberately list both positive and negative aspects of a situation.",
             "Ask: What positive aspects am I ignoring?",
-            "Journaling Prompt: What\u2019s the full story of this event, including the positives?"
+            "Journaling Prompt: What’s the full story of this event, including the positives?"
         ],
         "alternative": "While there are areas for improvement, I also received praise for my creativity and teamwork.",
         "self_reflection": [
@@ -75,6 +227,65 @@
             "Focusing on the one person who didn't like your presentation despite a majority giving positive feedback.",
             "Only remembering the one criticism from a mostly positive work review.",
             "Thinking your day was awful because of a single mishap, ignoring everything that went well."
+        ]
+    },
+    "mind-reading": {
+        "name": "Mind Reading",
+        "definition": "Assuming you know what others are thinking without evidence.",
+        "challenge_tips": [
+            "Ask: What evidence do I have for this assumption?",
+            "Practice direct communication instead of guessing others’ thoughts.",
+            "Journaling Prompt: What alternative explanations can I think of for their behavior?"
+        ],
+        "alternative": "They might be busy, have their phone off, or be taking time to think of a response.",
+        "self_reflection": [
+            "How often do I assume I know what others are thinking?",
+            "What would happen if I asked for clarification instead of assuming?"
+        ],
+        "examples": [
+            "They glanced at me in the meeting; they think I’m incompetent.",
+            "They didn’t text back immediately; they must be mad at me.",
+            "They canceled plans; they probably don’t like me anymore."
+        ]
+    },
+    "overgeneralization": {
+        "name": "Overgeneralization",
+        "definition": "Drawing broad conclusions from a single event and applying them inappropriately to other situations.",
+        "challenge_tips": [
+            "Challenge absolute words like 'always' and 'never.'",
+            "List examples of positive outcomes in similar situations.",
+            "Journaling Prompt: How might this situation be unique rather than a pattern?"
+        ],
+        "alternative": "This date didn't work out, but I've had good connections before. Each person is different.",
+        "self_reflection": [
+            "What evidence supports or contradicts my generalization?",
+            "How can I look for exceptions to this pattern in my life?"
+        ],
+        "examples": [
+            "After one bad date, you think 'I'll never find someone who likes me.'",
+            "At work, after one critique, you believe, 'I’ll always fail at this job.'",
+            "When you missed an event or activity for a friend, you think, 'I’m a terrible friend.'"
+        ]
+    },
+    "personalization": {
+        "name": "Personalization",
+        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
+        "challenge_tips": [
+            "Consider multiple factors that might have influenced the situation.",
+            "Ask: What other explanations might there be?",
+            "Journaling Prompt: What aspects of this situation are outside of my control?"
+        ],
+        "alternative": "Many things could affect someone's mood that have nothing to do with me.",
+        "self_reflection": [
+            "How often do I take excessive responsibility for others' emotions or outcomes?",
+            "How can I remind myself of factors beyond my control?"
+        ],
+        "examples": [
+            "My friend seems sad today; it must be something I did.",
+            "In relationships, you think, 'My friend seemed upset, so I must have done something wrong.'",
+            "The project failed because I didn’t work hard enough, even though the whole team contributed.",
+            "If the team doesn’t meet its goals, it’s my fault.",
+            "If my child struggles in school, it’s because I’m a bad parent."
         ]
     },
     "should-statements": {
@@ -91,221 +302,10 @@
             "How can I make my expectations more compassionate and realistic?"
         ],
         "examples": [
-            "In relationships, you think, 'people should always agree with me; otherwise, they don\u2019t care about me.'",
+            "In relationships, you think, 'people should always agree with me; otherwise, they don’t care about me.'",
             "I should always be productive.",
-            "I should always meet every deadline perfectly, or I\u2019m a failure.",
+            "I should always meet every deadline perfectly, or I’m a failure.",
             "I must never make mistakes."
-        ]
-    },
-    "emotional-reasoning": {
-        "challenge_tips": [
-            "Separate feelings from facts. Ask: What evidence supports or contradicts this thought?",
-            "Practice identifying neutral or positive interpretations of your emotions.",
-            "Journaling Prompt: What emotions am I feeling, and how might they influence my thoughts?"
-        ],
-        "self_reflection": [
-            "How often do I equate my feelings with facts?",
-            "What would a more balanced perspective look like in this situation?"
-        ],
-        "name": "Emotional Reasoning",
-        "definition": "Believing something is true based on emotional response rather than evidence.",
-        "alternative": "Feeling stupid doesn\u2019t make me stupid. Everyone feels this way sometimes, regardless of their abilities.",
-        "examples": [
-            "In relationships, you think, 'I feel unworthy of love, so no one must truly care about me.'",
-            "I feel stupid, therefore I must be stupid.",
-            "I feel guilty, so I must have done something wrong.",
-            "I'm anxious about this decision, so it must be the wrong choice."
-        ]
-    },
-    "personalization": {
-        "challenge_tips": [
-            "Consider multiple factors that might have influenced the situation.",
-            "Ask: What other explanations might there be?",
-            "Journaling Prompt: What aspects of this situation are outside of my control?"
-        ],
-        "self_reflection": [
-            "How often do I take excessive responsibility for others' emotions or outcomes?",
-            "How can I remind myself of factors beyond my control?"
-        ],
-        "name": "Personalization",
-        "definition": "Taking excessive responsibility for external events or blaming yourself inappropriately.",
-        "alternative": "Many things could affect someone's mood that have nothing to do with me.",
-        "examples": [
-            "My friend seems sad today; it must be something I did.",
-            "In relationships, you think, 'My friend seemed upset, so I must have done something wrong.'",
-            "The project failed because I didn\u2019t work hard enough, even though the whole team contributed.",
-            "If the team doesn\u2019t meet its goals, it\u2019s my fault.",
-            "If my child struggles in school, it\u2019s because I\u2019m a bad parent."
-        ]
-    },
-    "mind-reading": {
-        "challenge_tips": [
-            "Ask: What evidence do I have for this assumption?",
-            "Practice direct communication instead of guessing others\u2019 thoughts.",
-            "Journaling Prompt: What alternative explanations can I think of for their behavior?"
-        ],
-        "self_reflection": [
-            "How often do I assume I know what others are thinking?",
-            "What would happen if I asked for clarification instead of assuming?"
-        ],
-        "name": "Mind Reading",
-        "definition": "Assuming you know what others are thinking without evidence.",
-        "alternative": "They might be busy, have their phone off, or be taking time to think of a response.",
-        "examples": [
-            "They glanced at me in the meeting; they think I\u2019m incompetent.",
-            "They didn\u2019t text back immediately; they must be mad at me.",
-            "They canceled plans; they probably don\u2019t like me anymore."
-        ]
-    },
-    "magnification": {
-        "challenge_tips": [
-            "Practice balanced evaluation by listing both positives and negatives of the situation.",
-            "Ask: What\u2019s the actual impact of this mistake?",
-            "Journaling Prompt: How can I give my successes as much weight as my challenges?"
-        ],
-        "self_reflection": [
-            "How often do I blow mistakes out of proportion or downplay my achievements?",
-            "What would happen if I acknowledged my contributions more fairly?"
-        ],
-        "name": "Magnification/Minimization",
-        "definition": "Exaggerating negative aspects while downplaying positive ones.",
-        "alternative": "While I made a mistake, I also contributed many valuable ideas and hard work to this project.",
-        "examples": [
-            "I got one answer wrong, so I must be bad at this subject.",
-            "My mistake ruined the entire project (while ignoring all your contributions).",
-            "Nobody noticed the great ideas I shared because I stumbled over one word in my presentation."
-        ]
-    },
-    "labeling-mislabeling": {
-        "challenge_tips": [
-            "Focus on specific behaviors rather than assigning a global label.",
-            "Ask: Is it fair to define someone (or myself) based on one incident?",
-            "Journaling Prompt: What evidence suggests this behavior is not the whole picture?"
-        ],
-        "self_reflection": [
-            "How often do I define myself or others by a single action or event?",
-            "What would happen if I saw behaviors as part of a larger pattern instead?"
-        ],
-        "name": "Labeling and Mislabeling",
-        "definition": "Defining yourself or others based on a single incident or behavior.",
-        "alternative": "I failed that test, but it doesn\u2019t mean I\u2019m a failure. I can work harder next time.",
-        "examples": [
-            "They forgot my birthday, so they\u2019re a bad friend.",
-            "I failed that test, so I\u2019m a failure."
-        ]
-    },
-    "disqualifying-positive": {
-        "challenge_tips": [
-            "Acknowledge positive feedback and achievements without dismissing them.",
-            "Ask: What evidence do I have that their praise was genuine?",
-            "Journaling Prompt: How can I learn to trust positive feedback?"
-        ],
-        "self_reflection": [
-            "How often do I dismiss positive feedback or experiences?",
-            "What would happen if I accepted praise at face value?"
-        ],
-        "name": "Disqualifying the Positive",
-        "definition": "Rejecting positive experiences by insisting they don\u2019t count for some reason.",
-        "alternative": "Their feedback was genuine, and my promotion reflects my hard work.",
-        "examples": [
-            "In relationships, you think 'They complimented me, but they didn\u2019t mean it.'",
-            "They said I did well, but they were just being nice.",
-            "They said I did a great job, but they were just being nice.",
-            "I got promoted, but it\u2019s just because no one else applied."
-        ]
-    },
-    "blaming": {
-        "name": "Blaming",
-        "definition": "Holding others responsible for your problems or blaming yourself for things outside your control.",
-        "challenge_tips": [
-            "Recognize the factors within your control and focus on those.",
-            "Avoid assuming total responsibility for things outside your influence.",
-            "Ask: How can I respond to this situation constructively?"
-        ],
-        "alternative": "I can\u2019t control others\u2019 actions, but I can work on my response to this situation.",
-        "self_reflection": [
-            "How often do I notice this thought pattern?",
-            "What evidence supports or contradicts this thought?",
-            "How can I approach this situation differently?"
-        ],
-        "examples": [
-            "I\u2019m unhappy because my partner doesn\u2019t do what I want.",
-            "If only I had been more careful, this wouldn\u2019t have happened."
-        ]
-    },
-    "control-fallacies": {
-        "name": "Control Fallacies",
-        "definition": "Believing you are either entirely responsible for everything or powerless over your circumstances.",
-        "challenge_tips": [
-            "Separate what you can control from what you can\u2019t.",
-            "Ask: What small steps can I take to improve the situation?",
-            "Focus on actions within your power rather than external factors."
-        ],
-        "alternative": "I can\u2019t control everything, but I can influence the outcome by trying.",
-        "self_reflection": [
-            "How often do I notice this thought pattern?",
-            "What evidence supports or contradicts this thought?",
-            "How can I approach this situation differently?"
-        ],
-        "examples": [
-            "There\u2019s no point in trying; nothing I do will change anything.",
-            "If I had been a better parent, my child wouldn\u2019t have struggled."
-        ]
-    },
-    "fairness-fallacy": {
-        "name": "Fallacy of Fairness",
-        "definition": "Believing life should always be fair and feeling upset when it isn\u2019t.",
-        "challenge_tips": [
-            "Acknowledge that fairness is subjective and not always achievable.",
-            "Ask: How can I adapt to this situation instead of focusing on fairness?",
-            "Focus on what you can learn or do to move forward."
-        ],
-        "alternative": "Life isn\u2019t always fair, but I can choose how to respond to unfair situations.",
-        "self_reflection": [
-            "How often do I notice this thought pattern?",
-            "What evidence supports or contradicts this thought?",
-            "How can I approach this situation differently?"
-        ],
-        "examples": [
-            "It\u2019s not fair that they got the job when I worked harder.",
-            "I shouldn\u2019t have to deal with this; it\u2019s not fair."
-        ]
-    },
-    "heavens-reward": {
-        "name": "Heaven\u2019s Reward Fallacy",
-        "definition": "Expecting that sacrifices or hard work should always be rewarded and feeling bitter when they aren\u2019t.",
-        "challenge_tips": [
-            "Reflect on intrinsic motivations rather than external rewards.",
-            "Ask: What have I gained or learned from this experience?",
-            "Focus on personal growth and satisfaction instead of external validation."
-        ],
-        "alternative": "Hard work doesn\u2019t always guarantee recognition, but I\u2019ve grown and learned through the process.",
-        "self_reflection": [
-            "How often do I notice this thought pattern?",
-            "What evidence supports or contradicts this thought?",
-            "How can I approach this situation differently?"
-        ],
-        "examples": [
-            "After all I\u2019ve done, I deserve recognition.",
-            "I worked so hard, but it feels like it was for nothing."
-        ]
-    },
-    "fortune-telling": {
-        "challenge_tips": [
-            "Ask yourself: How can I know for certain this will happen?",
-            "Focus on the possibilities rather than fixating on negative outcomes.",
-            "Journaling Prompt: What small steps can I take to challenge this assumption?"
-        ],
-        "self_reflection": [
-            "When was the last time I assumed a negative outcome? Was I right?",
-            "What would happen if I allowed myself to explore the possibility of a positive result?"
-        ],
-        "name": "Fortune Telling",
-        "definition": "Making negative predictions about the future without supporting evidence.",
-        "alternative": "While I might not get the job, applying gives me a chance and good interview practice.",
-        "examples": [
-            "There\u2019s no point in applying for that job because they won\u2019t hire me.",
-            "No one will talk to me at the party, so I shouldn\u2019t go."
         ]
     }
 }
