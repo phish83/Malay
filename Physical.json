@@ -1,0 +1,352 @@
+[
+    {
+        "Category": "Exercise",
+        "Tip": "Active Hobbies",
+        "What it is": "Participating in hobbies that get you moving (dancing, hiking, sports) to stay fit enjoyably.",
+        "Why try it": "Helps you enjoy exercise more, reducing stress while improving fitness.",
+        "How to start": "Try new classes or group sports, or simply incorporate more fun physical activities (like a yoga break) into your day."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Daily Walks",
+        "What it is": "Walking briskly for at least 30 minutes each day for cardiovascular health.",
+        "Why try it": "Helps improve cardiovascular health, manage weight, and reduce stress.  ",
+        "How to start": "Break it into 2\u20133 shorter walks if 30 minutes at once isn\u2019t feasible. Aim for a pace that makes you breathe a bit harder but still allows you to hold a conversation."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Fitness Buddy",
+        "What it is": "Partnering with a friend or family member for motivation and accountability during workouts.",
+        "Why try it": "Increases motivation, accountability, and social support.",
+        "How to start": "Schedule weekly workout dates or set shared fitness goals. Encourage each other via texts or calls."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Low-Impact Exercises",
+        "What it is": "Activities like swimming, cycling, or using an elliptical machine that minimize stress on joints.",
+        "Why try it": "Great for those with joint pain, injuries, or just starting fitness routines. ",
+        "How to start": "Incorporate 20\u201330 minutes of low-impact cardio a few times a week. Focus on proper form to maximize benefits."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Practice Yoga",
+        "What it is": "Combining poses, breath control, and mindfulness to boost flexibility, balance, and relaxation.",
+        "Why try it": "Enhances flexibility, builds muscle endurance, reduces stress, and improves balance.",
+        "How to start": "Start with beginner-friendly routines or classes. Focus on form and breathing rather than just pushing for flexibility."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Regular Stretching",
+        "What it is": "Taking 5\u201310 minutes to stretch major muscle groups daily to improve flexibility.",
+        "Why try it": "Increases flexibility, reduces muscle tension, and can improve posture.  ",
+        "How to start": "Focus on calves, hamstrings, hips, chest, and shoulders. Hold each stretch gently for about 15\u201330 seconds without bouncing."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Stand More Often",
+        "What it is": "Breaking long periods of sitting by standing or using a standing desk.",
+        "Why try it": "Improves circulation, burns slightly more calories, and can help posture.",
+        "How to start": "Use a standing desk part of the day; alternate between sitting and standing every 30\u201360 minutes."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Strength Training",
+        "What it is": "Use resistance (bodyweight, dumbbells, machines)  at least two time a week; focusing on major muscle groups.",
+        "Why try it": "Increases metabolism, improves bone density, and enhances everyday strength.  ",
+        "How to start": "Start with basic exercises like squats, lunges, push-ups, and planks. Aim for 2\u20133 sessions per week, giving muscles time to recover."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Take the Stairs",
+        "What it is": "Choosing stairs over elevators or escalators when possible to add simple way of extra movement.",
+        "Why try it": "Adds extra cardio and leg-strengthening activity into your day.",
+        "How to start": "Start slowly if it\u2019s challenging (one or two flights), then build up as your stamina improves."
+    },
+    {
+        "Category": "Exercise",
+        "Tip": "Try Interval Training",
+        "What it is": "Alternating short bursts of high-intensity exercise with rest or low-intensity periods.",
+        "Why try it": "Can improve cardiovascular fitness and burn calories more efficiently.",
+        "How to start": "For How to start, jog or bike hard for 30 seconds, then recover for 90 seconds. Repeat several cycles depending on your fitness level."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Adequate Sleep",
+        "What it is": "Aim for 7\u20139 hours of quality rest each night.",
+        "Why try it": "Supports muscle recovery, hormone regulation, and mental clarity.",
+        "How to start": "Stick to a consistent bedtime routine, avoid screens at least 30 minutes before bed, and create a cool, dark sleeping environment."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Balanced Supplements",
+        "What it is": "Taking vitamins or minerals as needed\u2014after consulting a professional.",
+        "Why try it": "Corrects or prevents deficiencies (e.g., vitamin D, iron) and supports overall health.  ",
+        "How to start": "Get blood work done to identify deficiencies. Follow recommended doses rather than self-prescribing indiscriminately."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Limit Screen Time",
+        "What it is": "Reducing continuous use of devices like smartphones, TVs, or computers to minimize eye strain and tech overuse.",
+        "Why try it": "Helps prevent eye strain, improves posture, and frees time for physical activities.",
+        "How to start": "Use apps that track or limit screen usage; try the \u201c20-20-20 rule\u201d (look 20 feet away for 20 seconds every 20 minutes)."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Posture Check",
+        "What it is": "Keeping your head, neck, and spine aligned whether sitting or standing.",
+        "Why try it": "Reduces back pain, prevents muscle imbalances, and improves breathing.  ",
+        "How to start": "Sit with feet flat on the floor, shoulders relaxed, and ears in line with shoulders. Set posture reminders on your computer or phone."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Practice Deep Breathing",
+        "What it is": "Using slow, controlled inhales and exhales (e.g., 4\u20137\u20138 technique) to help oxygenate muscles and reduce tension.",
+        "Why try it": "Helps oxygenate muscles, lowers stress, and can reduce blood pressure.",
+        "How to start": "Inhale slowly through the nose for 4 counts, hold for 7, then exhale through the mouth for 8. Repeat a few times when feeling tense."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Schedule Workouts",
+        "What it is": "Treating exercise like an appointment in your calendar.",
+        "Why try it": "Encourages consistency and helps you plan around other commitments.",
+        "How to start": "Block off specific time slots each week. Consider morning workouts if your evenings tend to fill up."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Stay Consistent",
+        "What it is": "Regularly following your exercise and nutrition plan over the long term. Focus on small, regular steps over dramatic short-term efforts.",
+        "Why try it": "Consistency is key for lasting results, rather than short spurts of intense activity.  ",
+        "How to start": "Set realistic weekly goals (e.g., 3 workouts, meal prepping on Sunday). Track progress and celebrate small wins."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Strengthen Core",
+        "What it is": "Engaging in exercises targeting abdominal and lower back muscles (e.g., planks, Pilates).",
+        "Why try it": "Stabilizes the spine, improves posture, and can prevent back pain.",
+        "How to start": "Begin with 20\u201330 second plank holds, gradually increase time. Include moves like bird dogs, dead bugs, or Pilates roll-ups."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Track Progress",
+        "What it is": "Recording workouts, weight, or measurements via journal or apps to observe changes over time.",
+        "Why try it": "Offers motivation and helps identify what\u2019s working or needs adjusting.",
+        "How to start": "Set tangible goals (e.g., run a 5K under 30 minutes) and note each week\u2019s progress."
+    },
+    {
+        "Category": "Habits & Routines",
+        "Tip": "Warm Up & Cool Down",
+        "What it is": "Doing light cardio or dynamic stretches before workouts, and gentle stretches after to prevent injuries and aid recovery.",
+        "Why try it": "Prepares muscles/joints for exercise, reduces injury risk, and aids recovery.",
+        "How to start": " 5\u201310 minutes of easy jogging or arm circles before a run; post-workout, hold stretches for 15\u201330 seconds each."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Avoid Burnout",
+        "What it is": "Balancing exercise intensity with proper rest and recovery.",
+        "Why try it": "Overtraining can lead to fatigue, injury, or loss of motivation.",
+        "How to start": "Schedule rest days, vary workout intensity, and listen to your body\u2019s signals (aches, fatigue, mood changes)."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Celebrate Milestones",
+        "What it is": "Marking important fitness achievements (e.g., running your first mile without stopping, reaching a goal weight), and rewarding with non-food treats.",
+        "Why try it": "Builds motivation, fosters a positive mindset, and acknowledges hard work.",
+        "How to start": "Treat yourself in non-food ways\u2014new workout gear, a spa day, or a fun outing with friends."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Check Your Vitals",
+        "What it is": "Monitoring basic health indicators like pulse, blood pressure, or weight.",
+        "Why try it": "Spot unusual changes early, and maintain awareness of overall health trends.",
+        "How to start": "Use a home blood pressure monitor or check machines at pharmacies; weigh yourself weekly or monthly at the same time of day."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Use a Fitness Tracker",
+        "What it is": "A device or app that monitors steps, heart rate, or active minutes.",
+        "Why try it": "Offers accountability, helps set goals, and tracks progress.",
+        "How to start": "Wear the tracker daily, review your stats, and adjust your routines. Challenge yourself with step or calorie-burn goals."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Daily Movement Breaks",
+        "What it is": "Taking brief activity breaks every hour or so to avoid prolonged sitting.",
+        "Why try it": "Helps combat the negative effects of prolonged sitting, improves circulation, and boosts energy.",
+        "How to start": "Stand up, stretch, or walk around for 1\u20132 minutes. If you work at a desk, set an alarm or use an app."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Health Apps",
+        "What it is": "Using software designed to support health, fitness routines, or get guided workouts.",
+        "Why try it": "Provides structured workout plans, nutrition tracking, and motivation through challenges.",
+        "How to start": "Download an app that aligns with your goals (food tracking, running, HIIT workouts). Check progress daily or weekly."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Learn Basic First Aid",
+        "What it is": "Familiarizing yourself with how to treat minor injuries or handle emergencies.",
+        "Why try it": "Could save a life or prevent complications when accidents happen.",
+        "How to start": "Take a certified class (e.g., from Red Cross) or watch reputable online tutorials. Keep a first-aid kit at home and in your car."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Limit Alcohol",
+        "What it is": "Consuming alcohol in moderation or not at all for liver health and better sleep.",
+        "Why try it": "Excessive drinking can harm the liver, increase calorie intake, and disrupt sleep.",
+        "How to start": "Set weekly or daily limits (e.g., no more than 1 drink per day for women, 2 for men, if at all). Track your intake to stay accountable."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Moderate Caffeine",
+        "What it is": "Controlling the intake of coffee, tea, or energy drinks to avoid jitters, and insomnia.",
+        "Why try it": "Too much caffeine can cause jitters, poor sleep, and anxiety.",
+        "How to start": "Limit to 1\u20132 cups of coffee per day; avoid caffeine after mid-afternoon to protect sleep quality."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Morning Stretch",
+        "What it is": "Gentle morning stretches to loosen tight muscles.",
+        "Why try it": "Increases blood flow, reduces stiffness, and gently starts the day.",
+        "How to start": "Spend 2\u20135 minutes doing simple moves like a full-body stretch, calf stretches, and shoulder rolls before getting dressed."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Proper Footwear",
+        "What it is": "Wearing shoes that support your arch, cushion impacts, and fit well to prevent injury with supportive shoes.",
+        "Why try it": "Reduces the risk of foot, knee, or back pain.",
+        "How to start": "Get fitted in a running or athletic store, replace worn-out shoes, and choose pairs suitable for your activity (e.g., running shoes for running)."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Protect Joints",
+        "What it is": "Use proper form during workouts and daily movements to avoid injuries.",
+        "Why try it": "Minimizes the stress on knees, ankles, and wrists, reducing injury risk.",
+        "How to start": "Learn correct techniques (e.g., bending knees rather than back when lifting). Consider low-impact exercises like swimming if you\u2019re prone to joint pain."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Quit Smoking",
+        "What it is": "Stopping the use of tobacco products by seeking help/resources for smoking cessation.",
+        "Why try it": "Significantly lowers the risk of lung disease, cancer, and heart issues. ",
+        "How to start": "Seek support groups, professional help, or nicotine replacement therapies. Celebrate milestones like 1 week, 1 month, or 1 year smoke-free."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Regular Health Checkups",
+        "What it is": "Seeing a healthcare professional for annual physicals and necessary screenings to catch issues early.",
+        "Why try it": "Early detection of health issues can be life-saving.",
+        "How to start": "Schedule appointments in advance, keep a record of vaccinations, and note any symptoms or concerns to discuss."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Routine Eye Exams",
+        "What it is": "Seeing an optometrist or ophthalmologist periodically to protect eyesight with regular screenings.",
+        "Why try it": "Detects vision changes and eye health issues early. ",
+        "How to start": "Aim for exams every 1\u20132 years (or as advised), especially if you frequently use screens or have existing vision concerns."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Routine Oral Hygiene",
+        "What it is": "Brushing teeth at least twice a day and flossing once to prevent dental problems.",
+        "Why try it": "Prevents cavities, gum disease, and can reduce the risk of other systemic health issues linked to oral bacteria.",
+        "How to start": "Use fluoride toothpaste, replace your toothbrush every 3 months, and consider mouthwash if recommended by your dentist."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Seasonal Sports",
+        "What it is": "Engaging in sports or activities appropriate for each season (swimming, hiking, etc.) as weather permits.",
+        "Why try it": "Keeps exercise fun and diversified, challenging different muscle groups.",
+        "How to start": "Join local clubs or rent equipment. Make sure to learn proper techniques or take lessons if you\u2019re a beginner."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Sun Protection",
+        "What it is": "Shielding skin from harmful UV rays with sunscreen, hats, or protective clothing.",
+        "Why try it": "Reduces risk of skin cancer, premature aging, and sunburn.",
+        "How to start": "Use broad-spectrum sunscreen with at least SPF 30, reapply every 2 hours, and seek shade during peak sun intensity (10 a.m. to 4 p.m.)."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Healthy Meal Prep",
+        "What it is": "Preparing multiple meals at once to eat throughout the week.",
+        "Why try it": "Saves time, ensures you have balanced options readily available, and reduces impulsive unhealthy eating.",
+        "How to start": "Choose 1\u20132 meal types you can batch cook (e.g., chicken with veggies, rice bowls). Store in portioned containers."
+    },
+    {
+        "Category": "Healthcare",
+        "Tip": "Wear a Seatbelt",
+        "What it is": "Always using a seatbelt for basic safety measure while in vehicles.",
+        "Why try it": "A fundamental safety measure that drastically lowers injury risk. ",
+        "How to start": "Make it a habit before starting the car. Encourage passengers to do the same."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Avoid Processed Foods",
+        "What it is": "Limiting high-sugar, high-sodium packaged snacks and meals.",
+        "Why try it": "Processed foods often contain excessive additives, unhealthy fats, and sugars that can lead to weight gain and health issues.",
+        "How to start": "Read ingredient labels, focus on fresh produce, and cook more meals at home to control ingredients."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Balanced Meals",
+        "What it is": "Include and combine protein, carbs, healthy fats each time you eat.",
+        "Why try it": "Ensures steady energy levels and provides the nutrients needed for bodily functions. ",
+        "How to start": "Think of your plate in thirds\u2014one-third protein, one-third complex carbs (like quinoa or whole grains), and one-third veggies or fruit."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Consume Less Sugar",
+        "What it is": "Reducing intake of sugary drinks, desserts, and added sugars in processed foods.",
+        "Why try it": "High sugar consumption can lead to weight gain, insulin resistance, and energy crashes.",
+        "How to start": "Swap soda for infused water or unsweetened tea, read nutrition labels, and be mindful of hidden sugars in sauces or snacks."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Cook More at Home",
+        "What it is": "Preparing meals in your own kitchen rather than dining out or ordering in.",
+        "Why try it": "Gives you control over ingredients, portion sizes, and cooking methods.",
+        "How to start": "Start with simple recipes using whole foods. Gradually experiment with new cuisines or healthy substitutions (like baking instead of frying)."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Eat Whole Foods",
+        "What it is": "Prioritize fruits, veggies, lean proteins, and whole grains.",
+        "Why try it": "Whole foods provide essential nutrients, fiber, and antioxidants that processed foods often lack.",
+        "How to start": "Fill at least half your plate with colorful vegetables and fruits, choose whole-grain options (e.g., brown rice, whole-wheat bread), and lean proteins like beans, fish, or chicken."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Healthy Fats",
+        "What it is": "Incorporating avocados, nuts, seeds, and olive oil into your diet.",
+        "Why try it": "Supports heart health, hormone production, and nutrient absorption.",
+        "How to start": "Replace butter with olive oil in cooking; snack on a handful of almonds; add avocado slices to salads or sandwiches."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Healthy Snacking",
+        "What it is": "Choosing nutrient-dense snacks (nuts, yogurt, fruit) instead of chips or candy.",
+        "Why try it": "Maintains stable blood sugar and provides sustained energy.",
+        "How to start": "Prep snacks in advance (portion nuts into small containers, wash fruit for easy access). Keep healthy options visible and junk food out of reach."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Mindful Portion Sizes",
+        "What it is": "Be aware of how much you\u2019re eating at each meal to prevent overeating by paying attention to hunger/fullness.",
+        "Why try it": "Prevents overeating and helps maintain a healthy weight.",
+        "How to start": "Use smaller plates and bowls; pay attention to hunger and fullness cues; serve food away from the table to discourage second helpings."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Morning Ritual",
+        "What it is": "Waking up at a consistent time and starting the day with a short routine (stretching, hydration, journaling) before breakfast.",
+        "Why try it": "Regulates your circadian rhythm and sets a positive tone for the day.",
+        "How to start": "Go to bed earlier so you can wake up at the same time daily. Use a gentle alarm and do a quick stretch to boost energy."
+    },
+    {
+        "Category": "Nutrition",
+        "Tip": "Stay Hydrated",
+        "What it is": "Consuming enough water throughout the day. Aim at least 8 cups of water daily.",
+        "Why try it": "Water supports every cell in your body, aids digestion, regulates temperature, and helps flush out toxins.",
+        "How to start": "Keep a reusable water bottle handy; set reminders on your phone or apps if you tend to forget. You can also add slices of fruit or herbs (like mint) for flavor."
+    }
+]
