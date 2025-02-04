@@ -1,0 +1,1325 @@
+[
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Actor-observer bias",
+        "Definition": "The actor-observer bias is a term in social psychology that refers to a tendency to attribute one's own actions to external causes while attributing other people's behaviors to internal causes.",
+        "Example": "You're driving and cut someone off in traffic. You justify your action by thinking, \"I was in a hurry because I was late for an important meeting.\" However, if you see someone else cut you off in traffic, you're more likely to think, \"That person is a reckless and inconsiderate driver,\" attributing their behavior to their personality rather than considering they might also be in a hurry or facing an emergency."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Barnum effect",
+        "Definition": "The Barnum effect is a cognitive bias that occurs when people believe that vague or general statements apply specifically to them. It's also known as the Forer effect or the Barnum-Forer effect.",
+        "Example": "You read a horoscope that says things like, \"You have a need for other people to like and admire you. You have a tendency to be critical of yourself. At times you have serious doubts as to whether you have made the right decision or done the right thing.\" You feel like this description is incredibly accurate and personally insightful, even though it's vague enough to apply to almost anyone."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Defensive attribution hypothesis",
+        "Definition": "A cognitive bias in which people attribute blame for negative events based on the perceived similarity between themselves and the victim. This helps individuals protect themselves from the fear of facing similar misfortunes.",
+        "Example": "Imagine you hear a colleague was recently laid off.\n\nIf you feel your job is also potentially vulnerable (e.g., your department is facing budget cuts or the company is restructuring), you might attribute the layoff to the colleague's performance (\"They weren't a strong performer,\" or \"They weren't adaptable to the changing needs of the company\"). This allows you to believe that if you perform well, you are safe from being laid off.\n\nIf you feel your job is very secure (e.g., you're in a high-demand department or have a strong relationship with management), you might attribute the layoff to external factors beyond the colleague's control, such as the overall economic climate or the company's strategic decisions. This reinforces your feeling of job security.\n\nIn both scenarios, the attributions serve a defensive purpose. When we feel similar to the victim, we tend to blame them to create a sense of control over our own fate. When we feel dissimilar, we attribute the event to external factors, maintaining our sense of security."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Dunning-Kruger effect",
+        "Definition": "The Dunning-Kruger effect is a cognitive bias that occurs when someone overestimates their abilities or knowledge in a particular area due to a lack of skill or knowledge. It can also lead people who are good at something to underestimate their abilities and think the task is simple for everyone.",
+        "Example": "Someone who has just started learning a new programming language believes they are already proficient enough to build complex software applications, despite having only a basic understanding of syntax and fundamental concepts. They lack the expertise to recognize the extent of their own incompetence."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Effort justification",
+        "Definition": "Effort justification is a psychological concept that describes how people tend to value more the outcomes they work hard for",
+        "Example": "Someone spends hours assembling a piece of furniture. It's a frustrating and difficult process. After finally finishing, they might rate the furniture as being much nicer and of higher quality than it actually is, simply to justify the effort they put into assembling it. They are trying to reduce the cognitive dissonance created by investing so much effort into something that might not be objectively great."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Egocentric bias",
+        "Definition": "The egocentric bias is a cognitive bias that causes people to rely too heavily on their own point of view when they examine events in their life.",
+        "Example": "Two people work together on a group project. After the project is completed successfully, each person believes that they contributed more to the project than the other person did. They overestimate their own contribution and underestimate the contributions of others."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "False consensus effect",
+        "Definition": "The tendency to overestimate how much others agree with us is known among social psychologists as the false consensus effect.",
+        "Example": "Someone who enjoys watching reality TV assumes that most of their friends and colleagues also enjoy it, and they are surprised to find out that many of them find it boring or lowbrow. They overestimate the popularity of their own preference"
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Forer effect",
+        "Definition": "The Forer effect, also known as the Barnum effect, is a psychological phenomenon where people believe that vague descriptions of their personality are specific to them, even though they could apply to many people.",
+        "Example": "You read a horoscope that says things like, \"You have a need for other people to like and admire you. You have a tendency to be critical of yourself. At times you have serious doubts as to whether you have made the right decision or done the right thing.\" You feel like this description is incredibly accurate and personally insightful, even though it's vague enough to apply to almost anyone."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Fundamental attribution error",
+        "Definition": "The fundamental attribution error (FAE) is a cognitive bias that causes people to overemphasize a person's personality or disposition when explaining their behavior, while underestimating the role of external factors.",
+        "Example": "You see a classmate trip and fall in the hallway. You immediately think, \"They're so clumsy!\" without considering that there might have been a slippery spot on the floor or that they might have been distracted by something. You attribute their behavior to their personality (being clumsy) rather than considering the situational factors (the slippery floor)."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Hard-easy effect",
+        "Definition": "The hard-easy effect is a cognitive bias that causes people to overestimate their ability to complete difficult tasks and underestimate their ability to complete easy tasks. It can lead to poor decision-making, procrastination, and failure to prepare for challenges.",
+        "Example": "When asked to judge the accuracy of their answers on easy trivia questions, people tend to be underconfident. For example, if asked \"What is the capital of France?\", most people will answer \"Paris\" and might rate their confidence as 80%. On very difficult trivia questions, however, people tend to be overconfident. If presented with a very obscure question they have to guess on, they might rate their confidence as 60%, even though their actual chance of getting it right is much lower, like 20% or less. The hard-easy effect is that people tend to be underconfident on easy tasks and overconfident on difficult tasks."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Illusion of control",
+        "Definition": "The illusion of control is the tendency to overestimate one's ability to control events. It can lead to people overestimating their chances of success or a positive outcome.",
+        "Example": "Someone believes that wearing their \"lucky socks\" while watching their favorite sports team play will influence the outcome of the game, even though there's no logical connection between their socks and the team's performance."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Illusory superiority",
+        "Definition": "Illusory superiority is a cognitive bias that causes people to overestimate their abilities and qualities compared to others. It's also known as the superiority bias, the Lake Wobegon effect, or the above-average effect.",
+        "Example": "A group of software developers are asked to rate their coding skills relative to their peers. The vast majority of the developers rate themselves as \"above average,\" even though statistically, it's impossible for most people in any given group to be above average."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Lake Wobegone effect",
+        "Definition": "The Lake Wobegon effect is a social psychology term that describes the tendency to overestimate one's abilities and achievements in relation to others",
+        "Example": "In a workplace, many employees might rate their job performance as \"above average\" on self-evaluations, even though statistically, only half of them can actually be above the true average performance of the entire company."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Optimism bias",
+        "Definition": "A cognitive bias that leads individuals to believe that they are less likely to experience negative events and more likely to experience positive outcomes compared to others, often leading to unrealistic risk assessments.",
+        "Example": "A smoker believes they won't develop lung cancer despite knowing the risks because they think they are less susceptible than others."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Overconfidence effect",
+        "Definition": "The overconfidence effect is a cognitive bias that causes people to have more confidence in their abilities than they actually are. It's a common and serious bias that can lead to unrealistic expectations and poor decision-making.",
+        "Example": "A person is asked to answer ten trivia questions. After answering each question, they are asked how confident they are in their answer on a scale of 50% to 100%. Even though they might only get six out of ten questions correct, they consistently rate their confidence at 90% or higher for most of their answers. They overestimate the accuracy of their knowledge."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Peltzman effect",
+        "Definition": "The Peltzman Effect is a theory which states that people are more likely to engage in risky behavior when security measures have been mandated.",
+        "Example": "After mandatory seatbelt laws are introduced, drivers might feel safer and therefore drive more recklessly, such as speeding or tailgating. The increased safety provided by the seatbelt leads to an increase in risky behavior, potentially offsetting some or all of the intended safety benefits of the law"
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Risk compensation",
+        "Definition": "Risk compensation is a theory that people will adjust their behavior in response to perceived risk levels. It suggests that people will become more careful when they feel greater risk, and less careful when they feel more protected",
+        "Example": "After installing a sophisticated home security system, a homeowner might become less diligent about locking their doors and windows, feeling that the security system provides sufficient protection. They compensate for the perceived reduction in risk provided by the security system by taking fewer other precautions."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Self-serving bias",
+        "Definition": "Self-serving bias is a type of cognitive bias in which an individual distorts reality in order to protect their ego.",
+        "Example": "A student receives a good grade on an exam and attributes it to their intelligence and hard work. However, if they receive a bad grade on the next exam, they attribute it to the test being unfair, the teacher's poor teaching, or bad luck, rather than considering that they may not have studied effectively."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Social desirability bias",
+        "Definition": "Social desirability bias occurs when respondents conceal their true opinion on a subject in order to make themselves look good to others.",
+        "Example": "In a survey about exercise habits, people might over-report how often they exercise to appear healthier and more active than they actually are, because exercise is generally seen as a positive behavior."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Third-person effect",
+        "Definition": "he third-person effect perceptual hypothesis predicts that individuals will perceive media messages to have greater effects on other people than on themselves.",
+        "Example": "Someone sees a commercial for a fast-food restaurant and thinks, \"That ad is so cheesy, it would never work on me. But I bet other people will fall for it.\" They believe that others are more susceptible to the persuasive influence of advertising (or other media messages) than they are themselves."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To act, we must be confident we can make an impact and feel what we do is important",
+        "Bias": "Trait ascription bias",
+        "Definition": "Trait ascription bias refers to the tendency of people to judge the personality traits of others more prominently than they would the situational factors influencing those people's behaviors. It often results in a skewed perception, where one assumes that behavior is reflective of inherent personality characteristics rather than external circumstances.",
+        "Example": "You observe a colleague being late to a meeting. You immediately think, \"They're so irresponsible and disorganized.\" However, when you are late to a meeting, you attribute it to external factors, such as unexpected traffic or a last-minute request from your boss. You see your own behavior as influenced by the situation, but you see others' behavior as reflecting their inherent personality traits."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "Decoy effect",
+        "Definition": "The decoy effect is a cognitive bias that occurs when people's preferences change between two options after being presented with a third, less attractive option. It's also known as the attraction effect or asymmetric dominance. ",
+        "Example": "Imagine two subscription options: a basic package for $10 and a premium package for $20. Introducing a third option, a \"deluxe\" package for $25 with only slightly more features than the premium package, can make the $20 premium package seem like a much better deal."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "Reactance",
+        "Definition": "Reactance bias is a psychological phenomenon where individuals may feel a strong resistance or opposition towards something when they perceive their freedom of choice or autonomy is threatened",
+        "Example": "A teenager who is told they \"can't\" date a certain person might become even more determined to date them."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "Reverse psychology",
+        "Definition": "Reverse psychology is a persuasion technique that involves advocating for a behavior that is different from the desired outcome. The goal is to encourage the other person to do what is actually desired.",
+        "Example": "Telling a child \"Don't eat your vegetables\" might actually make them more likely to eat them."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "Social comparison effect",
+        "Definition": "The social comparison effect is a psychological phenomenon where people evaluate their abilities and attitudes in relation to others. This process can be beneficial, but it can also lead to negative feelings and behaviors.",
+        "Example": "Comparing yourself to a highly successful colleague might motivate you to work harder, but it could also lead to feelings of inadequacy if you feel you don't measure up."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "Status quo bias",
+        "Definition": "Status quo bias is defined as the preference for maintaining one's current situation and opposing actions that may change the state of affairs.",
+        "Example": "A person has been using the same bank for many years. Even though another bank offers better interest rates and lower fees, they continue to stay with their current bank, simply because they are used to it and don't want to go through the hassle of switching accounts."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To avoid mistakes, we aim to preserve autonomy and group status, and avoid irreversible decisions",
+        "Bias": "System justification",
+        "Definition": "System justification is a social psychology theory that explains why people defend and justify the status quo, even when it's flawed or disadvantageous",
+        "Example": "Someone who is disadvantaged by the current economic system might still defend it, believing it is fair or necessary."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Backfire effect",
+        "Definition": "The backfire effect is a cognitive bias that causes people who encounter evidence that challenges their beliefs to reject that evidence, and to strengthen their support of their original stance. Essentially, the backfire effect means that showing people evidence which proves that they are wrong is often ineffective, and can actually end up backfiring, by causing them to support their original stance more strongly than they previously did.",
+        "Example": "Showing someone scientific data that contradicts their belief about a conspiracy theory might not change their mind; it might actually make them more convinced of the conspiracy."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Disposition effect",
+        "Definition": "The disposition effect is a behavioral finance phenomenon where investors sell assets that have increased in value, while holding onto assets that have decreased in value. It's a common behavioral bias that can lead to lower investment returns",
+        "Example": "An investor might quickly sell a stock that has risen in price by 10%, but hold onto a stock that has fallen by 10%, hoping it will recover."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Endowment effect",
+        "Definition": "The endowment effect is a psychological phenomenon where people tend to value items they own more than the same items they do not own. It's also known as divestiture aversion",
+        "Example": "Someone is given a coffee mug as a gift. Even though they wouldn't have paid $10 for that same mug in a store, they now refuse to sell it for $10, feeling that it's worth more to them simply because they own it."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Escalation of commitment",
+        "Definition": "Commitment bias describes our tendency to remain committed to our past behaviors even if they do not have desirable outcomes.",
+        "Example": "Continuing to pour money into a failing business in the hope of turning it around, even when it would be more financially sound to close it."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Generation effect",
+        "Definition": "The phenomenon where information is better remembered if it is actively created from one's own mind rather than simply read in a passive way.",
+        "Example": "When studying for a history exam, you're more likely to remember key dates if you try to actively recall them yourself (e.g., by testing yourself with flashcards or trying to explain the events to someone else) than if you simply reread the textbook passively"
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "IKEA effect",
+        "Definition": "The IKEA effect is a cognitive bias that helps explains why people place higher value on things they helped to build or create.",
+        "Example": "Someone who assembles their own furniture might value it more than an identical piece of pre-assembled furniture."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Irrational escalation",
+        "Definition": "Irrational escalation, also known as escalation of commitment or commitment bias, is a human behavior pattern where someone continues to invest resources into a situation despite negative outcomes",
+        "Example": "Two companies are engaged in a bidding war for a valuable contract. Even when it becomes clear that the cost of winning the contract has escalated far beyond its potential value, both companies continue to bid higher, driven by a desire to \"win\" and avoid \"losing face,\" rather than making a rational economic decision. They are irrationally escalating their commitment to the competition."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Loss aversion",
+        "Definition": "Loss aversion is a psychological bias that describes the tendency to perceive losses as more significant than gains of the same magnitude.",
+        "Example": "The disappointment of losing $100 is typically felt more strongly than the joy of finding $100."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Processing difficulty effect",
+        "Definition": "The processing difficulty effect, also known as the disfluency effect, is a cognitive phenomenon that states that information that is more difficult to process is often better remembered. This is because the increased cognitive effort required to process the information leads to deeper engagement with the content. ",
+        "Example": "A textbook presents key terms in a slightly unusual font that is a little harder to read than the standard font. While it takes students a bit more effort to decipher the words, they end up remembering those terms better on a later test compared to terms presented in the easy-to-read font."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Pseudocertainty effect",
+        "Definition": "The pseudocertainty effect is a cognitive bias that occurs when people perceive an outcome as certain, even when it's actually uncertain",
+        "Example": "A marketing campaign that promises \"a chance to win\" might be perceived as more appealing than one that states \"a 10% chance to win,\" even though the odds are the same."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Sunk cost fallacy",
+        "Definition": "A cognitive bias in which individuals continue investing time, money, or effort into a decision or project due to prior investments (sunk costs) rather than assessing its current and future viability objectively.",
+        "Example": "A person continues investing money and effort into a failing business because they have already committed significant financial resources, rather than evaluating its current and future viability objectively."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Unit bias",
+        "Definition": "Unit bias is a psychological heuristic in behavioral economics, suggesting that individuals perceive a single unit of an item, regardless of its size, as the appropriate amount to consume or use. ",
+        "Example": "Someone might eat an entire large bag of chips simply because it's presented as \"one bag,\" even if a smaller portion would be more appropriate."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To get things done, we tend to complete things we've invested time and energy in",
+        "Bias": "Zero-risk bias",
+        "Definition": "The Zero-Risk Bias is a desire for certainty in eliminating a risk which gives people something less to worry about when it's completely eliminated.",
+        "Example": "Someone might spend a lot of time and money eliminating a very small risk of contamination in their home, while neglecting larger risks like poor diet or lack of exercise."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To stay focused, we favor the immediate, relatable thing in front of us",
+        "Bias": "Appeal to novelty",
+        "Definition": "An appeal to novelty is a logical fallacy that claims something is better or correct because it's new, without evidence or investigation. It's also known as the appeal to innovation.",
+        "Example": "A company releases a new version of its software with a completely redesigned interface. Even though the old interface was perfectly functional and users were accustomed to it, the company markets the new version as \"better\" simply because it's \"new and improved,\" without providing any concrete evidence of actual improvements in usability or functionality. Customers are encouraged to upgrade simply because it's the latest version."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To stay focused, we favor the immediate, relatable thing in front of us",
+        "Bias": "Hyperbolic discounting",
+        "Definition": "Hyperbolic discounting is a cognitive bias that causes people to choose immediate rewards over larger rewards in the future. It's a type of delay discounting, but it's different because it's not consistent across time.",
+        "Example": "If you ask someone \"Would you prefer $100 today or $120 in a month?\" many would choose the $100 today.\nBut if you ask \"Would you prefer $100 in 12 months or $120 in 13 months?\" most people choose the $120 - even though it's the same time difference (1 month) and same amounts."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "To stay focused, we favor the immediate, relatable thing in front of us",
+        "Bias": "Identifiable victim effect",
+        "Definition": "The identifiable victim effect (IVE) is the tendency of people to be more helpful to a specific person in need than to a larger, more abstract group of people with the same needs. People may feel more empathy and a greater sense of responsibility to help identifiable victims, which can lead to more personal sacrifices to provide aid.",
+        "Example": "A charity is raising money to combat hunger. They present two different appeals:\n\nA statistical report stating that \"millions of people are facing starvation.\"\nA story about a specific child named Maria who is suffering from severe malnutrition, including a photo of her.\n\nPeople are likely to donate significantly more money when presented with Maria's story, even though the statistical report represents a much larger problem. The identifiable victim (Maria) evokes stronger empathy and a greater willingness to help than the abstract statistics."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Ambiguity bias",
+        "Definition": "The ambiguity effect is a cognitive bias that describes how we tend to avoid options that we consider to be ambiguous.",
+        "Example": "A consumer avoids investing in a new cryptocurrency because they do not understand how it works, preferring traditional stocks with clearer risks and benefits."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Belief bias",
+        "Definition": "Belief bias is a cognitive bias in which a person judges the conclusion of an argument based on their prior knowledge and existing beliefs rather than on the validity or invalidity of the argument itself.",
+        "Example": "A person believes a poorly reasoned argument is valid simply because it supports their existing views, ignoring logical inconsistencies."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Bike-shedding effect",
+        "Definition": "The bike shed effect, also known as Parkinson's Law of Triviality, is a cognitive bias that describes the tendency to spend too much time on trivial matters and too little time on important ones",
+        "Example": "A committee might spend hours debating the color of a bike shed while only briefly discussing the design and functionality of the building it's next to."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Conjunction fallacy",
+        "Definition": "The conjunction fallacy is a reasoning error that occurs when someone overestimates the likelihood of two or more events happening at the same time. It's a type of formal fallacy that violates the laws of probability.",
+        "Example": "It's more likely that someone is a bank teller than that they are a bank teller and a feminist. The conjunction fallacy would be believing the latter is more likely."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Delmore effect",
+        "Definition": "We tend to have more defined and articulated goals about parts of our lives which has lower priority.",
+        "Example": "Someone might have very specific goals about organizing their bookshelf (low priority) but only vague ideas about their career path (high priority)."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Information bias",
+        "Definition": "Information bias, also called measurement bias, arises when key study variables are inaccurately measured or classified.",
+        "Example": "If a study relies on self-reported data about dietary habits, and participants inaccurately recall what they ate, this introduces information bias."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Law of Triviality",
+        "Definition": "Bikeshedding, also known as Parkinson's law of triviality, describes our tendency to devote a disproportionate amount of our time to menial and trivial matters.",
+        "Example": "Imagine a team building a new product. They might spend hours debating the product's color scheme (a trivial matter) while rushing through discussions about its core functionality (a complex and crucial issue). This happens because it's easier to understand and have an opinion on simple things like colors, while complex topics can be intimidating. This bias can lead to wasted time and poor decisions, as important matters get less attention than minor ones."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Less-is-better effect",
+        "Definition": "The less-is-better effect is a cognitive bias that occurs when people prefer a smaller or lower-value option over a larger or higher-value option when the options are evaluated separately. However, when the options are considered together, the preference reverses.",
+        "Example": "Someone might prefer a smaller portion of ice cream served in a fancy bowl when presented alone, but prefer a larger portion in a plain bowl when both are presented side-by-side."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Occam's razor",
+        "Definition": "Occam's razor is a problem-solving principle that states the simplest explanation is usually the best. It's also known as the principle of parsimony, and is often used in science and medicine",
+        "Example": "If a patient has a set of symptoms, a doctor using Occam's razor would first consider the most common and easily explained diagnosis before exploring rarer or more complex possibilities."
+    },
+    {
+        "Domain": "Need To Act Fast",
+        "Category": "We favor simple-looking options and complete information over complex, ambiguous options",
+        "Bias": "Rhyme-as-reason effect",
+        "Definition": "The rhyme-as-reason effect is a cognitive bias that makes people more likely to believe statements that contain a rhyme, compared to statements that don't.",
+        "Example": "\"What sobriety conceals, alcohol reveals\" might be perceived as more insightful or true than the same sentiment expressed without rhyme."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Argument from fallacy",
+        "Definition": "An argument from fallacy is a formal fallacy that assumes a conclusion is false because the argument that supports it contains a fallacy. It's also known as the fallacy fallacy, argument to logic, the fallacist's fallacy, or the bad reasons fallacy.",
+        "Example": "Person A presents an argument for X. Person B points out that Person A's argument contains a logical fallacy. Person B then concludes that X is therefore false.\n\nThe fallacy is that even if an argument for a conclusion is flawed, that doesn't necessarily mean the conclusion itself is false. The conclusion might still be true, just not for the reasons presented in the flawed argument."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Authority bias",
+        "Definition": "The authority bias describes our tendency to be more influenced by the opinions and judgments of authority figures. This bias can lead people to accept information or follow instructions without critically evaluating the content, simply because it comes from a perceived authority.",
+        "Example": "A patient blindly follows a doctor's recommendation without seeking a second opinion or doing their own research, even if the treatment plan seems questionable or there are alternative options available. They place undue trust in the doctor's authority simply because of their position."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Automation bias",
+        "Definition": "Automation bias is the propensity for humans to favor suggestions from automated decision-making systems and to ignore contradictory information made without automation, even if it is correct.",
+        "Example": "A pilot relies too heavily on the autopilot system of an aircraft, even when there are subtle cues suggesting a malfunction or unusual weather conditions. They might fail to notice or correctly interpret these cues because they assume the automated system is functioning perfectly."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Bandwagon effect",
+        "Definition": "The bandwagon effect refers to the tendency of people to adopt certain behaviors, styles, or attitudes simply because everyone else is doing it.",
+        "Example": "A certain type of phone case becomes incredibly popular among teenagers. Even if you personally don't find it particularly appealing, you might feel pressure to buy it simply because \"everyone else has one."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Essentialism",
+        "Definition": "the process of conceptualizing social groups as naturally and essentially distinct. This bias leads to overestimating the extent to which a person is defined by the social category to which they belong.",
+        "Example": "Believing that all members of a particular group (e.g., a race, nationality, or gender) share inherent, unchanging characteristics that define them. For example, believing that all men are inherently aggressive or that all women are inherently nurturing. This ignores individual variation within the group and assumes that group membership determines an individual's core traits."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Functional fixedness",
+        "Definition": "Functional fixedness is a cognitive bias that limits people to using objects in their traditional ways, which can make it hard to solve problems and be creative. It can impact people in many areas of their lives, including their careers, academic life, and personal lives.",
+        "Example": "You need to tighten a screw, but you don't have a screwdriver. You see a dime nearby, but you don't think to use it to turn the screw because you only think of dimes as currency, not as a potential tool."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Group attribution error",
+        "Definition": "The group attribution error is the tendency to assume that a group's characteristics or decisions reflect the attitudes of its individual members. This assumption can be incorrect because group decisions can be influenced by other factors, such as decision rules.",
+        "Example": "You meet one rude person from a particular country. You then assume that people from that country are generally rude, attributing the behavior of one individual to the entire group."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Just-world hypothesis",
+        "Definition": "The just-world hypothesis is a cognitive bias that assumes that people receive what they deserve in life. It's also known as the just-world fallacy or just-world phenomenon.",
+        "Example": "After hearing about someone being robbed, a person might think, \"They must have done something to deserve it,\" even if there's no evidence to support that claim. This reflects the belief that bad things only happen to bad people, and good things only happen to good people."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Moral credential effect",
+        "Definition": "The moral credential effect is a cognitive bias that occurs when people use past good deeds to justify future bad actions. It's based on the idea that people feel licensed to behave poorly after establishing themselves as moral or virtuous.",
+        "Example": "Someone who has consistently donated to environmental charities for years might feel less guilty about driving a gas-guzzling SUV or taking frequent flights, justifying their actions by saying, \"I've done my part for the environment.\""
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Placebo effect",
+        "Definition": "The placebo effect is when a person's health improves after taking a placebo, or a treatment that is designed to have no therapeutic benefit. The placebo effect is caused by the person's belief in the treatment and their expectation of feeling better, not by the placebo itself.",
+        "Example": "A patient with mild pain is given a sugar pill, but is told it's a powerful new pain reliever. They report a reduction in their pain levels, even though the pill contains no active ingredients. Their belief in the treatment, rather than the treatment itself, caused the improvement."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Stereotyping",
+        "Definition": "Stereotyping is the act of assigning a group of people a set of characteristics, often based on overgeneralized ideas about how they should or shouldn't behave. Stereotypes can be based on a variety of factors, including age, gender, race, weight, and occupation.",
+        "Example": "Believing that all teenagers are rebellious and irresponsible, or that all elderly people are frail and forgetful. These are overgeneralized beliefs about entire groups that don't account for individual differences"
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We fill in characteristics from stereotypes, generalities, and prior histories",
+        "Bias": "Ultimate attribution error",
+        "Definition": "The ultimate attribution error (UAE) is a cognitive bias that occurs when people attribute negative behaviors to outgroups and positive behaviors to ingroups. It can be described as a heuristic that causes people to blame others for negative behaviors based on their inherent flaws, while attributing their own group's negative behaviors to circumstances",
+        "Example": "Imagine two groups, A and B.\n\nNegative behavior by a member of Group B: You attribute it to their inherent character (\"They're just lazy/dishonest/violent\").\n\nPositive behavior by a member of Group B: You attribute it to external factors or luck (\"They just got lucky\" or \"It was a special circumstance\").\n\nNegative behavior by a member of Group A (your own group): You attribute it to situational factors (\"They were under a lot of stress\" or \"Anyone would have done the same thing in that situation\").\n\nPositive behavior by a member of Group A: You attribute it to their inherent character (\"They're just a good/smart/hardworking person\").\n\nIn short, you give your own group the benefit of the doubt, while you readily blame the other group's inherent nature for negative actions and downplay their positive actions."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Cheerleader effect",
+        "Definition": "The cheerleader effect is the phenomenon where people are perceived as more attractive when they are in a group than when they are alone",
+        "Example": "You see a group photo of people, and you think they all look quite attractive. However, when you see individual photos of the same people, you realize that some of them are not as attractive as you initially perceived them to be in the group photo. The presence of others in the group made each individual seem more attractive on average."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Cross-race effect",
+        "Definition": "The cross-race effect (CRE) is a well-documented psychological phenomenon that describes the tendency to recognize faces of one's own race more easily than faces of other races.",
+        "Example": "A white person is more likely to accurately recognize and remember the face of another white person compared to the face of a Black person, even if they were both seen for the same amount of time. Similarly, a Black person is more likely to accurately recognize and remember the face of another Black person compared to the face of a white person. "
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Halo effect",
+        "Definition": "A cognitive bias in which a positive impression of a person, product, or entity in one area influences perceptions in other unrelated areas, leading to overly favorable evaluations.",
+        "Example": "A hiring manager assumes that an applicant with a confident and charismatic personality is also highly competent, leading them to overlook objective performance metrics."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "In-group favoritism",
+        "Definition": "the tendency for people to give preferential treatment to others who belong to the same group that they do. This bias shows up even when people are put into groups randomly, making group membership effectively meaningless.",
+        "Example": "A hiring manager is interviewing candidates for a job. Two candidates have similar qualifications, but one candidate went to the same university as the hiring manager. The hiring manager is more likely to favor the candidate who shares their alma mater, even if the other candidate is equally or slightly more qualified."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Not invented here",
+        "Definition": "Not invented here\" (NIH) is a bias against ideas or products that come from outside a group or organization. It can also refer to the tendency to avoid using or buying products from external sources.",
+        "Example": "A company develops a new software solution. A competitor has already developed a similar, and potentially better, solution. However, the company refuses to consider adopting or learning from the competitor's solution, simply because it wasn't developed internally. They prioritize their own \"homegrown\" solution, even if it's less efficient or effective."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Out-group homogeneity bias",
+        "Definition": "Out-group homogeneity bias is the tendency to view members of an out-group as more similar to each other than members of an in-group. For example, someone who is white might perceive Asians as more similar to each other than they actually are.",
+        "Example": "Someone who lives in a big city might believe that people in rural areas are all very similar to each other, sharing the same values and lifestyle, while perceiving people in their own city as diverse and individualistic."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Positivity effect",
+        "Definition": "The positivity effect is a cognitive bias that describes the tendency of older adults to favor positive information and avoid negative information",
+        "Example": "Older adults, when shown a mix of positive, negative, and neutral images, tend to remember the positive images more vividly and frequently than the negative ones. This is especially true when recalling memories of the past."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Reactive devaluation",
+        "Definition": "Reactive devaluation is a cognitive bias that occurs when someone devalues a proposal made by an opposing party, especially if that party is seen as negative or antagonistic. It can be a significant barrier in negotiations.",
+        "Example": "During a negotiation between two companies, one company proposes a compromise that is actually quite favorable to both sides. However, the other company immediately rejects the proposal simply because it came from their rival, assuming it must be designed to benefit the other side more."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We imagine things and people we're familiar with or fond of as better",
+        "Bias": "Well-traveled road effect",
+        "Definition": "The well-traveled road effect is a cognitive bias that causes people to estimate the time it takes to travel a route differently depending on how familiar they are with it. People tend to underestimate how long it will take to travel a well-known route, and overestimate how long it will take to travel an unfamiliar route.",
+        "Example": "You drive the same route to work every day. Even though it takes 30 minutes according to your GPS, it often feels like it takes less time. When you drive to a new destination that is also 30 minutes away, it feels much longer. This is because the familiarity of the usual route makes the time seem to pass more quickly."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Declinism",
+        "Definition": "Declinism is the belief that a society, institution, or country is in decline or getting worse. It's characterized by a tendency to view the past in a more positive light than the present or future. Declinism is often caused by cognitive biases, such as rosy retrospection, which can lead people to view the past more favorably and the future more negatively.",
+        "Example": "Someone frequently says things like, \"Things were so much better in the old days. Music was better, movies were better, people were more respectful. Nowadays, everything is going downhill.\" They consistently view the past as superior to the present and future, even when objective data might show improvements in certain areas."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Hindsight bias",
+        "Definition": "Hindsight bias occurs when people feel that they “knew it all along,” that is, when they believe that an event is more predictable after it becomes known.",
+        "Example": "After a sports team wins a championship game, people say \"I knew they were going to win all along!\" even if they had doubts or were unsure before the game started."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Impact bias",
+        "Definition": "The impact bias refers to our tendency to overestimate the intensity and duration of our emotional reactions to future circumstances.",
+        "Example": "You're dreading a visit to the dentist, imagining that the experience will be extremely painful and unpleasant. However, after the appointment, you realize it wasn't nearly as bad as you had anticipated. You overestimated the intensity and duration of the negative emotions you would experience."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Moral luck",
+        "Definition": "Moral luck is when an agent is held morally accountable for an action or its consequences, even though they didn't have full control over those things. It can occur when factors outside of an agent's control, such as circumstances or the results of their actions, positively or negatively affect how much praise or blame they deserve.",
+        "Example": "Two equally qualified candidates apply for the same job. Candidate A has a fantastic interview, answering all the questions perfectly and making a great impression. Candidate B also has a good interview, but during their interview, the hiring manager happens to mention a shared hobby (e.g., collecting vintage stamps). This shared hobby creates an instant connection, and the hiring manager feels a stronger affinity for Candidate B, ultimately giving them the job.\n\nBoth candidates were equally deserving, but Candidate B benefited from a chance occurrence (the shared hobby) that influenced the hiring manager's perception. This is moral luck because Candidate B didn't do anything to create this connection; it was a matter of chance."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Outcome bias",
+        "Definition": "a cognitive bias that refers to the tendency to judge a decision based on its outcome rather than basing it on an assessment of the quality of the decision at the time it was made. Outcome bias can arise when a decision is based on the outcome of previous events without taking into account how the past events developed.",
+        "Example": "A surgeon performs a risky operation. The patient makes a full recovery. People praise the surgeon's skill and judgment, even if the decision to perform the operation was based on incomplete information or a low probability of success. Conversely, if the patient had died, the surgeon might be harshly criticized, even if the surgery was performed with the best possible intentions and using the standard of care. The evaluation of the decision is based solely on the outcome, not the quality of the decision-making process at the time."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Pessimism bias",
+        "Definition": "The pessimism bias refers to the tendency to overestimate the likelihood of negative events while underestimating the likelihood of positive events. This attitude of expecting the worst is a prominent cognitive feature of depression and can have considerable ramifications on both a personal and societal level.",
+        "Example": "Someone who is about to give a presentation anticipates that they will stumble over their words, forget key points, and receive negative feedback from the audience, even though they are well-prepared and have given successful presentations in the past. They consistently overestimate the likelihood of negative outcomes."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Planning fallacy",
+        "Definition": "The planning fallacy is a cognitive bias that occurs when someone underestimates the time, cost, or risk required to complete a future task. People with the planning fallacy may have overly optimistic expectations and believe that the next time will be different, even if they know that similar tasks have taken longer than planned.",
+        "Example": "You estimate that writing a report for work will take you two days. However, unexpected interruptions, minor setbacks, and the need for revisions mean it actually takes you four days to complete. You consistently underestimate the time needed to complete tasks, even when you have past experience with similar projects."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Pro-innovation bias",
+        "Definition": "Pro-innovation bias is the tendency to overvalue the benefits of innovation while underestimating its limitations or potential downsides.",
+        "Example": "A company decides to implement a brand new, complex project management software system across all departments, even though their current system works reasonably well and employees are already familiar with it. They overestimate the benefits of the new system and underestimate the costs and disruptions associated with switching, such as training time, integration issues, and potential loss of productivity during the transition. They are biased towards the \"new\" simply because it is new."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Projection bias",
+        "Definition": "Projection bias refers to people's assumption that their tastes or preferences will remain the same over time.",
+        "Example": "Someone in their early 20s, who currently enjoys going to loud concerts every weekend, buys a lifetime supply of earplugs, assuming they will continue to enjoy and attend such concerts at the same frequency throughout their life. They fail to consider that their tastes or lifestyle might change as they get older, and they might not need or want that many earplugs in the future."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Restraint bias",
+        "Definition": "a tendency for people to overestimate their capacity for impulse control.",
+        "Example": "Someone who is trying to lose weight believes they have strong willpower and can easily resist the temptation of keeping unhealthy snacks in their house. They buy a large bag of chips, thinking they'll only eat a few. However, when they're at home and the chips are readily available, they end up eating much more than they intended, because they overestimated their ability to resist the temptation in the moment."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Rosy retrospection",
+        "Definition": "Rosy retrospection is a cognitive bias that causes people to recall past events more positively than they were actually experienced",
+        "Example": "Years after a challenging hiking trip with friends, you mostly remember the stunning views from the summit, the laughter around the campfire, and the sense of accomplishment. You tend to forget the mosquito bites, the blisters, the rainy weather, and the arguments about navigation that occurred during the trip."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Self-consistency bias",
+        "Definition": "The self-consistency fallacy is the misguided assumption that \"I have always acted in a certain way; therefore, I must continue to act in this way.\"",
+        "Example": "A student who currently excels in math might remember always having been good at math, even if they struggled with it in earlier grades. They might downplay or forget past difficulties they had with learning basic math concepts. This helps them maintain a consistent self-image as a \"math person.\" They might even misremember getting lower grades than they actually did."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Telescoping effect",
+        "Definition": "The telescoping effect is a cognitive bias that causes people to misremember the timing of events. It's characterized by people perceiving recent events as more distant than they are, and distant events as more recent than they are. This can lead to people making temporal assumptions about past events",
+        "Example": "You're asked to recall when you last visited the dentist. If it was 3 months ago, you might accurately remember it. However, if it was 18 months ago, you might mistakenly remember it as being only 12 months ago. You're \"telescoping\" the past, bringing distant events closer in your memory"
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We project our current mindset and assumptions onto the past and future",
+        "Bias": "Time-saving bias",
+        "Definition": "The tendency to overestimate the time saved by doing tasks more quickly is called the 'time-saving bias', and it is one of a cluster of common reasoning errors.",
+        "Example": "A project manager believes that implementing a new software tool will drastically reduce the time it takes for their team to complete a specific task. They estimate that the software will save them 5 hours per week per employee. However, they underestimate the time it will take for employees to learn the new software, the time required for troubleshooting technical issues, and the potential disruption to existing workflows during the transition period. The actual time saved, at least initially, is likely to be much less than the estimated 5 hours, and could even result in a temporary increase in time spent."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Appeal to probability fallacy",
+        "Definition": "An \"appeal to probability\" fallacy occurs when someone assumes something is likely to happen simply because it is possible, without considering the actual probability or providing sufficient evidence, essentially arguing that \"because something could happen, it probably will happen.\"",
+        "Example": "Someone argues that since there's a possibility of finding life on other planets, there must be life on other planets. The mere possibility doesn't guarantee the existence of extraterrestrial life. The fallacy lies in assuming that a possibility is equivalent to a certainty or even a high probability."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Denomination effect",
+        "Definition": "the denomination effect, pertains to different forms of currency, whereby people are less likely to spend money if it takes the form of large bills as compared to spending the equivalent amount of money in the form of smaller bills or coins.",
+        "Example": "You have $100 in your wallet. If it's in the form of five $20 bills, you're more likely to spend some of it on small purchases throughout the week. 1 However, if that same $100 is one single $100 bill, you're more likely to hold onto it and less likely to break it for smaller expenses"
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Mental accounting",
+        "Definition": "Mental accounting is a model that describes how people categorize and evaluate economic outcomes by mentally sorting their money into separate accounts. This tendency can lead to illogical financial decisions, such as irrational spending or poor investment decisions.",
+        "Example": "Someone receives a $50 bonus at work. They might be more likely to spend that $50 on a \"fun\" purchase like a nice dinner out or a new gadget, rather than putting it towards a more practical expense like paying down debt or adding it to their savings. They treat the bonus money as belonging to a separate \"fun money\" account, even though it's the same as any other $50 they earn."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Murphy's Law",
+        "Definition": "Murphy's Law is a common saying that states, \"Anything that can go wrong will go wrong\". It's often used to describe unexpected or unfortunate events in a humorous way.",
+        "Example": "You're running late for an important meeting. As you rush out the door, you spill your coffee all over your white shirt. This exemplifies the idea that \"anything that can go wrong, will go wrong,\" especially at the worst possible time. It's important to remember that Murphy's Law is often used humorously and isn't a true scientific law or cognitive bias, but rather an observation about the frequency of inconvenient events."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Normalcy bias",
+        "Definition": "Normalcy bias denotes our tendency to minimize or ignore threat warnings and to believe that nothing can seriously disrupt our everyday life.",
+        "Example": "During a fire alarm, people in an office building might continue working at their desks, assuming it's just a drill or a false alarm, even when there are visible signs of smoke or other indicators of a real emergency. They underestimate the likelihood of a real fire because they are used to false alarms."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Subadditivity effect",
+        "Definition": "The subadditivity effect is a cognitive bias that describes the tendency of people to underestimate the probability of a whole in comparison to the sum of its parts. This is an anomaly in probability theory, where the total probability of a set of outcomes must equal the sum of the probabilities of each individual outcome.",
+        "Example": "Imagine you're asked to estimate the probability of two events happening in the next year:\n\nWinning the lottery.\nGetting a promotion at work.\n\nYou might estimate the probability of winning the lottery as 1% and the probability of getting a promotion as 10%. However, if asked to estimate the probability of either winning the lottery or getting a promotion, you might estimate it as only 8%, even though it should be at least 11% (or slightly less, if you account for the tiny probability of both happening, which is so small it is usually ignored). You're underestimating the combined probability of the two events."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Survivorship bias",
+        "Definition": "A logical error that occurs when focusing on successful people, businesses, or cases while ignoring those that failed, leading to an inaccurate understanding of success factors.",
+        "Example": "You see a documentary about successful entrepreneurs who dropped out of college. You might conclude that dropping out of college is a good path to success in business. However, you're only seeing the \"survivors\" - the few who succeeded. You're not seeing the vast majority of college dropouts who did not become successful entrepreneurs."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "The magical number 7 ± 2",
+        "Definition": " a law of human cognition and information processing that humans can effectively process no more than seven units, or chunks, of information, plus or minus.",
+        "Example": "When trying to remember a new phone number, most people can hold around 5 to 9 digits in their short-term memory at once. If the phone number is longer, like a 10-digit number, they often break it down into smaller chunks (like 3-3-4) to make it easier to remember."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We simplify probabilities and numbers to make them easier to think about",
+        "Bias": "Zero sum bias",
+        "Definition": "The zero-sum bias occurs when people mistakenly expect gains and losses to be directly balanced in a situation where they're not, especially in terms of one party benefiting directly at the expense of others. For example, the zero-sum bias can cause someone to think that a resource they're interested in is limited, meaning that to use it they will have to take some of it from others, even if the resource is actually unlimited.",
+        "Example": "You believe that if someone else gains something, it must mean that you lose something."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Anecdotal fallacy",
+        "Definition": "An anecdotal fallacy occurs when someone uses a limited personal experience or that of an acquaintance to make general conclusions about a topic. This is a common fallacy that many people commit.",
+        "Example": "Someone argues that smoking isn't harmful because their grandfather smoked two packs a day and lived to be 90 years old. They are using a single anecdote to dismiss a large body of scientific evidence demonstrating the harmful effects of smoking."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Anthropomorphism",
+        "Definition": "The tendency to ascribe humanlike characteristics, usually mental properties or agency, to things that do not have it.",
+        "Example": "Someone talks to their pet dog as if it understands complex sentences and human emotions, saying things like, \"I know you're feeling sad today because I had a bad day at work.\""
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Clustering illusion",
+        "Definition": "The clustering illusion is a cognitive bias that causes people to perceive patterns in random data. It's also known as the \"hot hand fallacy\".",
+        "Example": "You're watching a basketball game and a player makes three shots in a row. You start to think they're \"on fire\" and are guaranteed to make their next shot, even though the probability of them making the next shot is independent of the previous ones. You're perceiving a pattern (a \"hot streak\") in what is likely a random sequence of events."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Confabulation",
+        "Definition": "Confabulation is a memory error where someone creates false or distorted memories about themselves or the world without intending to deceive. People who confabulate genuinely believe the information they provide is true.",
+        "Example": "A patient with Korsakoff's syndrome (a memory disorder often caused by chronic alcoholism) is asked about their day. They might vividly describe going to the park, feeding ducks, and having a picnic, even though they've been in the hospital all day. They are not intentionally lying; they genuinely believe they are recounting real events, filling in gaps in their memory with fabricated details."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Gambler's fallacy",
+        "Definition": "The gambler's fallacy is the false belief that an event is more likely to happen again if it has occurred less frequently than expected. It's also known as the Monte Carlo fallacy or the fallacy of the maturity of chances.",
+        "Example": "After flipping a coin and getting heads five times in a row, you believe the next flip is more likely to be tails."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Hot-hand fallacy",
+        "Definition": "The hot-hand fallacy is the tendency to believe that someone who has been successful in a task or activity is more likely to be successful again in further attempts. It's a behavioral bias that can occur in sports, investing, and other areas",
+        "Example": "You believe that a basketball player who has made several shots in a row is more likely to make their next shot."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Illusion of validity",
+        "Definition": "The illusion of validity is a cognitive bias that causes people to overestimate their ability to predict or interpret data, especially when the data appears to have a consistent pattern. This bias can lead to an unjustified sense of confidence in one's beliefs or decisions.",
+        "Example": "A financial analyst is highly confident in their stock predictions because they have developed a complex model that takes into account many different economic factors. However, the model's past performance is not significantly better than random chance. The analyst's confidence in their predictions is an illusion of validity, based on the complexity of the model rather than its actual predictive power"
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Illusory correlation",
+        "Definition": "Illusory correlation is a cognitive bias that occurs when someone perceives a relationship between two or more things that are not actually related. It's also known as the clustering illusion.",
+        "Example": "People often believe that there is a strong correlation between full moons and strange or erratic behavior, even though studies have repeatedly shown no such link. This is an illusory correlation - perceiving a relationship between two variables when no such relationship exists. "
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Insensitivity to sample size",
+        "Definition": "Is a cognitive bias where people fail to adequately consider the importance of sample size when interpreting data, often leading to inaccurate conclusions by assuming that small samples accurately represent a larger population, even when statistically unlikely; essentially, not realizing that smaller samples are more prone to random fluctuations and less reliable than larger ones.",
+        "Example": "You hear a news report that 80% of students at a small private school prefer a new brand of cafeteria food. You assume this means that 80% of students everywhere prefer the new food, without considering that the small sample size of the private school (e.g., only 50 students) makes the result much less reliable than if the survey had been conducted at a large public university with thousands of students."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Masked-man fallacy",
+        "Definition": "The masked-man fallacy is a logical error that occurs when someone assumes that two or more names or descriptions can be used interchangeably, even when that's not the case. It's based on the idea that if A and B are the same object, then they are indiscernible, which is Leibniz's law.",
+        "Example": "Lois Lane knows that Superman can fly. Lois Lane does not know that Clark Kent can fly. Therefore, Superman and Clark Kent are not the same person.\n\nThe fallacy lies in the fact that Lois's knowledge or belief about Superman and Clark Kent's abilities doesn't change the underlying reality that they are the same individual. The fallacy confuses knowing something with the truth of something."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Neglect of probability",
+        "Definition": "Neglect of probability is a cognitive bias that occurs when people disregard the likelihood of events happening, especially when making decisions under uncertainty. It can lead to irrational decision-making, such as overestimating the likelihood of rare events or underestimating more likely ones.",
+        "Example": "Someone is extremely afraid of flying, even though statistically, car travel is far more dangerous. They might drive for hours to avoid a short flight, even though the probability of being in a car accident is significantly higher than the probability of being in a plane crash. They are neglecting the actual probabilities of these events and focusing on the vividness of the potential plane crash scenario."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Pareidolia",
+        "Definition": "Pareidolia is a psychological phenomenon that causes people to see patterns or meanings in things that aren't there",
+        "Example": "Looking at clouds and seeing shapes of animals or faces in them."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We tend to find stories and patterns even when looking at sparse data",
+        "Bias": "Recency illusion",
+        "Definition": "The recency illusion is a cognitive bias that occurs when someone believes that something is new because they only recently became aware of it, even though it's actually been around for a long time. It's also known as the frequency illusion or Baader-Meinhof phenomenon.",
+        "Example": "You recently learned the word \"zeitgeist.\" Suddenly, you start noticing it in articles, conversations, and even song lyrics. You get the impression that the word has become much more popular recently, when in reality, it's been in use for a long time. You're experiencing the recency illusion - the belief that something you've recently become aware of is a recent phenomenon"
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Curse of knowledge",
+        "Definition": "The curse of knowledge is a cognitive bias that occurs when someone with specialized knowledge assumes that others share that knowledge. It's also known as the curse of expertise or expert's curse.",
+        "Example": "Once you know something, you assume everyone else knows it too."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Extrinsic incentive error",
+        "Definition": "Extrinsic incentive error is the tendency to prioritize external rewards over intrinsic motivation. It can also refer to the tendency to attribute other people's motivations to extrinsic incentives, like money, rather than intrinsic ones, like learning new skills.",
+        "Example": "You see a colleague working late every night and coming in on weekends. You assume they're doing it solely for the potential bonus or promotion, overlooking the possibility that they might genuinely enjoy their work or find it intellectually stimulating."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Illusion of asymmetric insight",
+        "Definition": "The \"illusion of asymmetric insight\" is a cognitive bias where people believe they understand others better than those others understand themselves, essentially thinking they have a superior knowledge of others compared to how well others know them; it's the tendency to perceive one's own insight into others as significantly greater than the other person's insight into oneself.",
+        "Example": "You believe you understand your friend's political views and motivations much better than they understand yours. You might think, \"I know why they believe that, but they don't really understand why I believe what I do.\" This bias makes you feel like you have a deeper understanding of others than they have of you."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Illusion of external agency",
+        "Definition": "The \"illusion of external agency\" refers to a cognitive bias where people underestimate their own ability to create positive outcomes in their lives and instead attribute those positive experiences to external factors, essentially overestimating the influence of external agents on their happiness or satisfaction; in simpler terms, people often believe their good fortune is due to outside forces rather than their own actions or choices.",
+        "Example": "Someone attributes their good fortune (like getting a promotion or winning a small lottery) to luck, fate, or divine intervention, rather than acknowledging their own hard work, skills, or the statistical probabilities involved. They might say, \"It was meant to be\" or \"I was just in the right place at the right time,\" minimizing their own agency in achieving the outcome."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Illusion of transparency",
+        "Definition": "The illusion of transparency is a cognitive bias that causes people to overestimate how well others can understand their thoughts, feelings, and intentions. It's a type of egocentric bias that can lead people to believe that their internal state is more obvious to others than it actually is.",
+        "Example": "You're giving a presentation and you feel incredibly nervous, with your heart racing and your hands shaking slightly. You assume that everyone in the audience can clearly see how nervous you are, even though they might not notice any outward signs of your anxiety."
+    },
+    {
+        "Domain": "Not Enough Meaning",
+        "Category": "We think we know what other people are thinking",
+        "Bias": "Spotlight effect",
+        "Definition": "The spotlight effect is a psychological phenomenon that describes people's tendency to believe they are being noticed more than they actually are. It's a manifestation of the egocentric bias, which is the tendency to estimate our own importance from our own perspective.",
+        "Example": "You accidentally spill a little coffee on your shirt just before an important meeting. You spend the rest of the meeting feeling extremely self-conscious, convinced that everyone is staring at the stain, even though most people probably didn't even notice it."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Bizarreness Effect",
+        "Definition": "The bizarreness effect, also known as the Von Restorff effect or the isolation effect, is the tendency for people to better remember bizarre or unusual information than common or everyday information. For example, people might remember the five main vowels of the English alphabet more easily if they are associated with a bizarre sentence or phrase.",
+        "Example": "You're trying to remember a list of words: \"dog, table, bicycle, astronaut, tree.\" You imagine a dog riding a bicycle, a table floating in space with an astronaut, and a tree with bicycle wheels. You're more likely to remember these bizarre images and thus the associated words than if you had just mentally repeated the words."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Humor Effect",
+        "Definition": "Humor effect is a cognitive bias that causes you to remember funny information better.",
+        "Example": "You're at a lecture, and the speaker tells a funny joke related to the topic. You're more likely to remember the information presented immediately after the joke compared to other parts of the lecture."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Negativity Bias",
+        "Definition": "The negativity bias is a cognitive bias that results in adverse events having a more significant impact on our psychological state than positive events. Negativity bias occurs even when adverse events and positive events are of the same magnitude, meaning we feel negative events more intensely.",
+        "Example": "Imagine you receive ten compliments on a presentation you gave, but also one piece of constructive criticism. You're likely to dwell on the criticism much more than the compliments, even though the compliments outnumbered it ten to one."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Picture Superiority Effect",
+        "Definition": "The picture superiority effect (PSE) is the tendency for people to remember pictures better than words. For example, people are more likely to remember the word \"dog\" if they see a drawing of a dog than if they see the word \"dog\"",
+        "Example": "You're trying to learn vocabulary in a foreign language. You're more likely to remember the meaning of a word if you see a picture associated with it than if you only see the written word and its translation."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Self-Relevance Effect",
+        "Definition": "The self-relevance effect (SRE) is a cognitive phenomenon that describes the tendency to better remember information that is personally relevant or can be related to oneself. This effect is a result of the bias people have in favor of themselves, which can significantly influence memory retention and cognitive processing.",
+        "Example": "You're at a party with lots of conversations going on. You're more likely to tune in and remember a conversation if you hear your own name mentioned. This is because your name is highly self-relevant."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "Bizarre, Funny, visualy striking, or anthropomorphic things stick out more than non-bizarre/unfunny things",
+        "Bias": "Von Resorff Effect",
+        "Definition": "The Von Restorff effect is the proven psychological theory that the more something stands out from the crowd the more likely it is to be seen.",
+        "Example": "Imagine a list of words you need to memorize, and all the words are printed in black ink except for one word that's printed in bright red. You'll likely remember the red word much better than the others because it stands out. That's the Von Restorff effect."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Choice-Supportive Bias",
+        "Definition": "Choice-Supportive Bias refers to the cognitive bias that leads individuals to recall their choices as better than they actually were. This phenomenon often occurs retrospectively when individuals attribute more positive features and fewer negative ones to the options they chose in the past, compared to those they rejected. ",
+        "Example": "After choosing to buy a particular brand of laptop over another, you start to remember and emphasize all the positive features of your chosen laptop while downplaying its flaws. You also tend to remember the negative aspects of the laptop you didn't choose and minimize its positive aspects, even if those weren't your initial impressions. This makes you feel more confident that you made the right decision."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Confirmation Bias",
+        "Definition": "People's tendency to process information by looking for, or interpreting, information that is consistent with their existing beliefs. ",
+        "Example": "You tend to only read news articles that agree with your political views, ignoring those that present opposing viewpoints."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Congruence Bias",
+        "Definition": "Congruence bias usually means you're looking to confirm pre-existing hypotheses or ideas, as opposed to seeking out the best solution.",
+        "Example": "A doctor suspects a patient has a specific disease based on their initial symptoms. They then primarily order tests that would confirm that diagnosis, neglecting to order tests that could rule out other possible conditions."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Continued Influence Effect",
+        "Definition": "The continued influence effect (CIE) is a phenomenon that occurs when misinformation continues to impact a person's beliefs, even after it has been corrected.",
+        "Example": "A news report initially states that a celebrity was involved in a car accident due to drunk driving. Later, a retraction is issued stating that the celebrity was not under the influence. However, many people continue to believe the initial report and associate the celebrity with drunk driving, even after the correction."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Expectation Bias",
+        "Definition": "Expectation bias is a phenomenon in which people's expectations about the outcome of an event or experiment can influence the results of that event or experiment. This can happen when people's expectations about the outcome affect how they perceive or interpret the information that is presented to them.",
+        "Example": "A wine taster is told that one glass of wine is a very expensive vintage, while another is a cheap table wine. Even if the wines are actually the same, the taster is likely to rate the \"expensive\" wine as tasting better due to their expectations."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Experimenter's Bias",
+        "Definition": "Any systematic errors in the research process or the interpretation of its results that are attributable to a researcher's behavior, preconceived beliefs, expectancies, or desires about results.",
+        "Example": "A researcher is studying the effects of a new teaching method on student performance. The researcher believes strongly that the new method is superior. Unconsciously, they might give more encouragement or attention to the students using the new method, or they might interpret ambiguous student responses as more positive, thus skewing the results in favor of their hypothesis."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Observer Effect",
+        "Definition": "The observer effect is the idea that observing a situation or phenomenon changes it. It can occur in many fields, including physics, psychology, sociology, linguistics, and computer science.",
+        "Example": "Workers in a factory increase their productivity simply because they know they are being observed by researchers, regardless of any other changes made to their working conditions."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Observer-Expectancy Effect",
+        "Definition": "The observer-expectancy effect is a type of reactivity that occurs when a researcher's expectations and beliefs influence the participants in their study. This can happen unintentionally, as researchers may signal their expectations through demand characteristics",
+        "Example": "In a medical study testing a new drug, the researchers expect the drug to improve patients' symptoms. 1  Unconsciously, they might interpret patients' ambiguous responses or subtle improvements as more positive than they actually are, leading to biased results that favor the drug"
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Ostritch Bias",
+        "Definition": "The ostrich effect, also known as the ostrich problem, is a cognitive bias that describes how people often avoid negative information, including feedback that could help them monitor their goal progress. Instead of dealing with the situation, we bury our heads in the sand, like ostriches.",
+        "Example": "You avoid checking your bank balance or medical test results because you don't want to face bad news."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Post-Purchase rationalization",
+        "Definition": "Post-purchase rationalization, also known as choice-supportive bias or Buyer's Stockholm Syndrome, is a cognitive bias that occurs when someone convinces themselves that a purchase was worth it. It's the tendency to justify a purchase by overlooking any faults or defects in the product or service.",
+        "Example": "Someone buys a new, expensive phone. After a few weeks, they realize the battery life isn't as good as they'd hoped. Instead of admitting they might have made a slightly flawed purchase, they focus on the phone's excellent camera and sleek design, telling themselves that those features are more important anyway, thereby justifying their purchase."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Selective-Perception",
+        "Definition": "Selective perception refers to the tendency of individuals to focus on specific aspects of the environment while ignoring others, often leading to biased interpretations and stereotyping.",
+        "Example": "You notice cars of the same model as yours much more frequently after you buy one."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Semmelweis Reflex",
+        "Definition": "The Semmelweis reflex is a human tendency to reject new ideas or evidence that contradict existing beliefs. It's a metaphor for the reflex-like tendency to stick to established norms, beliefs, or paradigms.",
+        "Example": "A doctor proposes a new handwashing procedure to reduce the spread of disease in a hospital, based on solid evidence. However, other doctors ridicule and reject the idea, not because of flaws in the evidence, but because it challenges their established practices and sense of authority.  They resist the new idea simply because it contradicts existing norms"
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We are drawn to details that confirm our own existing beliefs",
+        "Bias": "Subjective Validation",
+        "Definition": "Occurs when a person maintains her/his prior beliefs when given clear and unambiguous evidence to the contrary.",
+        "Example": "You find horoscopes or personality tests to be accurate because they contain vague statements that could apply to anyone."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice flaws in others more easily than we notice flaws in ourselves",
+        "Bias": "Bias blind spot",
+        "Definition": "People are less likely to detect bias in themselves than others. However, how blind we are to our own actual degree of bias, and how many of us think we are less biased than others have been less clear.",
+        "Example": "You recognize cognitive biases in others but believe you are less susceptible to them yourself."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice flaws in others more easily than we notice flaws in ourselves",
+        "Bias": "Naïve cynicism",
+        "Definition": "Naïve cynicism is a cognitive bias that causes people to have a distrustful view of the world and to believe that others are biased while they are objective",
+        "Example": "A politician announces a new initiative to help underprivileged children. A naïve cynic might immediately assume the politician's motives are purely self-serving (e.g., gaining votes or positive media attention), dismissing any possibility of genuine altruism or a desire to make a positive impact. They attribute the politician's actions to cynical motives, even without strong evidence."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice flaws in others more easily than we notice flaws in ourselves",
+        "Bias": "Naïve realism",
+        "Definition": "Naïve realism is the belief that the world is perceived objectively and that others who disagree with you are uninformed, irrational, or biased. It's a type of egocentric bias that can make it difficult to understand other people's perspectives.",
+        "Example": "Two people watch the same political debate. One person supports Candidate A, and the other supports Candidate B. After the debate, each person believes that their candidate \"clearly won\" and that anyone who disagrees \"just didn't see the facts\" or is \"biased.\" They both assume that their perception of the debate is an objective reflection of reality, and that anyone who sees it differently is simply wrong."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Attentional Bias",
+        "Definition": "Attention bias is the tendency to prioritize the processing of certain types of stimuli over others.",
+        "Example": "Imagine you're considering buying a red car. Suddenly, you start noticing red cars everywhere. It's not that there are more red cars on the road, but your focus on them makes you more aware of their presence."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Availability Heuristics",
+        "Definition": "The availability heuristic is a mental shortcut that involves relying on easily recalled information to evaluate the likelihood of an event or outcome. It's also known as availability bias.",
+        "Example": "After seeing several news reports about plane crashes, you might overestimate the likelihood of dying in a plane crash."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Baeder-Meinhof Phenomenon",
+        "Definition": "The Baader-Meinhof phenomenon, also known as the frequency illusion or recency illusion, is a cognitive bias that causes people to notice something more frequently after they've recently learned about it",
+        "Example": "You learn a new word or concept (e.g., \"synchronicity\"). Soon after, you start noticing that word or concept appearing in seemingly unrelated places - in conversations, articles, or even advertisements - making you feel like it's suddenly everywhere."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Base Rate Fallacy",
+        "Definition": "The base rate fallacy is a tendency to prioritize specific information over relevant statistical information. It can also be called base rate neglect or base rate bias.",
+        "Example": "You are told that a shy, quiet person enjoys reading and spends a lot of time alone. You assume they are more likely to be a librarian than a salesperson, even though there are far more salespeople than librarians in the general population. You are neglecting the base rate (the overall prevalence of salespeople vs. librarians) and focusing on the personality description."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Context Effect",
+        "Definition": "Context effect is a cognitive psychology concept that describes how environmental factors influence a person's perception of a stimulus. It can also refer to how the content of previous questions can influence how respondents answer a particular question in a social survey.",
+        "Example": "Judging someone's height based on who they are standing next to, making them appear taller or shorter depending on the comparison."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Cue-Dependent Forgetting",
+        "Definition": "Cue-dependent forgetting, also known as retrieval failure, is the inability to recall information without the use of memory cues. It's a cognitive psychology theory of forgetting that states that memories are sometimes temporarily forgotten because they can't be retrieved. However, the correct cue can help bring the memory back to mind.",
+        "Example": "You run into someone you know from high school, but you can't remember their name until you see them talking to another high school friend, which triggers your memory. The high school friend acts as the cue that helps you retrieve the name."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Empathy Gap",
+        "Definition": "The empathy gap is a cognitive bias that makes it difficult for people to understand how their mental state affects their behavior and decision-making. It can also refer to a reduction in empathy, or the ability to understand and share another person's thoughts and feelings.",
+        "Example": "Imagine you're not hungry. You're trying to plan a large meal for a party next week. You might underestimate how much food people will actually eat because you're currently not experiencing hunger yourself. This is an example of an empathy gap between your current state (not hungry) and a future state (people at the party being hungry)."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Frequency Illusion",
+        "Definition": "The frequency illusion, also known as the Baader-Meinhof phenomenon, is a cognitive bias that causes people to notice something more frequently after they've recently become aware of it",
+        "Example": "After learning about a relatively obscure word or concept (like \"apophenia\"), you suddenly start noticing it everywhere—in books, articles, conversations—making you feel like it's become much more common."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Illusory Truth Effect",
+        "Definition": "The illusory truth effect is the tendency to believe a false or misleading claim as true after repeated exposure to it. This can happen even when the claim is implausible or contradicts prior knowledge.",
+        "Example": "For instance, if you repeatedly hear that \"drinking coffee stunts your growth,\" you might start believing it to be true, even if there's no scientific evidence supporting this claim."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Mere Exposure Effect",
+        "Definition": "The mere exposure effect is a psychological phenomenon that describes how people tend to develop a preference for things they are familiar with. It's also known as the familiarity principle.",
+        "Example": "You start hearing a new song on the radio that you initially don't like. After hearing it several times, you find yourself humming along and eventually start to enjoy it."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Mood-Congruent Memory Bias",
+        "Definition": "The mood congruency effect is a psychological phenomenon in which a person tends to remember information that is consistent with their particular mood. People also tend to recall memories that coincide with the mood they are experiencing at a certain time.",
+        "Example": "When you're feeling sad, you tend to remember more sad events from your past. When you're feeling happy, you tend to remember more happy events."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice things already primed in memory or repeated often",
+        "Bias": "Omission Bias",
+        "Definition": "Omission bias is the preference for harm caused by omissions over equal or lesser harm caused by acts. Ritov and Baron (1990) used vaccination to illustrate the bias: many people consider the risk of harm from vaccination as more serious than the risk from omitting vaccination.",
+        "Example": "A parent might feel more comfortable not vaccinating their child (an omission, potentially leading to harm) than vaccinating them and having the child experience a rare but potential side effect (a commission, also potentially leading to harm), even if the risk of harm from the disease is far greater than the risk from the vaccine."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Anchoring",
+        "Definition": "Anchoring is a psychological phenomenon where a person's decisions or judgments are influenced by an initial piece of information, or \"anchor\". This can be a number or something non-numeric, and the influence can be significant even if the anchor is irrelevant.",
+        "Example": "If a car is initially listed at $30,000, you'll likely consider offers around $25,000 to be a good deal, even if the car is actually worth only $20,000."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Conservatism Bias",
+        "Definition": "Conservatism bias is the tendency to prefer existing evidence over new evidence that might change your view on something, which is caused by resistance to change your opinion about something. On a psychological level this happens because you might be trying to protect yourself from thinking less of yourself.",
+        "Example": "An investor holds onto a stock for too long, even after the company's performance starts to decline and new data suggests it's no longer a good investment, because they are anchored to their initial positive assessment of the company."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Contrast Effect",
+        "Definition": "Contrast effect is an unconscious bias that happens when two things are judged in comparison to one another, instead of being assessed individually.\nOur perception is altered once we start to compare things to one another. We tend to judge them relative to each other rather than on their own merit.",
+        "Example": "Imagine you're tasting two wines. The first wine is quite acidic and tart. The second wine, while also somewhat acidic, tastes much smoother and sweeter in comparison, even though it might not have tasted that sweet if you had tasted it on its own. The first wine created a contrast that enhanced the perception of sweetness in the second wine."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Distinction Bias",
+        "Definition": "Distinction bias is a cognitive bias that causes people to overestimate how different their options are when they compare them to each other rather than evaluating them independently, against some absolute standard. This bias often leads to an exaggerated perception of the differences between options.",
+        "Example": "You're shopping for a new apartment. When you see two apartments side-by-side, you might focus on minor differences, like slightly newer appliances in one versus slightly more closet space in the other. These differences seem very important when comparing them directly. However, if you had seen each apartment on separate days, you might have been perfectly happy with either one and not noticed the differences as much."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Focusing Effect",
+        "Definition": "The focusing effect, also known as the focusing illusion, is a cognitive bias that causes people to focus too much on one aspect of a situation or event, while ignoring other factors. This can lead to people making flawed decisions or judgments based on incomplete information.",
+        "Example": "You're considering moving to California and you start focusing heavily on the idea of having consistently sunny weather. You overestimate how much this sunny weather will improve your overall happiness, neglecting other factors like the high cost of living, potential traffic congestion, and distance from family and friends."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Framing Effect",
+        "Definition": "The framing effect in psychology refers to the bias where people react differently to a particular decision depending on how it's presented, or “framed”, emphasizing either the positive (gain) or negative (loss) aspects. The same information, when framed differently, can alter people's responses.",
+        "Example": "You are more likely to choose a surgery with a \"90% survival rate\" than one with a \"10% mortality rate,\" even though they are statistically the same."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Money-Illusion",
+        "Definition": "Money illusion, also known as price illusion, is a cognitive bias that occurs when people think of money in terms of its face value, rather than its purchasing power. This means that people don't account for inflation or deflation when making decisions, and they mistakenly believe that their money is worth the same as it was in the past.",
+        "Example": "You get a 3% raise at work, and you're happy about the extra money in your paycheck. However, you fail to consider that inflation is also at 3%, meaning your actual purchasing power hasn't increased at all. You're focusing on the nominal increase in your salary rather than the real increase (adjusted for inflation)."
+    },
+    {
+        "Domain": "Too much information",
+        "Category": "We notice when something has changed",
+        "Bias": "Weber-Fechner law",
+        "Definition": "The Weber-Fechner Law is a principle in the field of psychophysics that describes the relationship between physical stimuli and the perceived intensity of these stimuli. Named after the 19th-century German psychologists Ernst Heinrich Weber and Gustav Theodor Fechner, this law posits that the change in a stimulus that will be just noticeable (a just noticeable difference or JND) is a constant ratio of the original stimulus. This means that larger stimuli require greater changes to be noticed, and smaller stimuli require smaller changes to be noticed.",
+        "Example": "Imagine you're holding a 1-pound weight. If someone adds another pound, you'll easily notice the difference. However, if you're holding a 10-pound weight, adding another pound might not be as noticeable. The change in weight needs to be proportionally larger (a greater percentage of the original weight) to be easily detected."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Fading affect bias",
+        "Definition": "The fading affect bias (FAB) is the tendency for negative emotions to fade faster than positive emotions over time. It's most commonly seen in autobiographical memories, but has been studied in other types of memories as well.",
+        "Example": "Years after a difficult breakup, you remember the relationship mostly for the good times, like fun dates and shared laughter. The intense pain, sadness, and anger you felt immediately after the breakup have faded significantly in your memory."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Implicit Bias",
+        "Definition": "Implicit bias, also known as implicit prejudice or implicit attitude, is a negative attitude, of which one is not consciously aware, against a specific social group.",
+        "Example": "Someone might unconsciously associate certain racial groups with bad behavior, even if they consciously believe that all people should be treated equally."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Implicit stereotypes",
+        "Definition": "Implicit stereotypes are automatic, involuntary associations that people make between a social group and a domain or attribute, without being aware of them. They are based on associative networks in semantic memory and automatic activation.",
+        "Example": "Someone might unconsciously associate men with leadership roles or women with nurturing roles, even if they consciously reject these stereotypes."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Negativity bias",
+        "Definition": "The negativity bias is a cognitive bias that results in adverse events having a more significant impact on our psychological state than positive events. Negativity bias occurs even when adverse events and positive events are of the same magnitude, meaning we feel negative events more intensely.",
+        "Example": "You have a day where nine things go well, and one small thing goes wrong (e.g., you spill a bit of coffee on your shirt). You're more likely to focus on the spilled coffee and let it negatively affect your mood, rather than focusing on the nine positive things that happened."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Prejudice",
+        "Definition": "Prejudice is an assumption or an opinion about someone simply based on that person's membership in a particular group. ",
+        "Example": "Believing that all members of a certain nationality are dishonest."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We discard specifics to form generalities",
+        "Bias": "Stereotypical bias",
+        "Definition": "Stereotypical bias is the phenomenon of memory distortion regarding unfounded beliefs on certain groups based on race, gender, etc.",
+        "Example": "Assuming that all members of a certain ethnic group are good at math."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "Cryptomnesia",
+        "Definition": "Cryptomnesia is a memory phenomenon that occurs when a person mistakenly believes that an idea or thought is their own, when in fact they have encountered it before and forgotten it. It is also known as unconscious or inadvertent plagiarism.",
+        "Example": "A songwriter might unknowingly reproduce a melody they heard years ago, believing they composed it themselves."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "False memory",
+        "Definition": "A false memory is a recollection that seems real but is partially or completely fabricated. They can be errors of commission, where details, facts, or events come to mind that don't correspond to prior events.",
+        "Example": "Someone might falsely remember seeing a specific detail in a photograph that wasn't actually there."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "Misattribution of memory",
+        "Definition": "Misattribution of memory is a cognitive bias in which, people can remember what took place or the piece of information. However, they can't remember where this information came from.",
+        "Example": "Someone might remember a fact they learned in a documentary but mistakenly believe they read it in a news article."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "Source confusion",
+        "Definition": "Source confusion is a memory error that occurs when someone can't remember where they learned something, or when they mix up details from different sources. It's also known as source misattribution or unconscious transference.",
+        "Example": "Someone might remember a news story but mistakenly attribute it to a different news outlet, or they might blend details from two separate conversations into a single, inaccurate memory."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "Spacing effect",
+        "Definition": "The spacing effect is a cognitive psychology finding that learning is more effective when study sessions are spaced out over time, rather than presented in close succession. It's also known as distributed practice or spaced repetition.",
+        "Example": "Instead of studying for four hours straight the night before an exam, it's more effective to study for an hour each day for four days."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We edit and reinforce some memories after the fact",
+        "Bias": "Suggestibility",
+        "Definition": " the tendency to accept and act on the ideas or suggestions of others, often without critical analysis or independent judgment. It can also involve the ability to respond to verbal or physical suggestions without being consciously aware of it.",
+        "Example": "Someone might buy a product simply because a friend recommended it, without doing any research of their own, or they might unconsciously mimic someone's posture during a conversation."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Duration neglect",
+        "Definition": "Duration neglect is a psychological bias that describes how the length of an experience has little effect on how people remember it, or how pleasant or unpleasant they find it. Instead, people tend to remember the quality of an experience, especially the peak and how quickly it ends.",
+        "Example": "A painful medical procedure that ends quickly with a moment of relief might be remembered as less unpleasant than a longer procedure with consistent, moderate pain."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Leveling and sharpening",
+        "Definition": "Leveling refers to the tendency to omit minor details and distinctions, whereas sharpening occurs when certain aspects of a memory are exaggerated or made more profound. Both leveling and sharpening are important tools since we almost always base judgements on past experiences.",
+        "Example": "Someone recounts a story about a car accident they witnessed.\n\nLeveling: They might forget minor details like the exact color of the cars involved or the specific time of day the accident occurred. They simplify the memory, losing some of the less important details.\n\nSharpening: They might exaggerate the speed of the cars or the loudness of the crash, emphasizing the more dramatic aspects of the event to make the story more engaging when retelling it."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "List-length effect",
+        "Definition": "The list length effect (LLE) is a cognitive psychology term that describes how the length of a list affects how well people can recall items from it. The LLE states that as the length of a list increases, the probability of correctly recalling an item decreases.",
+        "Example": "You're given two grocery lists to memorize:\n\nList A: Milk, Bread, Eggs, Cheese\n\nList B: Milk, Bread, Eggs, Cheese, Apples, Bananas, Oranges, Grapes, Strawberries, Blueberries\n\nYou'll likely remember a higher percentage of items from the shorter list (List A) than from the longer list (List B), even though you might remember a similar number of items from both lists."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Memory inhibition",
+        "Definition": "Memory inhibition is a cognitive process that allows people to focus on relevant information by reducing the accessibility of unwanted memories. It's a key aspect of memory management that helps people regulate their thoughts and responses to reminders.",
+        "Example": "when studying for a test, memory inhibition might help you suppress memories of unrelated events or distractions, allowing you to focus on the study material."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Misinformation effect",
+        "Definition": "The misinformation effect is a cognitive psychological phenomenon that occurs when someone's memory of an event becomes less accurate due to misleading information they learn after the event. This can lead to false memories or distorted memories of an event.",
+        "Example": "A group of friends goes to a museum. Later, one friend tells the others, \"Remember that ancient Egyptian exhibit? I loved the golden mask of Tutankhamun.\" While there was an Egyptian exhibit, there was no golden mask of Tutankhamun; it was a different pharaoh. The other friends, hearing this misinformation, might start to remember seeing a golden mask as well, even though it wasn't there. The post-event suggestion of the mask has influenced their memories of the exhibit."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Modality effect",
+        "Definition": "The modality effect is a cognitive bias that describes how the way information is presented through sensory channels, like sight, sound, or touch, affects how people perceive and make decisions.",
+        "Example": "For example, a warning siren (auditory) might elicit a faster response than a flashing light (visual) in a noisy environment."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Part-set cueing effect",
+        "Definition": "The part-set cueing effect is a counterintuitive memory phenomenon where providing a subset of items from a set as retrieval cues can actually impair recal",
+        "Example": "Imagine trying to remember a list of fruits: \"apple, banana, orange, grape, kiwi.\" If you're given \"apple\" and \"banana\" as cues, you might find it harder to remember \"grape\" and \"kiwi\" than if you were given no cues at all."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Peak-end rule",
+        "Definition": "The peak-end rule focuses our memories around the most intense moments of an experience and the way an experience ends.",
+        "Example": "Someone goes on a week-long vacation. They experience several enjoyable moments throughout the week, but also some minor inconveniences (e.g., a delayed flight, a rainy day). However, if the last day of their vacation is particularly enjoyable (e.g., a beautiful sunset or a delicious final meal), they are likely to remember the entire vacation as being very positive overall, even if there were some less pleasant moments in the middle. Conversely, if the end of the vacation is stressful (e.g., missing their flight or getting sick), they are likely to remember the whole trip negatively, even if most of the week was enjoyable."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Primacy effect",
+        "Definition": "The primacy effect is a psychological phenomenon that describes the tendency to remember the first items in a list better than the items that come later. It can also cause people to assume that the first items are more important than the others.",
+        "Example": "When meeting a group of people, you're more likely to remember the names of the first few people you were introduced to."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Recency effect",
+        "Definition": "The recency effect is a cognitive bias that describes the tendency to remember information that was presented most recently better than information that was presented earlier. It's one of two memory recall biases that make up the serial position effect, which describes how the location of an item in a sequence can impact how memorable it is",
+        "Example": "If someone reads you a list of ten words, you're more likely to remember the last few words they said."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Serial recall effect",
+        "Definition": "The serial position effect describes our tendency to remember information that is at the beginning or end of a series, but find it harder to recall information in the middle of the series.",
+        "Example": "Someone is trying to memorize a phone number: 555-123-4567. They are more likely to remember the first few digits (555) and the last few digits (4567) correctly in the right order than the middle digits (123). This is because of the serial position effect, which influences serial recall (recalling items in a specific order)."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Serial-position effect",
+        "Definition": "The serial position effect is a cognitive bias that describes how people are more likely to remember the first and last items in a list, and less likely to remember the middle items. This effect is caused by a combination of two other effects:",
+        "Example": "You're trying to memorize a shopping list: apples, bananas, carrots, dates, eggs, figs, grapes. You'll likely remember \"apples\" and \"bananas\" (the beginning of the list - primacy effect) and \"figs\" and \"grapes\" (the end of the list - recency effect) better than \"carrots,\" \"dates,\" and \"eggs\" (the middle of the list)."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We reduce events and lists to their key elements",
+        "Bias": "Suffix effect",
+        "Definition": "The suffix effect is a memory phenomenon that occurs when the recall of the last few items in a list is reduced by adding an irrelevant item, or suffix, to the end of the list. For example, if you're given a list of items to buy at the store and then the cashier says something unrelated, you might have a harder time remembering the last item on the list.",
+        "Example": "Hearing a random word after a list of numbers makes it harder to remember the last few numbers."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Absent-mindedness",
+        "Definition": "Absent-mindedness is a mental state where a person is inattentive and forgetful. It can involve being unaware of one's surroundings or actions, or failing to notice things. For example, someone who is absent-minded might forget where they put their keys or glasses.",
+        "Example": "Someone puts their car keys in the refrigerator instead of on the key hook by the door, because they were thinking about something else while coming in."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Google effect",
+        "Definition": "The Google effect, also known as digital amnesia, is the tendency to forget information that can be easily found online through search engines. It occurs when people rely on the internet as a source of knowledge, rather than remembering it themselves.",
+        "Example": "You might not bother memorizing a phone number if you know you can easily find it in your contacts or online."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Levels-of-processing effect",
+        "Definition": "The levels-of-processing (LoP) effect is a cognitive psychology phenomenon that describes how the depth of mental processing affects memory recall. The effect states that information that is processed more deeply is easier to remember than information that is processed more superficially.",
+        "Example": "Trying to understand the meaning of a word (deep processing) leads to better memory than simply focusing on its spelling or how it looks (shallow processing)."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Next-in-line effect",
+        "Definition": "The next-in-line effect is a cognitive bias that makes it difficult for people to recall information that happens just before they perform. It can occur in any public situation, such as when someone is performing on stage or speaking to a group.",
+        "Example": "In a group presentation, someone might have trouble remembering what the person who spoke right before them said, because they were focused on preparing for their own part."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Testing effect",
+        "Definition": "The testing effect refers most generally to the finding that learning and memory are facilitated by the inclusion of practice tests in one's learning regimen.",
+        "Example": "A student is preparing for a history exam. Instead of simply rereading their notes and textbook chapters, they create flashcards and actively quiz themselves on the key dates, events, and figures. They find that this active retrieval practice helps them remember the information much better on the actual exam."
+    },
+    {
+        "Domain": "What Should We Remember",
+        "Category": "We store memories differently based on how they were experienced",
+        "Bias": "Tip of the tongue phenomenon",
+        "Definition": "The \"tip of the tongue phenomenon\" refers to the experience of being temporarily unable to recall a familiar word, while still having a feeling that you know the word and can almost access it, often accompanied by partial knowledge like its meaning or first letter; essentially, it's that \"on the verge of remembering\" feeling when trying to retrieve a word from memory.",
+        "Example": "You're trying to remember the name of a famous actor who starred in a particular movie. You can picture their face, you know their name starts with a \"D,\" and you even remember they were also in a TV show, but you just can't quite retrieve their full name. You feel like it's \"on the tip of your tongue.\""
+    }
+ ]
