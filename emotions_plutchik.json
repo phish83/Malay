@@ -1,5 +1,5 @@
 [
-  { "label": "— Primary Emotions —", "value": "", "disabled": true },
+  { "label": "— Primary Emotions —", "value": "", "disabled": false },
   { "label": "😊 Joy", "value": "Joy" },
   { "label": "🤝 Trust", "value": "Trust" },
   { "label": "😨 Fear", "value": "Fear" },
@@ -9,7 +9,7 @@
   { "label": "😡 Anger", "value": "Anger" },
   { "label": "🤔 Anticipation", "value": "Anticipation" },
 
-  { "label": "— Intensities —", "value": "", "disabled": true },
+  { "label": "— Intensities —", "value": "", "disabled": false },
   { "label": "😌 Serenity (Joy, mild)", "value": "Serenity" },
   { "label": "🤩 Ecstasy (Joy, intense)", "value": "Ecstasy" },
   { "label": "🙂 Acceptance (Trust, mild)", "value": "Acceptance" },
@@ -27,7 +27,7 @@
   { "label": "🧐 Interest (Anticipation, mild)", "value": "Interest" },
   { "label": "👀 Vigilance (Anticipation, intense)", "value": "Vigilance" },
 
-  { "label": "— Blended Emotions (Dyads) —", "value": "", "disabled": true },
+  { "label": "— Blended Emotions (Dyads) —", "value": "", "disabled": false },
   { "label": "❤️ Love (Joy + Trust)", "value": "Love" },
   { "label": "🌟 Optimism (Joy + Anticipation)", "value": "Optimism" },
   { "label": "😳 Awe (Fear + Surprise)", "value": "Awe" },
