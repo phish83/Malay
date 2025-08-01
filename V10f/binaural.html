@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Binaural & Isochronic Beat Generator</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="theme-neural">
+  <div class="main-container">
+    <header class="app-header">
+      <h1>🧠 Binaural & Isochronic Beat Generator</h1>
+    </header>
+
+    <!-- Top Row: Settings and Visualizer -->
+    <div class="top-section">
+      <!-- Settings Card -->
+      <div class="card card--settings">
+        <h3>Settings</h3>
+        <div class="settings-grid">
+          <!-- Beat Mode -->
+          <div class="setting-item">
+            <label for="modeSelect">Mode:</label>
+            <select id="modeSelect" onchange="app.audioEngine.setMode(this.value)">
+              <option value="binaural">🎧 Binaural Beats</option>
+              <option value="isochronic">⚡ Isochronic Tones</option>
+              <option value="monaural">🎵 Monaural Beats</option>
+            </select>
+          </div>
+          <!-- Theme -->
+          <div class="setting-item">
+            <label for="themeSelect">Theme:</label>
+            <select id="themeSelect" onchange="app.themeManager.updateTheme()">
+              <option>🌞 Light</option>
+              <option>🌅 Warm</option>
+              <option>🌙 Dark</option>
+              <option selected>🧠 Neural</option>
+            </select>
+          </div>
+          <!-- Visual Style -->
+          <div class="setting-item">
+            <label for="visualStyleSelect">Visuals:</label>
+            <select id="visualStyleSelect" onchange="app.visualizer.updateStyle()">
+              <option>🌊 Waves</option>
+              <option>📊 Bars</option>
+              <option>💫 Brainwaves</option>
+              <option>🔮 Neural Field</option>
+              <option>⚡ Pulses</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Visualizer -->
+      <div class="visualizer-container">
+        <canvas id="visualizer"></canvas>
+      </div>
+    </div>
+
+    <!-- Main Content Grid -->
+    <div class="main-grid">
+      <!-- Left Column -->
+      <div class="left-column">
+        
+        <!-- Brainwave State Presets -->
+        <div class="card card--presets">
+          <h3>Brainwave State Presets</h3>
+          <div class="preset-section">
+            <label for="presetSelect" class="preset-label">
+              🧠 Choose a brainwave state:
+            </label>
+            <select
+              id="presetSelect"
+              onchange="if(this.value) app.presetManager.applyPreset(this.value)"
+              class="preset-select"
+            >
+              <option value="">— Select a state —</option>
+              <optgroup label="Delta Waves (0.5-4 Hz)">
+                <option value="deep-sleep">😴 Deep Sleep (1 Hz)</option>
+                <option value="healing">🌿 Healing (2 Hz)</option>
+                <option value="regeneration">♻️ Regeneration (3 Hz)</option>
+              </optgroup>
+              <optgroup label="Theta Waves (4-8 Hz)">
+                <option value="meditation">🧘 Deep Meditation (6 Hz)</option>
+                <option value="creativity">🎨 Creativity (7 Hz)</option>
+                <option value="memory">🧠 Memory Enhancement (5 Hz)</option>
+                <option value="rem-sleep">💤 REM Sleep (4.5 Hz)</option>
+              </optgroup>
+              <optgroup label="Alpha Waves (8-14 Hz)">
+                <option value="relaxation">😌 Relaxation (10 Hz)</option>
+                <option value="learning">📚 Learning (12 Hz)</option>
+                <option value="visualization">👁️ Visualization (8 Hz)</option>
+                <option value="flow-state">🌊 Flow State (9 Hz)</option>
+              </optgroup>
+              <optgroup label="Beta Waves (14-30 Hz)">
+                <option value="focus">🎯 Focus (16 Hz)</option>
+                <option value="alertness">⚡ Alertness (20 Hz)</option>
+                <option value="problem-solving">🧩 Problem Solving (18 Hz)</option>
+                <option value="energy">⚡ Energy Boost (25 Hz)</option>
+              </optgroup>
+              <optgroup label="Gamma Waves (30-100 Hz)">
+                <option value="cognition">🧠 Enhanced Cognition (40 Hz)</option>
+                <option value="awareness">👁️ Higher Awareness (60 Hz)</option>
+                <option value="binding">🔗 Neural Binding (35 Hz)</option>
+              </optgroup>
+            </select>
+          </div>
+        </div>
+
+        <!-- Audio Controls -->
+        <div class="card card--controls">
+          <h3>Audio Controls</h3>
+          
+          <!-- Playback Controls -->
+          <div class="control-section">
+            <h4>Playback</h4>
+            <div class="button-group">
+              <button onclick="app.audioEngine.start()">▶ Start</button>
+              <button onclick="app.audioEngine.stop()">⏹ Stop</button>
+              <button onclick="app.audioEngine.toggleMute()">🔇 Mute</button>
+            </div>
+          </div>
+
+          <!-- Session Timer -->
+          <div class="control-section">
+            <h4>Session Timer</h4>
+            <div class="timer-controls">
+              <div class="input-group">
+                <label for="timerMinutes">Duration:</label>
+                <input type="number" id="timerMinutes" min="1" value="20" />
+                <span>minutes</span>
+              </div>
+              <button onclick="app.timer.start()">Start Session</button>
+              <span id="timerDisplay" class="timer-display"></span>
+            </div>
+          </div>
+
+          <!-- Volume & Pan Controls -->
+          <div class="control-section">
+            <!-- Volume -->
+            <h4>Volume</h4>
+            <div class="slider-control">
+              <input
+                type="range"
+                id="volume"
+                min="0"
+                max="100"
+                value="30"
+                oninput="
+                  document.getElementById('volumeInput').value = this.value;
+                  app.audioEngine.setVolume(this.value);
+                "
+                ondblclick="
+                  this.value = 30;
+                  document.getElementById('volumeInput').value = 30;
+                  app.audioEngine.setVolume(30);
+                "
+              />
+              <div class="input-with-unit">
+                <input
+                  type="number"
+                  id="volumeInput"
+                  min="0"
+                  max="100"
+                  step="1"
+                  value="30"
+                  oninput="
+                    document.getElementById('volume').value = this.value;
+                    app.audioEngine.setVolume(this.value);
+                  "
+                  ondblclick="
+                    this.value = 30;
+                    document.getElementById('volume').value = 30;
+                    app.audioEngine.setVolume(30);
+                  "
+                />
+                <span>%</span>
+              </div>
+            </div>
+
+             <!-- Pan -->
+            <h4>Pan</h4>
+            <div class="slider-control" style="margin-top: var(--spacing-md);">
+              <input
+                type="range"
+                id="panControl"
+                min="-1"
+                max="1"
+                step="0.01"
+                value="0"
+                oninput="
+                  const v = parseFloat(this.value);
+                  document.getElementById('panInput').value    = v.toFixed(2);
+                  document.getElementById('panLabel').textContent   = v > 0.5 ? 'R' : v < -0.5 ? 'L' : 'C';
+                  app.audioEngine.setPan(v);
+                "
+                ondblclick="
+                  this.value = 0;
+                  document.getElementById('panInput').value    = '0.00';
+                  document.getElementById('panLabel').textContent   = 'C';
+                  app.audioEngine.setPan(0);
+                "
+              />
+              <div class="input-with-unit">
+                <input
+                  type="number"
+                  id="panInput"
+                  min="-1"
+                  max="1"
+                  step="0.01"
+                  value="0.00"
+                  oninput="
+                    const v = parseFloat(this.value);
+                    document.getElementById('panControl').value    = v;
+                    document.getElementById('panLabel').textContent   = v > 0.5 ? 'R' : v < -0.5 ? 'L' : 'C';
+                    app.audioEngine.setPan(v);
+                  "
+                  ondblclick="
+                    this.value = '0.00';
+                    document.getElementById('panControl').value    = 0;
+                    document.getElementById('panLabel').textContent   = 'C';
+                    app.audioEngine.setPan(0);
+                  "
+                />
+              </div>
+              <span id="panLabel">C</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div class="right-column">
+        <!-- Custom Beat Configuration -->
+        <div class="card card--custom">
+          <h3>Custom Beat Configuration</h3>
+          
+          <div class="control-section">
+            <h4>Beat Frequency</h4>
+            <div class="slider-control">
+              <input
+                type="range" id="customBeatFreq" min="0.5" max="100" step="0.1" value="10"
+                oninput="
+                  document.getElementById('customBeatFreqInput').value = this.value;
+                  app.audioEngine.setBeatFrequency(this.value);
+                "
+                ondblclick="
+                  document.getElementById('customBeatFreq').value = 10;
+                  document.getElementById('customBeatFreqInput').value = 10;
+                  app.audioEngine.setBeatFrequency(10);
+                "
+              />
+              <div class="input-with-unit">
+                <input
+                  type="number" id="customBeatFreqInput" min="0.5" max="100" step="0.1" value="10"
+                  oninput="
+                    document.getElementById('customBeatFreq').value = this.value;
+                    app.audioEngine.setBeatFrequency(this.value);
+                  "
+                  ondblclick="
+                    document.getElementById('customBeatFreqInput').value = 10;
+                    document.getElementById('customBeatFreq').value = 10;
+                    app.audioEngine.setBeatFrequency(10);
+                  "
+                />
+                <span>Hz</span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="control-section">
+            <h4>Base Frequency</h4>
+            <div class="slider-control">
+              <input
+                type="range" id="baseFreq" min="80" max="1000" step="1" value="200"
+                oninput="
+                  document.getElementById('baseFreqInput').value = this.value;
+                  app.audioEngine.setBaseFrequency(this.value);
+                "
+                ondblclick="
+                  document.getElementById('baseFreq').value = 200;
+                  document.getElementById('baseFreqInput').value = 200;
+                  app.audioEngine.setBaseFrequency(200);
+                "
+              />
+              <div class="input-with-unit">
+                <input
+                  type="number" id="baseFreqInput" min="80" max="1000" step="1" value="200"
+                  oninput="
+                    document.getElementById('baseFreq').value = this.value;
+                    app.audioEngine.setBaseFrequency(this.value);
+                  "
+                  ondblclick="
+                    document.getElementById('baseFreqInput').value = 200;
+                    document.getElementById('baseFreq').value = 200;
+                    app.audioEngine.setBaseFrequency(200);
+                  "
+                />
+                <span>Hz</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="frequency-info">
+            <div class="info-item">
+              <strong>Current Beat:</strong>
+              <span id="currentBeat">10 Hz – Alpha Range</span>
+            </div>
+            <div class="info-item">
+              <strong>Brainwave State:</strong>
+              <span id="brainwaveState">Relaxed Awareness</span>
+            </div>
+            <div class="info-item">
+              <strong>Left/Right Freq:</strong>
+              <span id="freqInfo">195 Hz / 205 Hz</span>
+            </div>
+          </div>
+
+          <div class="tuning-notes">
+            Brainwaves, also known as neural oscillations, are the rhythmic or repetitive patterns of electrical activity produced by the brain. <br>
+            Electroencephalography (EEG) can be used to measure these patterns, which are produced by neurons interacting with one another. <br>
+            Different brainwave types are linked to different stages of sleep, cognitive processes, and states of consciousness. <br>
+            They are differentiated by their frequency, which is expressed in Hertz or Hz. <br>
+            <br>
+            🧠 Delta (0.5-4 Hz) – Deep sleep, healing  <br>
+            🌙 Theta (4-8 Hz) – Meditation, creativity  <br>
+            🌊 Alpha (8-14 Hz) – Relaxation, learning  <br>
+            ⚡ Beta (14-30 Hz) – Focus, alertness  <br> 
+            🚀 Gamma (30+ Hz) – Higher cognition
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bottom Row: Audio Enhancers -->
+    <div class="bottom-section">
+      <div class="bottom-grid">
+      
+        <!-- Ambient Noise Enhancement Card (LEFT) -->
+        <div class="card card--noise enhancer-card">
+          <h3>Ambient Background</h3>
+
+          <div class="control-section">
+            <div class="noise-header">
+              <button onclick="app.noiseEngine.toggleNoise()">
+                🌊 <span id="noiseToggle">Enable Background</span>
+              </button>
+              <select id="noiseType" onchange="app.noiseEngine.setNoiseType(this.value)">
+                <option value="brown">🟤 Brown Noise</option>
+                <option value="white">⚪ White Noise</option>
+                <option value="pink">🌸 Pink Noise</option>
+                <option value="rain">🌧️ Rain Sounds</option>
+                <option value="ocean">🌊 Ocean Waves</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="noise-controls">
+            <!-- Noise Level -->
+            <div class="control-section">
+              <h4>Background Level</h4>
+              <div class="slider-control">
+                <input type="range" id="noiseLevel" min="0" max="100" value="15"
+                  oninput="document.getElementById('noiseLevelInput').value = this.value; app.noiseEngine.setNoiseLevel(this.value)"
+                  ondblclick="this.value=15; document.getElementById('noiseLevelInput').value=15; app.noiseEngine.setNoiseLevel(15)"
+                />
+                <div class="input-with-unit">
+                  <input type="number" id="noiseLevelInput" min="0" max="100" step="1" value="15"
+                    oninput="document.getElementById('noiseLevel').value = this.value; app.noiseEngine.setNoiseLevel(this.value)"
+                    ondblclick="this.value=15; document.getElementById('noiseLevel').value=15; app.noiseEngine.setNoiseLevel(15)"
+                  />
+                  <span>%</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- High-Pass Filter -->
+            <div class="control-section">
+              <h4>High-Pass Filter</h4>
+              <div class="slider-control">
+                <input type="range" id="noiseHighPass" min="20" max="2000" value="80"
+                  oninput="document.getElementById('noiseHighPassInput').value = this.value; app.noiseEngine.setHighPass(this.value)"
+                  ondblclick="this.value=80; document.getElementById('noiseHighPassInput').value=80; app.noiseEngine.setHighPass(80)"
+                />
+                <div class="input-with-unit">
+                  <input type="number" id="noiseHighPassInput" min="20" max="2000" step="1" value="80"
+                    oninput="document.getElementById('noiseHighPass').value = this.value; app.noiseEngine.setHighPass(this.value)"
+                    ondblclick="this.value=80; document.getElementById('noiseHighPass').value=80; app.noiseEngine.setHighPass(80)"
+                  />
+                  <span>Hz</span>
+                </div>
+              </div>
+            </div>
+
+            <!-- Low-Pass Filter -->
+            <div class="control-section">
+              <h4>Low-Pass Filter</h4>
+              <div class="slider-control">
+                <input type="range" id="noiseLowPass" min="1000" max="20000" value="6000"
+                  oninput="document.getElementById('noiseLowPassInput').value = this.value; app.noiseEngine.setLowPass(this.value)"
+                  ondblclick="this.value=6000; document.getElementById('noiseLowPassInput').value=6000; app.noiseEngine.setLowPass(6000)"
+                />
+                <div class="input-with-unit">
+                  <input type="number" id="noiseLowPassInput" min="1000" max="20000" step="1" value="6000"
+                    oninput="document.getElementById('noiseLowPass').value = this.value; app.noiseEngine.setLowPass(this.value)"
+                    ondblclick="this.value=6000; document.getElementById('noiseLowPass').value=6000; app.noiseEngine.setLowPass(6000)"
+                  />
+                  <span>Hz</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+          
+        <!-- Audio Equalizer Card (RIGHT) -->
+        <div class="card card--eq enhancer-card">
+          <h3>Audio Equalizer (5-Band)</h3>
+          <div class="eq-wrapper">
+            <div class="eq-container">
+              <!-- Band 0: Sub-bass -->
+              <div class="eq-band">
+                <label>Sub</label>
+                <div class="eq-controls">
+                  <input
+                    type="number" id="eq0Input" min="-20" max="20" step="1" value="0"
+                    oninput="document.getElementById('eq0').value=this.value; app.equalizer.updateBand(0, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq0').value=0; app.equalizer.resetBand(0)"
+                  />
+                  <input
+                    type="range" id="eq0" class="eq-slider" min="-20" max="20" value="0"
+                    oninput="document.getElementById('eq0Input').value=this.value; app.equalizer.updateBand(0, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq0Input').value=0; app.equalizer.resetBand(0)"
+                  />
+                </div>
+                <span class="eq-unit">dB</span>
+              </div>
+
+              <!-- Band 1: Bass -->
+              <div class="eq-band">
+                <label>Bass</label>
+                <div class="eq-controls">
+                  <input
+                    type="number" id="eq1Input" min="-20" max="20" step="1" value="0"
+                    oninput="document.getElementById('eq1').value=this.value; app.equalizer.updateBand(1, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq1').value=0; app.equalizer.resetBand(1)"
+                  />
+                  <input
+                    type="range" id="eq1" class="eq-slider" min="-20" max="20" value="0"
+                    oninput="document.getElementById('eq1Input').value=this.value; app.equalizer.updateBand(1, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq1Input').value=0; app.equalizer.resetBand(1)"
+                  />
+                </div>
+                <span class="eq-unit">dB</span>
+              </div>
+
+              <!-- Band 2: Mid -->
+              <div class="eq-band">
+                <label>Mid</label>
+                <div class="eq-controls">
+                  <input
+                    type="number" id="eq2Input" min="-20" max="20" step="1" value="0"
+                    oninput="document.getElementById('eq2').value=this.value; app.equalizer.updateBand(2, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq2').value=0; app.equalizer.resetBand(2)"
+                  />
+                  <input
+                    type="range" id="eq2" class="eq-slider" min="-20" max="20" value="0"
+                    oninput="document.getElementById('eq2Input').value=this.value; app.equalizer.updateBand(2, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq2Input').value=0; app.equalizer.resetBand(2)"
+                  />
+                </div>
+                <span class="eq-unit">dB</span>
+              </div>
+
+              <!-- Band 3: Upper-mid -->
+              <div class="eq-band">
+                <label>High</label>
+                <div class="eq-controls">
+                  <input
+                    type="number" id="eq3Input" min="-20" max="20" step="1" value="0"
+                    oninput="document.getElementById('eq3').value=this.value; app.equalizer.updateBand(3, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq3').value=0; app.equalizer.resetBand(3)"
+                  />
+                  <input
+                    type="range" id="eq3" class="eq-slider" min="-20" max="20" value="0"
+                    oninput="document.getElementById('eq3Input').value=this.value; app.equalizer.updateBand(3, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq3Input').value=0; app.equalizer.resetBand(3)"
+                  />
+                </div>
+                <span class="eq-unit">dB</span>
+              </div>
+
+              <!-- Band 4: Treble -->
+              <div class="eq-band">
+                <label>Treble</label>
+                <div class="eq-controls">
+                  <input
+                    type="number" id="eq4Input" min="-20" max="20" step="1" value="0"
+                    oninput="document.getElementById('eq4').value=this.value; app.equalizer.updateBand(4, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq4').value=0; app.equalizer.resetBand(4)"
+                  />
+                  <input
+                    type="range" id="eq4" class="eq-slider" min="-20" max="20" value="0"
+                    oninput="document.getElementById('eq4Input').value=this.value; app.equalizer.updateBand(4, this.value)"
+                    ondblclick="this.value=0; document.getElementById('eq4Input').value=0; app.equalizer.resetBand(4)"
+                  />
+                </div>
+                <span class="eq-unit">dB</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/AudioEngine.js"></script>
+  <script src="js/NoiseEngine.js"></script>
+  <script src="js/Visualizer.js"></script>
+  <script src="js/Equalizer.js"></script>
+  <script src="js/FrequencyManager.js"></script>
+  <script src="js/PresetManager.js"></script>
+  <script src="js/Timer.js"></script>
+  <script src="js/ThemeManager.js"></script>
+  <script src="js/UIManager.js"></script>
+  <script src="js/BinauralApp.js"></script>
+  <script src="js/main-init.js"></script>
+
+</body>
+</html>
