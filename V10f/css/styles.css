@@ -156,8 +156,9 @@ input[type="number"] {
   max-width: 1400px;
   margin: 0 auto;
   padding: var(--spacing-xl);
-  display: grid;
-  grid-template-rows: auto auto 1fr auto;
+  /* switched from grid to a simple vertical flex stack */
+  display: flex;
+  flex-direction: column;
   gap: 15px;
   min-height: 100vh;
 }
@@ -1120,4 +1121,5 @@ canvas {
   .loading::after {
     animation: none;
   }
+
 }
