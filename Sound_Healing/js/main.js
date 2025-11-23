@@ -1,15 +1,15 @@
-import { clamp, updateLED, byId } from './utils.js';
-import { AudioEngine } from './AudioEngine.js';
-import { Visualizer } from './Visualizer.js';
-import { initKnobs, syncNeedleForInput } from './initKnobs.js';
-import { Timer } from './Timer.js';
-import { initTooltips } from './tooltip.js';
-import { SamplePlayer } from './SamplePlayer.js';
-import { initSamplePlayerUI, initSampleTabs } from './samplePlayerUI.js';
-import * as PresetMgr from './PresetManager.js';
-import * as ThemeMgr from './ThemeManager.js';
-import { KeyboardShortcuts } from './KeyboardShortcuts.js';
-import { VisualPulse } from './VisualPulse.js';
+import { clamp, updateLED, byId } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/utils.js';
+import { AudioEngine } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/audioEngine.js';
+import { Visualizer } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/visualizer.js';
+import { initKnobs, syncNeedleForInput } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/initKnobs.js';
+import { Timer } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/Timer.js';
+import { initTooltips } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/tooltip.js';
+import { SamplePlayer } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/SamplePlayer.js';
+import { initSamplePlayerUI, initSampleTabs } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/samplePlayerUI.js';
+import * as PresetMgr from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/PresetManager.js';
+import * as ThemeMgr from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/ThemeManager.js';
+import { KeyboardShortcuts } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/KeyboardShortcuts.js';
+import { VisualPulse } from 'https://raw.githubusercontent.com/phish83/Malay/refs/heads/main/Sound_Healing/js/VisualPulse.js';
 
 const FALLBACK_THEMES=[
   {id:'neural',name:'🧠 Neural',vars:{}},
@@ -442,4 +442,5 @@ document.addEventListener('DOMContentLoaded', ()=>{
   window.visualPulse=visualPulse;
   
   console.log('✅ App initialization complete');
+
 });
