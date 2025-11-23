@@ -1,6 +1,6 @@
-import { clamp, updateLED } from './utils.js';
-import { Equalizer } from './equalizer.js';
-import { NoiseEngine } from './noise.js';
+import { clamp, updateLED } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/utils.js';
+import { Equalizer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/equalizer.js';
+import { NoiseEngine } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/noise.js';
 
 export class AudioEngine{ 
   constructor(){ 
