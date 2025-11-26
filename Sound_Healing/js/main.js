@@ -4,7 +4,7 @@ import { Visualizer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound
 import { initKnobs, syncNeedleForInput } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/initKnobs.js';
 import { Timer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/Timer.js';
 import { initTooltips } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/tooltip.js';
-import { SamplePlayer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/SamplePlayer.js';
+import { SamplePlayer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/samplePlayer.js';
 import { initSamplePlayerUI, initSampleTabs } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/samplePlayerUI.js';
 import * as PresetMgr from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/PresetManager.js';
 import * as ThemeMgr from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/ThemeManager.js';
@@ -444,6 +444,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   console.log('✅ App initialization complete');
 
 });
+
 
 
 
