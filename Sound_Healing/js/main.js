@@ -1,6 +1,6 @@
 import { clamp, updateLED, byId } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/utils.js';
-import { AudioEngine } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/AudioEngine.js';
-import { Visualizer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/Visualizer.js';
+import { AudioEngine } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/audioEngine.js';
+import { Visualizer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/visualizer.js';
 import { initKnobs, syncNeedleForInput } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/initKnobs.js';
 import { Timer } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/Timer.js';
 import { initTooltips } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/tooltip.js';
@@ -444,6 +444,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
   console.log('✅ App initialization complete');
 
 });
+
 
 
 
