@@ -1,4 +1,4 @@
-import { clamp } from './utils.js';
+import { clamp } from 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/js/utils.js';
 
 export class NoiseEngine{ constructor(engine){ this.engine=engine; this.enabled=false; this.type='brown'; this.source=null; this.buffer=null; }
   async generateBuffer(){ if(!this.engine.audioCtx) return null; const sr=this.engine.audioCtx.sampleRate; const buf=this.engine.audioCtx.createBuffer(1,sr*2,sr); const d=buf.getChannelData(0);
