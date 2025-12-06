@@ -14,13 +14,13 @@ export class SamplePlayer {
     
     // Sample definitions
     this.sampleDefs = [
-      { id: 'rain', name: 'Rain', emoji: '🌧️', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/rain.mp3', defaultMode: 'continuous', defaultVol: 70 },
-      { id: 'ocean', name: 'Ocean', emoji: '🌊', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/ocean.mp3', defaultMode: 'continuous', defaultVol: 50 },
-      { id: 'fire', name: 'Fire', emoji: '🔥', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/fire.mp3', defaultMode: 'continuous', defaultVol: 60 },
-      { id: 'chimes', name: 'Chimes', emoji: '🎐', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/chimes.mp3', defaultMode: 'interval', defaultVol: 45 },
-      { id: 'forest', name: 'Forest', emoji: '🌲', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/forest.mp3', defaultMode: 'continuous', defaultVol: 40 },
-      { id: 'thunder', name: 'Thunder', emoji: '⛈️', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/thunder.mp3', defaultMode: 'interval', defaultVol: 55 },
-      { id: 'birds', name: 'Birds', emoji: '🦜', file: 'https://cdn.jsdelivr.net/gh/phish83/Malay@main/Sound_Healing/samples/birds.mp3', defaultMode: 'interval', defaultVol: 35 }
+      { id: 'rain', name: 'Rain', emoji: '🌧️', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/rain.mp3', defaultMode: 'continuous', defaultVol: 70 },
+      { id: 'ocean', name: 'Ocean', emoji: '🌊', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/ocean.mp3', defaultMode: 'continuous', defaultVol: 50 },
+      { id: 'fire', name: 'Fire', emoji: '🔥', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/fire.mp3', defaultMode: 'continuous', defaultVol: 60 },
+      { id: 'chimes', name: 'Chimes', emoji: '🎐', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/chimes.mp3', defaultMode: 'interval', defaultVol: 45 },
+      { id: 'forest', name: 'Forest', emoji: '🌲', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/forest.mp3', defaultMode: 'continuous', defaultVol: 40 },
+      { id: 'thunder', name: 'Thunder', emoji: '⛈️', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/thunder.mp3', defaultMode: 'interval', defaultVol: 55 },
+      { id: 'birds', name: 'Birds', emoji: '🦜', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/birds.mp3', defaultMode: 'interval', defaultVol: 35 }
     ];
   }
 
@@ -305,3 +305,4 @@ export class SamplePlayer {
   }
 
 }
+
