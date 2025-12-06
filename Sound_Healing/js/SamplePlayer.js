@@ -100,11 +100,23 @@ export class SamplePlayer {
     this.audioBuffers.set(sampleId, buffer);
   }
 
-  async play(sampleId) {
+    async play(sampleId) {
     const sample = this.samples.get(sampleId);
     if (!sample || sample.isPlaying) return;
 
+    // Make sure we have an AudioContext (this will now be triggered by a user click)
     await this.ensureAudioContext();
+
+    // Lazy-load buffer if it wasn't loaded during loadSamples()
+    if (!this.audioBuffers.get(sampleId)) {
+      try {
+        await this.loadAudioFile(sampleId, sample.file);
+      } catch (error) {
+        console.error(`Could not load audio for ${sample.name}:`, error);
+        return; // Don't mark as playing if we failed to load
+      }
+    }
+
     sample.isPlaying = true;
 
     if (sample.mode === 'continuous') {
@@ -113,6 +125,7 @@ export class SamplePlayer {
       this.playInterval(sampleId);
     }
   }
+
 
   playContinuous(sampleId) {
     const sample = this.samples.get(sampleId);
