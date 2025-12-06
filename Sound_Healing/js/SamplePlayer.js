@@ -54,18 +54,20 @@ export class SamplePlayer {
   }
 
  async loadSamples() {
-    // Try to set up audio, but don't crash if browser (or Wix) blocks it
+    // Try to set up audio, but don't crash if the browser/Wix blocks it on page load
     try {
       await this.ensureAudioContext();
     } catch (e) {
-      console.warn('Sample player audio context not allowed yet; will initialize on first play.', e);
+      console.warn('Sample player AudioContext not allowed yet; will initialize on first play.', e);
     }
     
-    // Initialize sample metadata/UI state regardless of audio availability
+    // Only initialize samples if they haven't already been initialized
+    if (this.samples.size === 0) {
     this.sampleDefs.forEach(def => this.initSample(def));
+  }
     
-    // If audio context still isn't available (e.g., blocked until user gesture),
-    // just skip preloading. The first play() call will re-ensure the context.
+    // If we still don't have an audioCtx (blocked), skip preloading.
+    // We'll lazy-load on first play().
     if (!this.audioCtx) {
       return;
     }
@@ -104,16 +106,16 @@ export class SamplePlayer {
     const sample = this.samples.get(sampleId);
     if (!sample || sample.isPlaying) return;
 
-    // Make sure we have an AudioContext (this will now be triggered by a user click)
+    // Make sure we have an AudioContext (now triggered by a user click)
     await this.ensureAudioContext();
 
-    // Lazy-load buffer if it wasn't loaded during loadSamples()
+    // If no buffer loaded yet (likely on Wix), load it now
     if (!this.audioBuffers.get(sampleId)) {
       try {
         await this.loadAudioFile(sampleId, sample.file);
       } catch (error) {
         console.error(`Could not load audio for ${sample.name}:`, error);
-        return; // Don't mark as playing if we failed to load
+        return; // Don't mark as playing if loading failed
       }
     }
 
