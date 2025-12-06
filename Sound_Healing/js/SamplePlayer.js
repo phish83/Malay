@@ -214,14 +214,16 @@ export class SamplePlayer {
     }
   }
 
-  toggle(sampleId) {
+ toggle(sampleId) {
     const sample = this.samples.get(sampleId);
-    if (!sample) return;
+    if (!sample) return false;
 
     if (sample.isPlaying) {
       this.stop(sampleId);
+      return false;
     } else {
       this.play(sampleId);
+      return true;
     }
   }
 
@@ -276,3 +278,4 @@ export class SamplePlayer {
   }
 
 }
+
