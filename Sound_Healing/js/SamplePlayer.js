@@ -7,20 +7,69 @@ export class SamplePlayer {
     this.samples = new Map();
     this.intervalTimers = new Map();
     this.audioBuffers = new Map();
-    
+
     // Independent audio context for samples
     this.audioCtx = null;
     this.masterGain = null;
-    
-    // Sample definitions
+
+    // ✅ UPDATE THESE WITH YOUR WIX URLS
     this.sampleDefs = [
-      { id: 'rain', name: 'Rain', emoji: '🌧️', file: 'https://static.wixstatic.com/mp3/63c342_3f8a26fe1f1346a9a61afeed98c13698.mp3', defaultMode: 'continuous', defaultVol: 70 },
-      { id: 'ocean', name: 'Ocean', emoji: '🌊', file: 'https://static.wixstatic.com/mp3/63c342_94c72f487d2640aeaeeabb51a37afd78.mp3', defaultMode: 'continuous', defaultVol: 50 },
-      { id: 'fire', name: 'Fire', emoji: '🔥', file: 'https://static.wixstatic.com/mp3/63c342_459838dc42694707884c9c2716997399.mp3', defaultMode: 'continuous', defaultVol: 60 },
-      { id: 'chimes', name: 'Chimes', emoji: '🎐', file: 'https://static.wixstatic.com/mp3/63c342_0f2c64c7edaa4c8c828ecf5a19e9715f.mp3', defaultMode: 'interval', defaultVol: 45 },
-      { id: 'forest', name: 'Forest', emoji: '🌲', file: 'https://static.wixstatic.com/mp3/63c342_3441982b53204cd2b263b3104b2f7f74.mp3', defaultMode: 'continuous', defaultVol: 40 },
-      { id: 'thunder', name: 'Thunder', emoji: '⛈️', file: 'https://static.wixstatic.com/mp3/63c342_d8fa472bab394dccb723375c706a2db1.mp3', defaultMode: 'interval', defaultVol: 55 },
-      { id: 'birds', name: 'Birds', emoji: '🦜', file: 'https://static.wixstatic.com/mp3/63c342_76c56abbf44c4a9c9d67510a876bb408.mp3', defaultMode: 'interval', defaultVol: 35 }
+      {
+        id: 'rain',
+        name: 'Rain',
+        emoji: '🌧️',
+        file: 'https://static.wixstatic.com/mp3/63c342_3f8a26fe1f1346a9a61afeed98c13698.mp3',
+        defaultMode: 'continuous',
+        defaultVol: 70
+      },
+      {
+        id: 'ocean',
+        name: 'Ocean',
+        emoji: '🌊',
+        file: 'https://static.wixstatic.com/mp3/63c342_94c72f487d2640aeaeeabb51a37afd78.mp3',
+        defaultMode: 'continuous',
+        defaultVol: 50
+      },
+      {
+        id: 'fire',
+        name: 'Fire',
+        emoji: '🔥',
+        file: 'https://static.wixstatic.com/mp3/63c342_459838dc42694707884c9c2716997399.mp3',
+        defaultMode: 'continuous',
+        defaultVol: 60
+      },
+      {
+        id: 'chimes',
+        name: 'Chimes',
+        emoji: '🎐',
+        file: 'https://static.wixstatic.com/mp3/63c342_459838dc42694707884c9c2716997399.mp3',
+        defaultMode: 'interval',
+        defaultVol: 45
+      },
+      {
+        id: 'forest',
+        name: 'Forest',
+        emoji: '🌲',
+        file: 'https://static.wixstatic.com/mp3/63c342_3441982b53204cd2b263b3104b2f7f74.mp3',
+        defaultMode: 'continuous',
+        defaultVol: 40
+      },
+      {
+        id: 'thunder',
+        name: 'Thunder',
+        emoji: '⛈️',
+        file: 'https://static.wixstatic.com/mp3/63c342_d8fa472bab394dccb723375c706a2db1.mp3',
+        defaultMode: 'interval',
+        defaultVol: 55
+      },
+      {
+        id: 'birds',
+        name: 'Birds',
+        emoji: '🦜',
+        file: 'https://static.wixstatic.com/mp3/63c342_76c56abbf44c4a9c9d67510a876bb408.mp3',
+        defaultMode: 'interval',
+        defaultVol: 35
+      }
     ];
   }
 
@@ -31,7 +80,7 @@ export class SamplePlayer {
       this.masterGain.connect(this.audioCtx.destination);
       console.log('✓ Sample player audio context initialized');
     }
-    
+
     if (this.audioCtx.state === 'suspended') {
       await this.audioCtx.resume();
     }
@@ -47,31 +96,29 @@ export class SamplePlayer {
       mode: sampleDef.defaultMode,
       volume: sampleDef.defaultVol / 100,
       source: null,
-      gainNode: null,
-      buffer: null
+      gainNode: null
     };
     this.samples.set(sampleDef.id, sample);
   }
 
- async loadSamples() {
+  async loadSamples() {
     // Try to set up audio, but don't crash if the browser/Wix blocks it on page load
     try {
       await this.ensureAudioContext();
     } catch (e) {
       console.warn('Sample player AudioContext not allowed yet; will initialize on first play.', e);
     }
-    
-    // Only initialize samples if they haven't already been initialized
+
+    // ✅ Only initialize once so we don't overwrite samples the UI is using
     if (this.samples.size === 0) {
-    this.sampleDefs.forEach(def => this.initSample(def));
-  }
-    
+      this.sampleDefs.forEach(def => this.initSample(def));
+    }
+
     // If we still don't have an audioCtx (blocked), skip preloading.
-    // We'll lazy-load on first play().
     if (!this.audioCtx) {
       return;
     }
-    
+
     for (const def of this.sampleDefs) {
       try {
         await this.loadAudioFile(def.id, def.file);
@@ -84,38 +131,54 @@ export class SamplePlayer {
 
   async loadAudioFile(sampleId, filepath) {
     if (!this.audioCtx) return;
-    
-    try {
-      const response = await fetch(filepath);
-      const arrayBuffer = await response.arrayBuffer();
-      const audioBuffer = await this.audioCtx.decodeAudioData(arrayBuffer);
-      this.audioBuffers.set(sampleId, audioBuffer);
-      console.log(`✓ Loaded: ${filepath}`);
-    } catch (error) {
-      throw new Error(`Failed to load ${filepath}: ${error.message}`);
-    }
+
+    const response = await fetch(filepath);
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+
+    const arrayBuffer = await response.arrayBuffer();
+    const audioBuffer = await this.audioCtx.decodeAudioData(arrayBuffer);
+    this.audioBuffers.set(sampleId, audioBuffer);
+    console.log(`✓ Loaded: ${filepath}`);
   }
 
   createPlaceholderBuffer(sampleId) {
     if (!this.audioCtx) return;
-    const buffer = this.audioCtx.createBuffer(2, this.audioCtx.sampleRate * 2, this.audioCtx.sampleRate);
+    const buffer = this.audioCtx.createBuffer(
+      2,
+      this.audioCtx.sampleRate * 2,
+      this.audioCtx.sampleRate
+    );
     this.audioBuffers.set(sampleId, buffer);
   }
 
-    async play(sampleId) {
+  // 🔑 Make toggle async so UI can await it
+  async toggle(sampleId) {
+    const sample = this.samples.get(sampleId);
+    if (!sample) return false;
+
+    if (sample.isPlaying) {
+      this.stop(sampleId);
+      return false;
+    } else {
+      await this.play(sampleId);
+      return true;
+    }
+  }
+
+  async play(sampleId) {
     const sample = this.samples.get(sampleId);
     if (!sample || sample.isPlaying) return;
 
     // Make sure we have an AudioContext (now triggered by a user click)
     await this.ensureAudioContext();
 
-    // If no buffer loaded yet (likely on Wix), load it now
+    // Lazy-load if buffer not ready
     if (!this.audioBuffers.get(sampleId)) {
       try {
         await this.loadAudioFile(sampleId, sample.file);
       } catch (error) {
         console.error(`Could not load audio for ${sample.name}:`, error);
-        return; // Don't mark as playing if loading failed
+        return;
       }
     }
 
@@ -128,28 +191,27 @@ export class SamplePlayer {
     }
   }
 
-
   playContinuous(sampleId) {
     const sample = this.samples.get(sampleId);
-    
+
     if (!this.audioCtx || !this.masterGain) {
       console.error('Audio context not initialized');
       sample.isPlaying = false;
       return;
     }
-    
+
     this.stopSource(sampleId);
 
     sample.source = this.audioCtx.createBufferSource();
     sample.gainNode = this.audioCtx.createGain();
-    
+
     const buffer = this.audioBuffers.get(sampleId);
     if (!buffer) {
       console.error(`No audio buffer for ${sampleId}`);
       sample.isPlaying = false;
       return;
     }
-    
+
     sample.source.buffer = buffer;
     sample.source.loop = true;
     sample.gainNode.gain.setValueAtTime(sample.volume, this.audioCtx.currentTime);
@@ -168,27 +230,27 @@ export class SamplePlayer {
 
   playInterval(sampleId) {
     const sample = this.samples.get(sampleId);
-    
+
     const playOnce = () => {
       if (!sample.isPlaying) return;
-      
+
       if (!this.audioCtx || !this.masterGain) {
         console.error('Audio context not initialized');
         sample.isPlaying = false;
         return;
       }
-      
+
       this.stopSource(sampleId);
 
       sample.source = this.audioCtx.createBufferSource();
       sample.gainNode = this.audioCtx.createGain();
-      
+
       const buffer = this.audioBuffers.get(sampleId);
       if (!buffer) {
         console.error(`No audio buffer for ${sampleId}`);
         return;
       }
-      
+
       sample.source.buffer = buffer;
       sample.source.loop = false;
       sample.gainNode.gain.setValueAtTime(sample.volume, this.audioCtx.currentTime);
@@ -217,7 +279,7 @@ export class SamplePlayer {
 
     sample.isPlaying = false;
     this.stopSource(sampleId);
-    
+
     const timer = this.intervalTimers.get(sampleId);
     if (timer) {
       clearTimeout(timer);
@@ -241,25 +303,12 @@ export class SamplePlayer {
     }
   }
 
-  toggle(sampleId) {
-    const sample = this.samples.get(sampleId);
-    if (!sample) return false;
-
-    if (sample.isPlaying) {
-      this.stop(sampleId);
-      return false;
-    } else {
-      this.play(sampleId);
-      return true;
-    }
-  }
-
   toggleMode(sampleId) {
     const sample = this.samples.get(sampleId);
     if (!sample) return;
 
     const wasPlaying = sample.isPlaying;
-    
+
     if (wasPlaying) {
       this.stop(sampleId);
     }
@@ -280,7 +329,7 @@ export class SamplePlayer {
     sample.volume = volume / 100;
 
     if (sample.gainNode && this.audioCtx) {
-      sample.gainNode.gain.setTargetAtTime(
+      this.audioCtx && sample.gainNode.gain.setTargetAtTime(
         sample.volume,
         this.audioCtx.currentTime,
         0.05
@@ -298,12 +347,7 @@ export class SamplePlayer {
 
   stopAll() {
     this.samples.forEach((sample, id) => {
-      if (sample.isPlaying) {
-        this.stop(id);
-      }
+      if (sample.isPlaying) this.stop(id);
     });
   }
-
 }
-
-
