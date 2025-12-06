@@ -53,10 +53,22 @@ export class SamplePlayer {
     this.samples.set(sampleDef.id, sample);
   }
 
-  async loadSamples() {
-    await this.ensureAudioContext();
+ async loadSamples() {
+    // Try to set up audio, but don't crash if browser (or Wix) blocks it
+    try {
+      await this.ensureAudioContext();
+    } catch (e) {
+      console.warn('Sample player audio context not allowed yet; will initialize on first play.', e);
+    }
     
+    // Initialize sample metadata/UI state regardless of audio availability
     this.sampleDefs.forEach(def => this.initSample(def));
+    
+    // If audio context still isn't available (e.g., blocked until user gesture),
+    // just skip preloading. The first play() call will re-ensure the context.
+    if (!this.audioCtx) {
+      return;
+    }
     
     for (const def of this.sampleDefs) {
       try {
@@ -214,7 +226,7 @@ export class SamplePlayer {
     }
   }
 
- toggle(sampleId) {
+  toggle(sampleId) {
     const sample = this.samples.get(sampleId);
     if (!sample) return false;
 
@@ -278,4 +290,3 @@ export class SamplePlayer {
   }
 
 }
-
