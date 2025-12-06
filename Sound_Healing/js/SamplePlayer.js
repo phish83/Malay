@@ -14,13 +14,13 @@ export class SamplePlayer {
     
     // Sample definitions
     this.sampleDefs = [
-      { id: 'rain', name: 'Rain', emoji: '🌧️', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/rain.mp3', defaultMode: 'continuous', defaultVol: 70 },
-      { id: 'ocean', name: 'Ocean', emoji: '🌊', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/ocean.mp3', defaultMode: 'continuous', defaultVol: 50 },
-      { id: 'fire', name: 'Fire', emoji: '🔥', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/fire.mp3', defaultMode: 'continuous', defaultVol: 60 },
-      { id: 'chimes', name: 'Chimes', emoji: '🎐', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/chimes.mp3', defaultMode: 'interval', defaultVol: 45 },
-      { id: 'forest', name: 'Forest', emoji: '🌲', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/forest.mp3', defaultMode: 'continuous', defaultVol: 40 },
-      { id: 'thunder', name: 'Thunder', emoji: '⛈️', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/thunder.mp3', defaultMode: 'interval', defaultVol: 55 },
-      { id: 'birds', name: 'Birds', emoji: '🦜', file: 'https://raw.githubusercontent.com/phish83/Malay/main/Sound_Healing/samples/birds.mp3', defaultMode: 'interval', defaultVol: 35 }
+      { id: 'rain', name: 'Rain', emoji: '🌧️', file: 'https://static.wixstatic.com/mp3/63c342_3f8a26fe1f1346a9a61afeed98c13698.mp3', defaultMode: 'continuous', defaultVol: 70 },
+      { id: 'ocean', name: 'Ocean', emoji: '🌊', file: 'https://static.wixstatic.com/mp3/63c342_94c72f487d2640aeaeeabb51a37afd78.mp3', defaultMode: 'continuous', defaultVol: 50 },
+      { id: 'fire', name: 'Fire', emoji: '🔥', file: 'https://static.wixstatic.com/mp3/63c342_459838dc42694707884c9c2716997399.mp3', defaultMode: 'continuous', defaultVol: 60 },
+      { id: 'chimes', name: 'Chimes', emoji: '🎐', file: 'https://static.wixstatic.com/mp3/63c342_0f2c64c7edaa4c8c828ecf5a19e9715f.mp3', defaultMode: 'interval', defaultVol: 45 },
+      { id: 'forest', name: 'Forest', emoji: '🌲', file: 'https://static.wixstatic.com/mp3/63c342_3441982b53204cd2b263b3104b2f7f74.mp3', defaultMode: 'continuous', defaultVol: 40 },
+      { id: 'thunder', name: 'Thunder', emoji: '⛈️', file: 'https://static.wixstatic.com/mp3/63c342_d8fa472bab394dccb723375c706a2db1.mp3', defaultMode: 'interval', defaultVol: 55 },
+      { id: 'birds', name: 'Birds', emoji: '🦜', file: 'https://static.wixstatic.com/mp3/63c342_76c56abbf44c4a9c9d67510a876bb408.mp3', defaultMode: 'interval', defaultVol: 35 }
     ];
   }
 
@@ -305,4 +305,5 @@ export class SamplePlayer {
   }
 
 }
+
 
