@@ -358,6 +358,13 @@ document.addEventListener('DOMContentLoaded', ()=>{
     console.error('✗ Themes init failed:', e);
   }
   
+    try {
+    initSampleTabs();
+    console.log('✓ Sample tabs initialized');
+  } catch(e) {
+    console.error('✗ Sample tabs init failed:', e);
+  }
+
   try {
     setupAbout();
     console.log('✓ About modal initialized');
@@ -378,7 +385,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
   samplePlayer.loadSamples().then(() => {
     try {
       initSamplePlayerUI(samplePlayer);
-      initSampleTabs();
       console.log('✓ Sample player initialized');
     } catch(e) {
       console.error('✗ Sample player init failed:', e);
@@ -444,9 +450,6 @@ document.addEventListener('DOMContentLoaded', ()=>{
   console.log('✅ App initialization complete');
 
 });
-
-
-
 
 
 
